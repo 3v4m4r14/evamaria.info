@@ -1,31 +1,48 @@
 ---
-title: About Me
-subtitle: ""
-metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
-permalink: /about/index.html
+title: "About Eva"
+date: "2019-09-07T00:00:00.000Z"
+permalink: "/about/index.html"
 eleventyNavigation:
   key: About
   order: 1
 ---
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+[![](/assets/img/wordpress-import/pages/about-eva/IMG_20190613_115504-768x1024.jpeg)](https://evamaria.info/portfolio/fireflies/)
 
-### Why create this?
+> Loud. Opinionated. Never afraid to speak her mind.
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+###### Eva is great at:
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
+- Translating problems into **solutions**
 
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
+- Rapid **prototyping**
 
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
+- Doing **presentations** and pitches
 
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
+- Assessing **business** ideas
 
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
+- Asking **questions** others dare not ask
 
-![Fern in Hand](/assets/img/fern-forest.jpeg "Fern in Hand")
+* * *
+
+If you feel like your life is dull and your endeavours are not going anywhere, you definitely need an Eva in your life.
+
+Eva will not stay still even when you stuff her inside a bottle. She needs **constant stimuli and new challenges** every day. Eva works best on short-term projects or long-term projects that have periodically varying subtasks. If you are looking for someone to do the same routine job from day to day, an Eva is not for you.
+
+Same goes for sticking to the norm and following orders without **questioning the motives**. Eva will push you forward by making you think about what you actually want to achieve and why. She will not be afraid of opposing you when she does not agree with you. Her goal is not to block you from doing what you want to do. Quite the opposite. She will **support** you by starting a discussion, if necessary, to see whether there is a better course of action.
+
+Eva is extremely **resilient**. She is like a roly-poly toy - push her down and she will get back up again, wipe the dust off her clothes, and carry on with a new lesson learned. Some call it "_being in the zone_", some call it "_flow_", Eva calls it **pure stubbornness**. Once Eva has her mind set to something, she is capable of spending hours on making it work, forgetting all about basic necessities, such as food, liquid consumption, or toilet breaks.
+
+* * *
+
+#### Bonus skills:
+
+- Generating crazy ideas
+
+- Basic car repair
+
+- Dutch theatre sports and improvisational theatre
+
+- Consulting on intimate health and personal wellbeing
+
+[READ MORE](https://evamaria.info/personality/)
