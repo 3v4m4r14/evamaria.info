@@ -1,7 +1,7 @@
 ---
-title: "About Eva"
-date: "2019-09-07T00:00:00.000Z"
-permalink: "/about/index.html"
+title: About
+date: 2019-09-07
+permalink: /about-eva/index.html
 eleventyNavigation:
   key: About
   order: 1
@@ -33,16 +33,4 @@ Same goes for sticking to the norm and following orders without **questioning th
 
 Eva is extremely **resilient**. She is like a roly-poly toy - push her down and she will get back up again, wipe the dust off her clothes, and carry on with a new lesson learned. Some call it "_being in the zone_", some call it "_flow_", Eva calls it **pure stubbornness**. Once Eva has her mind set to something, she is capable of spending hours on making it work, forgetting all about basic necessities, such as food, liquid consumption, or toilet breaks.
 
-* * *
-
-#### Bonus skills:
-
-- Generating crazy ideas
-
-- Basic car repair
-
-- Dutch theatre sports and improvisational theatre
-
-- Consulting on intimate health and personal wellbeing
-
-[READ MORE](https://evamaria.info/personality/)
+[Read more](https://evamaria.info/personality/)
