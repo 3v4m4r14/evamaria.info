@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/a562dd4c-a170-4a8a-b3c1-229dc43037f6.jpg?fit=1600%2C1200&ssl=1
   media:
-    featuredImage: assets/a562dd4c-a170-4a8a-b3c1-229dc4-Wi21jKmpuvtq.jpg
+    featuredImage: /assets/img/a562dd4c-a170-4a8a-b3c1-229dc4-Wi21jKmpuvtq.jpg
   categories:
     - Opinion
   tags:
@@ -24,7 +24,7 @@ When Kasper invited me over to help with building stage decor and said that my t
 
 Outside school, I have mostly been lacking a strong father figure. All the “big boy skills” I have come from the teachings of my grandfather or my significant others. The former taught me how to ride an old RS09 tractor (_no idea how to start it, though_), and how to switch the blades of a lawn mower. The latter taught me how to change car wheels (_AND how to drive_), how to connect the wiring of LED-lights, and attach the covers of electrical outlets.
 
-![](assets/IMG_0937-lgRPEE9AxIlA.jpg)
+![](/assets/img/IMG_0937-lgRPEE9AxIlA.jpg)
 
 _Changing a car wheel_
 

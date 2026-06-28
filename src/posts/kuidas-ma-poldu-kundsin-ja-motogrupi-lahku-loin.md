@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2022/07/IMG_2562-scaled.jpg?fit=2560%2C1440&ssl=1
   media:
-    featuredImage: assets/IMG_2562-scaled-UEz61h8h9ZPS.jpg
+    featuredImage: /assets/img/IMG_2562-scaled-UEz61h8h9ZPS.jpg
   categories:
     - Random
   uuid: 11ty/import::wordpress::https://evamaria.info/?p=1349
@@ -35,13 +35,13 @@ Minu häda sai alguse siis, kui olime seltskonnaga matkajärgselt liikumas. Nema
 
 Päädis see kõik sellega, et üks kurv, mis ma arvasin kena kurv olevat, ei olnudki kurv – oli hoopis poolkurv. Tegelikult oli see ristmik ja kui minusugune algaja kalmaar sellest keset pööret aru sai, tegi mu kogenematu aju mingid ebanormaalsed kalkulatsioonid selle kohta, et mis oleks kui sealt oleks tegelikult hoopis auto tulnud. Mis sest, et silmapiiril polnud ühtki autot näha ja kui ratastega tädil till oleks, oleks ta omnibuss. Sellest piisas, et enesealalhoiuinstinkt käivitada ja tsikkel lollaka refleksi ajel kaldest välja lükata. Kõige hullem asi, mida rattur keset kurvi teha saab.
 
-![](assets/IMG_2564-scaled-wyCZ4zbCjKxh.jpg)
+![](/assets/img/IMG_2564-scaled-wyCZ4zbCjKxh.jpg)
 
 _Kurv, mis tegelikult oli ristmik ja mille keskel mu aju kokku jooksis._
 
 Seda, kuidas ma reaalselt teelt välja lendasin, oleks olnud tore hiljem kaamera pealt vaadata. Mäletan vaid, kuidas nägin kord taevast, siis maad, siis tsiklit, siis mulda ja olingi põllu peal lebamas, üks saabas natuke maad eespool ja suksu pire tagapool külili pikutamas. Tõenäoliselt kaevas esiratas end läbi Eurokraavi lennates pehmesse mulda kinni, viskas tagaotsa õhku ja nii me seal rattaga kahekesi uperpallitasime nagu vanaisa aluspüksid pesumasina trumlis. Kindlalt ei tea midagi, sest ma olin täiesti üksi ja kehavälist kogemust õnneks või kahjuks ei tekkinud.
 
-![](assets/IMG_2566-scaled-1QFBio3nxBwa.jpg)
+![](/assets/img/IMG_2566-scaled-1QFBio3nxBwa.jpg)
 
 _Minu küntud kartulivagu!_
 
@@ -53,9 +53,9 @@ Kui ma lõpuks kindlale pinnale sain, parkisin tsikli ja hindasin kahjusid. Tsik
 
 Peputasin veidi aega seal maas. Helistasin kallimale, kes sai loomulikult kreepsu, kuuldes, et ma kuskil teises Eesti otsas üksinda põldu künnan. Natuke energiat kogunud, proovisin oma tükid-jupid ratta peale kokku laduda ja sõitsin sõpradele järele. Saun oli hea ja sinikaid veel ei paistnud. Järgmisel päeval tuli peiks autoga minu juurde, tegime masinavahetust. Mina sõitsin autoga tagasi päälinna, tema läks minu ribadeks tsiklit putitama. Peiks on mul vahva asjapulk. Nagu naine teeb mitte millestki õhtusööki, tegi tema mu tsiklile praktiliselt õhust uue tagaotsa. Seal on mingit suvalist plasti, nipukaid, kuuma liimi… Eemalt vaadates ei saa arugi, et nii olema ei pea.
 
-![](assets/IMG_2573-mv95aHsjpEwZ.jpg)
+![](/assets/img/IMG_2573-mv95aHsjpEwZ.jpg)
 
-![](assets/IMG_2572-j3I2HHXsK4v4.jpg)
+![](/assets/img/IMG_2572-j3I2HHXsK4v4.jpg)
 
 ## Kuidas ma kohvikruusi pugesin
 

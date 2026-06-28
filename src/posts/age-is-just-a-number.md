@@ -1,7 +1,7 @@
 ---
 title: Age is just a number
 date: 2024-02-13T16:29:14.000Z
-featuredImage: assets/CA0154D9-B6AA-4A30-A7AA-986050-6J5AZc5aT4gz.jpeg
+featuredImage: /assets/img/CA0154D9-B6AA-4A30-A7AA-986050-6J5AZc5aT4gz.jpeg
 summary: "In the past couple of weeks, two people have considered me older than I am. Should I be offended?"
 permalink: "/posts/wordpress-age-is-just-a-number/index.html"
 categories:

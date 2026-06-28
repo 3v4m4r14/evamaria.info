@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2021/08/IMG_0746-scaled.jpg?fit=2560%2C1440&ssl=1
   media:
-    featuredImage: assets/IMG_0746-scaled-D01PzRxc888A.jpg
+    featuredImage: /assets/img/IMG_0746-scaled-D01PzRxc888A.jpg
   categories:
     - Random
     - Writing

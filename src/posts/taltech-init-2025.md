@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2025/03/Screenshot-2025-03-08-at-22.42.26.png?fit=2824%2C1588&ssl=1
   media:
-    featuredImage: assets/Screenshot-2025-03-08-at-22.42-Qukwfd3aft2k.png
+    featuredImage: /assets/img/Screenshot-2025-03-08-at-22.42-Qukwfd3aft2k.png
   categories:
     - Event
     - Opinion

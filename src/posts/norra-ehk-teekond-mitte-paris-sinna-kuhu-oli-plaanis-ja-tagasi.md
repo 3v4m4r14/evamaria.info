@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2023/09/IMG_5484-scaled.jpeg?fit=1920%2C2560&ssl=1
   media:
-    featuredImage: assets/IMG_5484-scaled-g0c0jT9gNJXC.jpeg
+    featuredImage: /assets/img/IMG_5484-scaled-g0c0jT9gNJXC.jpeg
   categories:
     - Travel
   tags:
@@ -25,13 +25,13 @@ Kui siin ilmas veel midagi kindlat on, siis see, et kui sul on matkaratas, pead 
 
 Otsus minna ühe rattaga sündis sellest, et [esiteks ei ole minul midagi passenger princess olemise vastu](https://evamaria.info/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/) – saab ringi vaadata ja rahulikult mõtteid mõlgutada. Teiseks andsid pooled minu mootorratta eluks vajalikud organid kevadel saba ja keegi polnud kindel, kui kaugel Eestist ta ära surra võib.
 
-![](assets/IMG_5484-scaled-Fy5eLY0Yxdgu.jpeg)
+![](/assets/img/IMG_5484-scaled-Fy5eLY0Yxdgu.jpeg)
 
-![](assets/IMG_2033-scaled-OfmtMY94ZhEm.jpg)
+![](/assets/img/IMG_2033-scaled-OfmtMY94ZhEm.jpg)
 
 * * *
 
-![](assets/IMG_5387-1-li9qL4sSwgEt.jpeg)
+![](/assets/img/IMG_5387-1-li9qL4sSwgEt.jpeg)
 
 ## 06.08.2023
 
@@ -52,15 +52,15 @@ Mina ei nõustu. Mina olin vasikavaimustuses Trollikoopast, mis oli tegelikult l
 Riido:  
 Maa alla minnes oli just paduvihma kallama hakanud, aga üles tagasi jõudes oli ilm jälle kuiv ja päikseline ja õhk väga lämbe. Kaevandus oli kulutanud üksjagu aega ja edasi sõitsime otse laevale.
 
-![](assets/IMG_0121-21mBk3EaLJGi.jpeg)
+![](/assets/img/IMG_0121-21mBk3EaLJGi.jpeg)
 
-![](assets/IMG_5443-gWWoG7rN8RmA.jpeg)
+![](/assets/img/IMG_5443-gWWoG7rN8RmA.jpeg)
 
-![](assets/IMG_5446-Lt7nXNWgwqtl.jpeg)
+![](/assets/img/IMG_5446-Lt7nXNWgwqtl.jpeg)
 
-![](assets/IMG_5450-LEZcfGLUcmGy.jpeg)
+![](/assets/img/IMG_5450-LEZcfGLUcmGy.jpeg)
 
-![](assets/IMG_5394-4i1mEZVvw5mJ.jpeg)
+![](/assets/img/IMG_5394-4i1mEZVvw5mJ.jpeg)
 
 * * *
 
@@ -71,21 +71,21 @@ Päev algas täitsa mõnusalt, kuigi vara. Laev oli Stockholmis umbes täpselt k
 
 Oslost läbi täna ei tahtnud minna, sest seal pool lubas ilmateade suurt sadu. Seega võtsime suuna Øyeren’i järve poole, kus Eva arvas leidvat telkimiskohti ja mina leidsin Bookingust mõistliku hinnaga majutuse ~70 euroga (sest kiskus suuremale vihmale ja erilist tahtmist telkida ei olnud – seda enam, et selja oli taga natuke alla 600 km).
 
-![](assets/IMG_2083-scaled-jiqc9xwFwKtF.jpeg)
+![](/assets/img/IMG_2083-scaled-jiqc9xwFwKtF.jpeg)
 
-![](assets/image010-RZkuWFHRDKGl.jpg)
+![](/assets/img/image010-RZkuWFHRDKGl.jpg)
 
-![](assets/IMG_2099-89MQN6RC9EOE.jpeg)
+![](/assets/img/IMG_2099-89MQN6RC9EOE.jpeg)
 
 Paraku sai kiirelt selgeks, et nagu Eestiski, on tublid inimesed kõikidele kaardi satelliitvaate järgi paljulubavatele telkimiskohtadele piirded ette paigaldanud ja nii tuli sobiva koha leidmiseks palju katteta kõrvalteid tulutult läbi sõita.
 
 Väsimus, vihm ja pidev võitlemine ratta püsti hoidmise nimel muutis tuju kehvemaks iga mööduva minutiga ja tuli vastu võtta otsus kergendada kukrut ja kasutada Bookingu teenuseid. Asi lihtne ja kiire, kontolt eemaldati vastav summa ja peatselt saabus sõnum võõrustajalt, mis viitas sellele, et ilmselt on broneeringut nähtud ja öömaja olemas.
 
-![](assets/image012-hyEVbPdlax5h.jpg)
+![](/assets/img/image012-hyEVbPdlax5h.jpg)
 
 Kohale jõudes võttis meid vastu ehmunud perenaine, kelle ainsas pakutavas toas olid juba rännumehed see, ja oli segaduses, kuidas Booking tegi topeltbroneeringu. Samas, broneeringut tühistada ei saanud ei meie ega nemad ja raha tagasi saamiseks tuli pidada pikk ja ebameeldiv vestlus Booking.com tehnilise abiga, kes tundus üleüldiselt kergelt juhm olema. Lõpuks asi siiski lahenes ja sekunditega arvelt elimineeritud summa lubati tagastada kiire 7-10 tööpäeva jooksul. Lahkelt oldi nõus meile veelgi asju broneerima. (-.-)
 
-<video controls="" src="assets/IMG_2096-YRI2wkM5okYM.mov"></video>
+<video controls="" src="/assets/img/IMG_2096-YRI2wkM5okYM.mov"></video>
 
 Kogu selle jama kestel oli korralikku padukat tulema hakanud ja nüüd tuli taas võtta ette tee 14 km kaugusele karjamaa nurka, kus oli Eva sõnul hädapärane koht telgi püstitamiseks. Tee peale jäi üsna kallihinnaline karavaniparkla/kämpingu-/telkimisplats, aga olles juba Bookingule 0-intressiga laenu andnud, ei kippunud rahakotirauad kohe kuidagi sarnast summat mugavusteta rõske majakese eest maksma. Eriti, kuna pesemine ja iga teine hingetõmme oli seal lisatasu eest. Sõitsime siis paduvihmas paar kilomeetrit eemale telki püstitama. Siiski, kohale jõudes olime nii läbi vettinud, et otsustasime selle kehvakese kämpingu eest maksta ja siin oma riideid kuivatada. Säilib lootus, et homme on kuivem ilm ja saame ikka rõõmsalt telkida.
 
@@ -101,7 +101,7 @@ _Hiljem rääkis sugulane, et neil oli omal ajal tantsugrupiga sarnases kämping
 Riido:  
 Ärkasime 8:30 paiku. Kämpingu targalt lahendatud ja ruumisäästliku köögi kraanikauss-pissuaaril kiiremad hädad lahendatud, hakkasime jälle asju vaikselt rattale pakkima, mis ei olnud paduvihmas just meeldivaim tegevus. Samuti tuli välja, et paagikoti veekindlus on küsitav ja kogu elektroonika oli läbi vettinud. Õnneks GoProd peaks olema enam-vähem veekindlad, ratta dokumendid natukene vähem.
 
-![](assets/IMG_5515-v1VKAfSHQuT9.jpeg)
+![](/assets/img/IMG_5515-v1VKAfSHQuT9.jpeg)
 
 _Eva:  
 TMI warning! Kuna kämpingu vetsud asusid pisikese jalutuskäigu kaugusel meie majakesest ja ma ei soovinud oma öise pissihädaga seda matka ette võtta, sai mu bucket listist maha tõmmatud ka kraanikaussi pissimine. Meestel on see kindlasti palju lihtsam, aga sain ka mina hakkama!_
@@ -109,7 +109,7 @@ TMI warning! Kuna kämpingu vetsud asusid pisikese jalutuskäigu kaugusel meie m
 Riido:  
 Võtsime esialgse suuna lõuna poole, kuna seal ei sadanud nii palju ja plaan oli sõita ümber Oslo. Teed on pikad ja venivad, möödumise variante tekib harva ja kohalikel on kombeks hoida kiirust keskmiselt 20km/h madalamal lubatust. Kui algselt oli plaan sõita Norra idarannikult otse läänerannikule ühe päevaga, siis sellise tempoga see kahjuks ei õnnestunud ja võtsime öömaja umbes poolel teel Bergenisse. Sõita oleks jaksanud ilmselt rohkemgi, aga kuna ilm on endiselt märg ja vesi leiab oma tee ka ratta kohvritesse, siis leidsime öömaja ühes farmis, et kamina ees soojeneda ja oma pagas ära kuivatada.
 
-![](assets/image016-5sn69qKbBu2n.jpg)
+![](/assets/img/image016-5sn69qKbBu2n.jpg)
 
 Maastik on siin keskel juba väga maaliline, kõrged mäed vahelduvad sügavate orgudega, kus asuvad keskmise suurusega külakesed.
 
@@ -120,21 +120,21 @@ Temperatuur langes 13 kraadini ehk selline korralik eesti sügisilm.
 _Eva:  
 Väidetavalt on tegemist viimase 25 aasta suurima vihmaperioodiga._ _Õnneks sai Rootsist korralik vihmajope peale ostetud, nii et sõites pole minul suurt häda midagi, aga vihma käes paigal seistes on küll üsna nukker._
 
-![](assets/IMG_0343-cenpKcGQZPHN.jpg)
+![](/assets/img/IMG_0343-cenpKcGQZPHN.jpg)
 
-![](assets/IMG_5534-D4lwpl3E2j4k.jpg)
+![](/assets/img/IMG_5534-D4lwpl3E2j4k.jpg)
 
-![](assets/IMG_0291-xchTEjlXJ28X.jpg)
+![](/assets/img/IMG_0291-xchTEjlXJ28X.jpg)
 
-![](assets/IMG_0283-355eFBzDpR41.jpg)
+![](/assets/img/IMG_0283-355eFBzDpR41.jpg)
 
-![](assets/IMG_0084-scaled-i59pjGEHgQCi.jpeg)
+![](/assets/img/IMG_0084-scaled-i59pjGEHgQCi.jpeg)
 
-![](assets/IMG_0227-RC8CDUxQCtWE.jpg)
+![](/assets/img/IMG_0227-RC8CDUxQCtWE.jpg)
 
 * * *
 
-<video controls="" src="assets/IMG_2114-6FgFZwcz3qbs.mov"></video>
+<video controls="" src="/assets/img/IMG_2114-6FgFZwcz3qbs.mov"></video>
 
 ## 09.08.2023
 
@@ -150,25 +150,25 @@ Viimases hädas leidsime elektriliini all kehvakese koha.
 _Eva:  
 Riido ütleb kehvake, mina ütlen suurepärane! Otse kõrval oli suur mustikamets, kus mina vihma käes vettides kahe käega marju vitsutasin. Need metsmustikad olid suured, kultuurmustika mõõtu, aga üsna maitsetud nagu mustikad ikka. Lisaks oli metsaalune täis küpseid metsvaarikaid. Veidi eemal oli kaks pisikest juga, kus saime end jäise veega pesta. Mida elult veel tahta?_
 
-![](assets/IMG_0308-vegv0sZsVexT.jpg)
+![](/assets/img/IMG_0308-vegv0sZsVexT.jpg)
 
-![](assets/IMG_0226-OWfcxASy4nLp.jpg)
+![](/assets/img/IMG_0226-OWfcxASy4nLp.jpg)
 
-![](assets/IMG_0109-DRs0jIzq5WN7.jpg)
+![](/assets/img/IMG_0109-DRs0jIzq5WN7.jpg)
 
-![](assets/IMG_0163-I5DXlaj0RfKS.jpg)
+![](/assets/img/IMG_0163-I5DXlaj0RfKS.jpg)
 
-![](assets/IMG_0305-4g4yWEOeULAV.jpg)
+![](/assets/img/IMG_0305-4g4yWEOeULAV.jpg)
 
-![](assets/IMG_0200-B4JSmTP8CZgY.jpg)
+![](/assets/img/IMG_0200-B4JSmTP8CZgY.jpg)
 
-![](assets/IMG_0096-0Mls6FqiemXS.jpg)
+![](/assets/img/IMG_0096-0Mls6FqiemXS.jpg)
 
-![](assets/IMG_0150-5n2yCSFV8qOn.jpg)
+![](/assets/img/IMG_0150-5n2yCSFV8qOn.jpg)
 
 * * *
 
-![](assets/IMG_0127-ktjUbvN7Lm6S.jpg)
+![](/assets/img/IMG_0127-ktjUbvN7Lm6S.jpg)
 
 ## 10.08.2023
 
@@ -181,7 +181,7 @@ Kuna vihm oli vahepeal järgi jäänud, hakkasin vaikselt Evat äratama, et asja
 
 Lõpuks, läbimärg ja minekuvalmis, panin ratta tööle. See hakkas kohe karjuma ja viskas ette kurjakuulutava punase veateate. Tuli välja, et ööga on tagarehvist üks bar jooksu pannud. Täislastis ja kolmandik nominaalrõhust allpool oli kurvilisel teel sõita nagu tühja rehviga, seega mäest alla jõudes tegin esimesel võimalusel peatuse, et rehvi pumbata.
 
-![](assets/IMG_0338-J89YjdVeLqET.jpg)
+![](/assets/img/IMG_0338-J89YjdVeLqET.jpg)
 
 Miskipärast on see ratas ka herilaste lemmik ja rehvi pumbates üks selline ka ligi astus ja lausa nii ligi, et püksisäärest sisse ja sutsti jalga. Eelnevalt olen vist ainult kaks korda herilaselt nõelata saanud: esimene kord suhkrukringli intsidendis ja teine kord kunagi Saaremaal rõdul ja otse silma alla. Siis paistetas silm üsna kinni, seekord see koht natuke tuikas ja sügeleb kergelt praegugi, aga ei midagi erilist.
 
@@ -209,21 +209,21 @@ Fjordide peal sõites saad aru, kui vähesed on tegelikult ratta juhtimise oskus
 
 Õhtul külastasime esimest korda ka kohalikku alkoholipoodi. Kõige odavam kange märjuke on 23 eurot ja ilmselt on see midagi süütevedeliku sarnast. Leidsin ka motomeeste gini, mida enne Norrast lahkumist kaasa osta. Ei tea, kas see ka juua passib, aga see maksab eurodes 60 raha, mis Eestis on kvaliteetalkoholi hind. Siin kardan, et mitte 🫣
 
-![](assets/IMG_2139-scaled-urTPtEg2EcUz.jpg)
+![](/assets/img/IMG_2139-scaled-urTPtEg2EcUz.jpg)
 
-![](assets/IMG_0168-UXZmgJ1RaWx9.jpg)
+![](/assets/img/IMG_0168-UXZmgJ1RaWx9.jpg)
 
 * * *
 
-![](assets/IMG_0348-p99CMV7bysPq.jpg)
+![](/assets/img/IMG_0348-p99CMV7bysPq.jpg)
 
-![](assets/IMG_0204-c7onaMQB7xC7.jpg)
+![](/assets/img/IMG_0204-c7onaMQB7xC7.jpg)
 
-![](assets/IMG_0350-YrcQahqBYVDh.jpg)
+![](/assets/img/IMG_0350-YrcQahqBYVDh.jpg)
 
-![](assets/IMG_0329-0zSKq6d0gSDX.jpg)
+![](/assets/img/IMG_0329-0zSKq6d0gSDX.jpg)
 
-![](assets/image060-vVmFB2tIywEJ.jpg)
+![](/assets/img/image060-vVmFB2tIywEJ.jpg)
 
 ## 11.08.2023
 
@@ -236,11 +236,11 @@ Tee viis rannamaanteed pidi lõunasse ja kõrged mäed asendusid madala kivise p
 
 Sõitsime Stavangerist alla Egersundi poole mõõda ookeaniäärt. Maanteed on valdavalt kaherajalised –  mõlemas suunas üks rada ja piire keskel ja norrakad seal peal nagu väikesed teod. Kuna mõõda ei saa, siis tiksume kõik 60 km/h.
 
-![](assets/IMG_0147-R2pbEIVCWdNP.jpg)
+![](/assets/img/IMG_0147-R2pbEIVCWdNP.jpg)
 
-![](assets/IMG_0120-ft7QJAdaPo6p.jpg)
+![](/assets/img/IMG_0120-ft7QJAdaPo6p.jpg)
 
-![](assets/IMG_0240-wNZ2bdzXTegQ.jpg)
+![](/assets/img/IMG_0240-wNZ2bdzXTegQ.jpg)
 
 Egersundist võtsime suuna uuesti sisemaale ja hakkasime telkimisplatsi otsima. Kuna maa on tasasem, siis võiks ju olla lihtne, aga siiski mitte, sest päris maantee kõrvale niinimetatud SOS-teelaiendisse ei taha ja rohumaad on pika sajuperioodi tõttu veest nõretavad. Sisemaa poole liikudes hakkavad ka mäed uuesti kasvama.
 
@@ -248,24 +248,24 @@ Pärast mõõdukalt pikka otsimist leidsime suurepärase koha, mis maanteest paa
 
 Mäest üles viis kivine rada, mida mööda Eva soovis matkama minna, aga kümne meetri pärast hakkas paistma maja. Tuli välja, et parkisime oma telgi kellegi hoovi. Varem tee ääres silma hakanud ümber kukkunud silt viitas sellele, et maja oli müügis, seega tegime potentsiaalsete ostjate näod pähe ja läksime edasi uudistama. Küllaltki kehvas seisus paistis see maja väljast, ilmselt juba pikalt müügis olnud, aga hind 2 000 000 kohalikku raha (u 200 000 eurot).
 
-![](assets/image066-84w7ZjyU9vns.jpg)
+![](/assets/img/image066-84w7ZjyU9vns.jpg)
 
-![](assets/image068-24bAyiLPBdqW.jpg)
+![](/assets/img/image068-24bAyiLPBdqW.jpg)
 
 Jalutasime veel hetke siin-seal ja tagasi jõudes avastasime telgi ümbert kutsumata külalised kihulased, seega pugesime kõvasti kätega vehkides ruttu telki. Sõime Eva poolt hommikul kaasa pakitud võileibu ja läksime magama.
 
 _Eva:  
 Vaatasin veel tükk aega läbi telgiukse võrgu kihulastega tõtt, et kas raiped mahuvad aukudest läbi või mitte. Tundus, et pigem mitte. Seegi hea. Kui kaameravalve silt poleks meid ära ehmatanud, oleks võinud telgi maja terrassile varju alla tuua. Siis poleks olnud muret, isegi kui öösel sadama hakkab._ _Täna öösel panime kotid kokku ehk ühendasime magamiskottide lukud omavahel. Minul oli lõpuks ometi nii mõnus soe ja palju ruumi jalgu sirutada, aga Riido kurtis palavuse üle._
 
-![](assets/IMG_0111-chlg9S45Zhb0.jpg)
+![](/assets/img/IMG_0111-chlg9S45Zhb0.jpg)
 
-![](assets/IMG_0134-t9e7bmRnGFUy.jpg)
+![](/assets/img/IMG_0134-t9e7bmRnGFUy.jpg)
 
-![](assets/IMG_0246-lSxwehKPjwwP.jpg)
+![](/assets/img/IMG_0246-lSxwehKPjwwP.jpg)
 
 * * *
 
-![](assets/IMG_0213-us5FJCLslxRu.jpg)
+![](ass/assets/imgets/IMG_0213-us5FJCLslxRu.jpg)
 
 ## 12.08.2023
 
@@ -279,7 +279,7 @@ Edasi sisemaale sõites ja vesiklosetti otsides leidsime mõnusa järveäärse p
 _Eva:  
 Mina veidi kahtsen, et me eelmisel õhtul nii kaugele ei jõudnud. See oleks olnud imeline koht ööbimiseks. Panin tuleviku tarbeks igatahes kaardile märke – juhuks, kui kunagi tagasi satub._
 
-![](assets/IMG_0344-AFG1jVfX2c7n.jpg)
+![](/assets/img/IMG_0344-AFG1jVfX2c7n.jpg)
 
 Riido:  
 Edasine päev mõõdus sõites, et jõuda suvituspealinna Kristiansandi. Kohale jõudes tuli meelde, et meile linnad ei meeldi, ja liikusime kohe edasi 🙂 Peakohal hakkasid tekkima vihmapilved ja läksime varju ühte kaubanduskeskusesse, et korra istuda ja öömaja planeerida. Istudes kogesin ka oma elu esimest maavärinat, olgugi et väga väikest (epitsenter oli kaugel Rootsis ja ilmselt mingi pisike võnkumine levis ka Norra).
@@ -300,7 +300,7 @@ Sa ikka tead, et ma saadan selle teksti ka oma emale?_
 Riido:  
 Hiline äratus, check out kell 11. Kuivama laotatud telk kokku ja minekut. Ees ootas täispikk sõidupäev, plaanis üle 500 km Stockholmi külje alla ja kui ilm hoiab, siis telkima. Sõitsime kuni jaksasime istuda, siis väike paus tee peale jäänud tanklas ja edasi. Tagumine rehv on ikka kahtlane ja õhk kipub välja lipsama, aeg-ajalt peab seda pumpama tee ääres.
 
-![](assets/IMG_5662-v7SBtLbd1egI.jpg)
+![](/assets/img/IMG_5662-v7SBtLbd1egI.jpg)
 
 _Eva:  
 Ei mõista, kuidas Riido nii palju järjest uhada jaksab. Minul surevad jalad ära ja selg läheb valusaks ja tahaks ammu juba pausi.Sõidu ajal sirutada ka hästi ei saa._
@@ -313,9 +313,9 @@ Telgist välja tulles ehmatas ukse ees pisike grupp näljaseid röövlinde, hamb
 _Eva:  
 Naljakas, et Norra reisi kõige idüllilisem õhtu oli Rootsis. Seal oli tõesti kaunis. Ilm oli soe, koht oli rahulik, putukaid ei olnud. Käisin isegi koos partidega ujumas._
 
-<video height="1080" style="aspect-ratio: 1920 / 1080;" width="1920" controls="" src="assets/IMG_2142-sP0JeLchrAdb.mov"></video>
+<video height="1080" style="aspect-ratio: 1920 / 1080;" width="1920" controls="" src="/assets/img/IMG_2142-sP0JeLchrAdb.mov"></video>
 
-<video height="720" style="aspect-ratio: 1280 / 720;" width="1280" controls="" src="assets/IMG_5660-OXAwP8K7RWIJ.mp4"></video>
+<video height="720" style="aspect-ratio: 1280 / 720;" width="1280" controls="" src="/assets/img/IMG_5660-OXAwP8K7RWIJ.mp4"></video>
 
 * * *
 
@@ -335,15 +335,15 @@ _Igatahes oli sel korral tegemist Silja laevaga, mida Riido algselt mulle näida
 
 _Mina olin tegelikult äärmiselt pettunud, sest eelmisel õhtul kajutit broneerides oli üks variantidest aknaga Muumi-teemaline kajut, aga kuna Riido pidas õhtusöögi valmistamist Muumi-kajutist olulisemaks ega öelnud mulle oma Club One’i koodi, siis hiljem seda enam saadaval ei olnud. Tegelikult olin ise süüdi, sest mul polnud broneerimiseks Riido Club One’i koodi isegi vaja – mõtlesin lihtsalt, et olen hea inimene ja lasen tal punkte koguda. Järgmine kord tuleb eelkõige iseendale ja Muumidele mõelda._
 
-![](assets/IMG_0361-E9sqNaXc0JBm.jpg)
+![](/assets/img/IMG_0361-E9sqNaXc0JBm.jpg)
 
-![](assets/IMG_0360-00TnB60Sehnm.jpg)
+![](/assets/img/IMG_0360-00TnB60Sehnm.jpg)
 
 * * *
 
-![](assets/IMG_0354-GI2I56T8uMNZ.jpg)
+![](/assets/img/IMG_0354-GI2I56T8uMNZ.jpg)
 
-![](assets/IMG_0358-4QtrIxZQfyk1.jpg)
+![](/assets/img/IMG_0358-4QtrIxZQfyk1.jpg)
 
 ## 15.08.2023
 

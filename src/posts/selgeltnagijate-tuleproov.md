@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2021/01/C554EDFE-F4C8-4F3B-84C1-FBBA5C14BAC8_1_201_a-scaled.jpeg?fit=2560%2C1920&ssl=1
   media:
-    featuredImage: assets/C554EDFE-F4C8-4F3B-84C1-FBBA5C-t1GARjwscAGe.jpeg
+    featuredImage: /assets/img/C554EDFE-F4C8-4F3B-84C1-FBBA5C-t1GARjwscAGe.jpeg
   categories:
     - Animals
     - Random
@@ -31,6 +31,6 @@ Umbes samal hetkel osutus üks rott hoopis nooreks puna-valgekirjuks kassiks nin
 
 Muidu oleks see unenägu võinud jäädagi üheks paljudest värvikirevatest alateadvuse vingerpussidest mu elus, aga saatuse tahtel kaevas koer hommikuse jalutuskäigu ajal meie kortermaja kõrval oleva põõsa alt välja külmunud roti laiba. Ilmselgelt on ainuõige järeldus see, et ma näen unenäos tulevikku ja peaksin end edaspidi nimetama selgeltnägijaks.
 
-![](assets/C554EDFE-F4C8-4F3B-84C1-FBBA5C-M722MjqMVWgA.jpeg)
+![](/assets/img/C554EDFE-F4C8-4F3B-84C1-FBBA5C-M722MjqMVWgA.jpeg)
 
 _Põõsa alt välja kaevatud rotiraibe_

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/03/CTI_PHOTO_2-1-scaled.jpeg?fit=2560%2C1920&ssl=1
   media:
-    featuredImage: assets/CTI_PHOTO_2-1-scaled-0rXdEnvCfCep.jpeg
+    featuredImage: /assets/img/CTI_PHOTO_2-1-scaled-0rXdEnvCfCep.jpeg
   categories:
     - Event
   tags:
@@ -34,7 +34,7 @@ This process comes naturally to all of us. “Design thinking” is just a fancy
 
 Ideas should be pulled out of the head, put onto the paper, and into a prototype as fast as possible. It does not have to be a high fidelity prototype. It can be something as simple as a storyboard or a clay model. The prototype can also be just a part of a bigger whole, a component of the system if such decomposition is possible.
 
-![](assets/CTI_EXERCISES-49nHGq0WGxfv.jpeg)
+![](/assets/img/CTI_EXERCISES-49nHGq0WGxfv.jpeg)
 
 The idea behind this is to have something tangible to get feedback on. Based on this feedback one can discover design flaws, improve, change, adapt, refine, and iterate.
 
@@ -66,7 +66,7 @@ Having goals creates too much pressure to perform which, in turn, hinders creati
 
 Instead, one needs an incubator. Ideas and solutions need time to incubate. They need time to evolve naturally, to either turn into beautiful peacocks or to rot away. Either path is fine. As there are no goals, succeeding is also virtually unimportant. Yes, it is great if our idea lives and becomes successful, but if it doesn’t, we ought not to beat ourselves up about it, but simply move on to another idea in our incubator.
 
-![](assets/IMG_2632-scaled-8mAj7qMUjjBg.jpeg)
+![](/assets/img/IMG_2632-scaled-8mAj7qMUjjBg.jpeg)
 
 Fear of failure is one of the biggest obstacles for innovation. Some ways to create a positive culture that supports innovation are:
 
@@ -87,7 +87,7 @@ According to research done by the authors [Jeffrey Dyer, Hal Gregersen, and Clay
 
 **Networking**. They have a huge list of people they know who might be useful in one situation or another. They get these contacts from attending events and connecting with people. They avidly use these connections for their own profit. I am an introvert by nature, but I have no difficulties with socialising at networking events once I get over the fact that it is simply so tiresome. I always feel drained after such events. And I never quite know what to do with all these contacts. Mostly because I tend to forget who I met, where and why, and how they might be useful to me. Maybe I should start taking notes whenever I meet someone.
 
-![](assets/CTI_PHOTO_2-1-scaled-877mgkeOGG2f.jpeg)
+![](/assets/img/CTI_PHOTO_2-1-scaled-877mgkeOGG2f.jpeg)
 
 **Associating**. They connect the dots. They put together puzzles. They take one thing from one domain and connect it to a completely other domain. I am not sure how to assess myself in this skill. I want to say that I am good and can think outside of the box. One recent example is maybe my idea of connecting student drivers with recycling stations or package delivery services. I think that one is actually a nice example of combinational thinking.
 
@@ -99,7 +99,7 @@ We learned more about each other by telling about objects that capture our creat
 
 We made tinfoil hats in ten minutes to learn about the importance of asking the right questions and getting to know your customer. Dare I say that we might have somewhat failed with that task as we did not focus on why or where our customer would want to wear the hat, but more about what our customer’s hobbies are, and built our hat design around that information.
 
-![](assets/IMG_2631-scaled-9xBLk3bt6xKq.jpeg)
+![](/assets/img/IMG_2631-scaled-9xBLk3bt6xKq.jpeg)
 
 We drew paintings in pairs without talking to each other to learn more about ambiguity and not knowing what others are up to. Each of us had a pen and added things to the picture, building on what was already there. This felt a lot like an improv game where you build upon other’s ideas and define them further. Our drawing turned out beautiful.
 
@@ -107,6 +107,6 @@ We built towers out of spaghetti, tape, string, and marshmallows to realise that
 
 We had a fun exercise on combinational thinking. We read news and combined them to build a funky problem space. We then came up with funny and amusing solutions to these weird problems. Ours was a mix of an article about the Irish police officers being accused of drinking while on duty and an article about how a wine truck that spilt in Italy caused the taps to release wine instead of water. Based on that, our problem came out to be that police officers cannot enjoy alcohol while on duty. Our solution was Wine-Not – a filter for taps that makes water taste like wine, so the police force can still enjoy the taste of alcoholic beverages.
 
-![](assets/IMG_2635-scaled-u5GKOSAnaqwY.jpeg)
+![](/assets/img/IMG_2635-scaled-u5GKOSAnaqwY.jpeg)
 
 With such a practical approach, we definitely had a lot of fun and, hopefully, will remember the topics better.

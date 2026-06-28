@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_0335-scaled.jpeg?fit=2560%2C1920&ssl=1
   media:
-    featuredImage: assets/IMG_0335-scaled-1jOMAB9cMzOK.jpeg
+    featuredImage: /assets/img/IMG_0335-scaled-1jOMAB9cMzOK.jpeg
   categories:
     - MBSR
     - Mind

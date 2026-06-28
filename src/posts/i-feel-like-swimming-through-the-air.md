@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_2387-scaled.jpeg?fit=2560%2C1440&ssl=1
   media:
-    featuredImage: assets/IMG_2387-scaled-TSocobs7emzr.jpeg
+    featuredImage: /assets/img/IMG_2387-scaled-TSocobs7emzr.jpeg
   categories:
     - Self
   tags:
@@ -39,7 +39,7 @@ Next, we practised leaning and falling in a circle. One of us would stand in the
 
 Once everyone had been “pushed around” in the circle, we did some individual exercises and then paired up again, exploring rolling and sliding. One person acted as a support, like a relatively volatile rock or a mountain, while the other tried to find pathways for moving around said rock. The supporter had to constantly shift their position and posture to ensure that the partner had enough surface to move and enough possibilities to sink their weight into the supporting person. It was certainly interesting and rather difficult. When rolling and sliding, I felt like I was getting stuck, repeating the same movements over and over again, not being able to find alternative pathways without feeling unnatural, losing my balance and collapsing into the floor like a sad pile of wet laundry.
 
-![](assets/IMG_2384-scaled-pSoINcsptuTS.jpeg)
+![](/assets/img/IMG_2384-scaled-pSoINcsptuTS.jpeg)
 
 Throughout the session, I enjoyed the role of support more. I could simply make sure my body was underneath someone else’s and push upwards, trying to lift them up from the ground. I felt like I had more purpose than simply sliding around all over the place.
 

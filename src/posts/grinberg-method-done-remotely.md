@@ -2,27 +2,20 @@
 title: Grinberg method. Done remotely.
 authors: []
 date: 2020-03-28T17:08:49.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/03/IMG_3003-scaled.jpeg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: assets/IMG_3003-scaled-gpMKRQ5pg6St.jpeg
-  categories:
-    - Self
-  tags:
-    - body
-    - feeling
-    - guilt
-    - mind
-    - online
-    - research
-    - stress
-    - thesis
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=633
-  type: wordpress
-  url: https://evamaria.info/grinberg-method-done-remotely/
+featuredImage: /assets/img/IMG_3003-scaled-gpMKRQ5pg6St.jpeg
+summary: "I saw a post on Reddit the other day where a Grinberg practitioner was looking for volunteers who could help him try out an online session. Of course, I signed up."
+categories:
+  - Self
 tags:
-  - self
+  - body
+  - feeling
+  - guilt
+  - mind
+  - online
+  - research
+  - stress
+  - thesis
+permalink: "/posts/wordpress-grinberg-method-done-remotely/index.html"
 ---
 I saw a post on Reddit the other day where a Grinberg practitioner was looking for volunteers who could help him try out an online session. Of course, I signed up.
 
@@ -42,7 +35,7 @@ The most apparent feeling was the tightness in my abs. They were clenched and it
 
 My shoulders were even more crowded with feelings. They were heavy. It felt like my shoulders were being pressed down as if I was holding heavy grocery bags on each arm. At the same time, it also felt like I was lifting my shoulders upwards instead of letting them hang loose. The most prominent feeling was the one you get when someone grabs you from your arms with their hands and squeezes both of your shoulders, shaking your whole body as if to say “Are you an idiot?!”.
 
-![](assets/image-IW5yfrVjOJ7a.jpeg)
+![](/assets/img/image-IW5yfrVjOJ7a.jpeg)
 
 _The “Are you an idiot?!” sensation I had in my shoulders._
 

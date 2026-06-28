@@ -2,7 +2,7 @@
 title: Are Familiar Strangers Becoming an Endangered Species?
 authors: []
 date: 2019-11-03T17:31:54.000Z
-featuredImage: assets/IMG_0519-0uUa43X4YXlW.jpeg
+featuredImage: /assets/img/IMG_0519-0uUa43X4YXlW.jpeg
 summary: "According to the paper \"_The Familiar Stranger: Anxiety, Comfort, and Play in Public Spaces_\" by Eric Paulos and Elizabeth Goodman \\[1\\], Familiar Strangers are people we regula..."
 categories:
   - Opinion

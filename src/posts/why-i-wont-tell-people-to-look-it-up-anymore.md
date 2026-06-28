@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/pexels-photo-221164.jpeg?fit=3375%2C2250&ssl=1
   media:
-    featuredImage: assets/pexels-photo-221164-HPwaCg2dTwpV.jpeg
+    featuredImage: /assets/img/pexels-photo-221164-HPwaCg2dTwpV.jpeg
   categories:
     - Opinion
   tags:

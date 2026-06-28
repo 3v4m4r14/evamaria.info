@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/rain-vid.gif?fit=640%2C360&ssl=1
   media:
-    featuredImage: assets/rain-vid-2hqx7kO2bzFu.gif
+    featuredImage: /assets/img/rain-vid-2hqx7kO2bzFu.gif
   categories:
     - MBSR
     - Self

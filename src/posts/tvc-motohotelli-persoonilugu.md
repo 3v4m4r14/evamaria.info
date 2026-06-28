@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2025/06/IMG_7741-scaled.jpg?fit=1920%2C2560&ssl=1
   media:
-    featuredImage: assets/IMG_7741-scaled-N4mzov1QcZim.jpg
+    featuredImage: /assets/img/IMG_7741-scaled-N4mzov1QcZim.jpg
   categories:
     - Mind
     - Self

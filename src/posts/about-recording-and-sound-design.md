@@ -1,7 +1,7 @@
 ---
 title: About Recording And Sound Design
 date: 2019-04-12T11:05:44.000Z
-featuredImage: assets/55752545_529367050926329_40269-acWiYNrUOJWA.png
+featuredImage: /assets/img/55752545_529367050926329_40269-acWiYNrUOJWA.png
 summary: "Getting to the end result of an audio design project is no piece of cake."
 permalink: "/posts/wordpress-about-recording-and-sound-design/index.html"
 categories:
@@ -41,7 +41,7 @@ Sometimes you end up sitting on your floor with a pot filled with water and an e
 
 Sometimes you fake the wind and insect sounds with your mouth or by waving a paper pamphlet in front of the microphone.
 
-![](assets/55752545_529367050926329_40269-0Qe5eQkQWZkH.png)
+![](/assets/img/55752545_529367050926329_40269-0Qe5eQkQWZkH.png)
 
 Sometimes you cut and slice and glue and mix and split and merge and fade and do other magic with your recordings so that you end up with a bunch of tiny clips of audio making up the whole story.
 

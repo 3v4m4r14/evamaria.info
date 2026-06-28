@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2024/09/IMG_6825.jpeg?fit=2048%2C1536&ssl=1
   media:
-    featuredImage: assets/IMG_6825-sz1NVJqTGQD1.jpeg
+    featuredImage: /assets/img/IMG_6825-sz1NVJqTGQD1.jpeg
   categories:
     - Travel
   tags:
@@ -30,7 +30,7 @@ Käisime Nordkappis (Kapis?). Kahe matkarattaga. Kokku kuue kohvriga, kõik asju
 
 Pakkides pendeldas kuklas endine kolleeg: “Viis paari aluspükse peab alati kaasas olema, juhuks kui end täis si\*ud.” Aga tegelikult ei pea, sest tõenäosus, et see viis korda juhtub… Mina ütleks, et **piisab, kui kõike on kolm**. Kaks tundub vähe, sest äkki ei kuiva ära ja kes see ikka niiske kannikaga ringi tatsata tahab. Kuigi kõige paremini kuivavad riided seljas, nii et võta näpust. Seitse vs kaks – teeme edaspidi kompromissi kolmele, üks pluusidest fliissärk ja üks sokipaar villane (tõsine MVP, kui jalad peaksid märjaks saama).
 
-![](assets/IMG_6744-uKN7uQrm6wv6.jpeg)
+![](/assets/img/IMG_6744-uKN7uQrm6wv6.jpeg)
 
 Piisanud oleks ka ühest paarist motosaabastest – veekindlatest. Mina võtsin kaks, sest mulle meeldib tossutüüpi saabastega rohkem sõita – harjunud ja hingavad paremini. Aga motomatkal, kus iga gramm ja sentimeeter loeb, oleksin ka ainult veekindlatega hakkama saanud. Sest see üks kord, kus vihmaga kogemata ketsid jalga jäid, lõppes ligemärgade varvastega ja sellega, et kahel järjestikusel päeval kuivatasin oma tosse nii saunalaval kui fööniga. Tuleb lihtsalt higised varbad veekindlates saabastes ära kannatada. Häid nippe pärast haisu välja saamiseks??
 
@@ -52,13 +52,13 @@ Igatahes, loogika oli, et kaamera ees peab ilus välja nägema, seega tuleb meik
 
 Niisiis, kuigi meik ei võtnud palju ruumi, võtan edaspidi kaasa ainult niisutava kreemi ja ripsmetuši, kui sedagi.
 
-![](assets/IMG_0413-aiqO4LdvuZNR.jpg)
+![](/assets/img/IMG_0413-aiqO4LdvuZNR.jpg)
 
 ## Magamisasjad
 
 Minul oli lootus reisi jooksul võimalikult palju looduses ööbida. Sellest tulenevalt oli meil kaasas telk ja muu vajaminev. Enne reisi ostsime [Decathlonist matkavoodid](https://www.decathlon.ee/p/340395-41696-matkavoodi-basic-cap-bed-60-cm-1-inimesele.html), et magadest maapinnast kõrgemal oleksime. [Eelmisel aastal külmusime Norras õhukeste mattide peal magades kringliks](https://evamaria.info/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/) ja sel aastal tahtsime probleemi ennetada. Õudselt mõttetu ja raske asi ratta peale panna, arvestades, et pooleteise nädala jooksul panime neid kokku täpselt kolm korda. Aga iseenesest väga jahe magada polnud, nii et vahest töötas?
 
-![two adventure motorcycles in front of a log cabin, trees in the background, forest plants in the foreground](assets/IMG_6805-2F8gKniEBRO7.jpeg)
+![two adventure motorcycles in front of a log cabin, trees in the background, forest plants in the foreground](/assets/img/IMG_6805-2F8gKniEBRO7.jpeg)
 
 Põhja pool pelgasime külma ööd, niisiis peatusime tihti AirBnb-des või Bookingust leitud kohtades. Kindlasti kallim kui telkimine, aga teisalt oli ka mugavam. Tulevikus oleks mõistlik **teha kogu reis kas ainult majutustes ööbides või igal ööl telkides** (ja ainult paar ööd majutuses). Muidu pole tõesti paari öö jaoks mõtet telki, magamiskotte, madratseid, pleede ja tont teab mida kaasa tarida.
 
@@ -66,7 +66,7 @@ Põhja pool pelgasime külma ööd, niisiis peatusime tihti AirBnb-des või Book
 
 Jätkatest eelmist lõiku, siis kui me oleks ööbinud ainult köökidega majutustes, poleks me pidanud kaasa tarima ka gaasipõletit, matkapotti, -panni, termost, nuga-kahvel-lusikat, konserve, kiirnuudleid ja toidupakikesi. Niikuinii käisime pidevalt **tanklates söömas-joomas ja õhtuti poes**. Suureks-väikseks käiva joogipudeli viskasin lihtsalt poolel teel minema (loe: jätsin metsamajakesse järgmistele matkajatele omastamiseks).
 
-![](assets/IMG_6772-ugBiWjtqns5o.jpeg)
+![](/assets/img/IMG_6772-ugBiWjtqns5o.jpeg)
 
 ## “Naisteasjad”
 
@@ -78,4 +78,4 @@ Nagu näha, siis kaasas oli väga palju ebavajalikku ja seega ratas ülemäära 
 
 **Mida sina oma (moto)matkadele kaasa pakid ja välja praagid?** 💬👇
 
-![](assets/IMG_6926-scaled-baHTkngPngyr.jpeg)
+![](/assets/img/IMG_6926-scaled-baHTkngPngyr.jpeg)

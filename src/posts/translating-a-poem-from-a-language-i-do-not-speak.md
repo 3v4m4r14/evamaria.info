@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/Screenshot-2019-09-05-at-23.11.26.png?fit=1440%2C797&ssl=1
   media:
-    featuredImage: assets/Screenshot-2019-09-05-at-23.11-tYpQZYz7areK.png
+    featuredImage: /assets/img/Screenshot-2019-09-05-at-23.11-tYpQZYz7areK.png
   categories:
     - Project
     - Writing

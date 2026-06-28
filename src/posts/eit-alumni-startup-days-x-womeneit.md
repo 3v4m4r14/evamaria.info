@@ -2,35 +2,27 @@
 title: EIT Alumni Startup Days x Women@EIT
 authors: []
 date: 2019-09-29T09:37:33.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/10/fullsizeoutput_56d.jpeg?fit=2805%2C2178&ssl=1
-  media:
-    featuredImage: assets/fullsizeoutput_56d-gVOgxVZ31UKq.jpeg
-  categories:
-    - Event
-    - Hackathon
-  tags:
-    - afound
-    - competition
-    - eit
-    - event
-    - fashion
-    - hackathon
-    - online
-    - retail
-    - return
-    - robot
-    - startup
-    - sustainability
-    - technology
-    - women
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=295
-  type: wordpress
-  url: https://evamaria.info/eit-alumni-startup-days-x-womeneit/
+featuredImage: /assets/img/fullsizeoutput_56d-gVOgxVZ31UKq.jpeg
+summary: "I had one of the best and most relaxing hackathon experiences yesterday at EIT Alumni Startup Days X Women@EIT."
+categories:
+  - Event
+  - Hackathon
 tags:
+  - afound
+  - competition
+  - eit
   - event
+  - fashion
   - hackathon
+  - online
+  - retail
+  - return
+  - robot
+  - startup
+  - sustainability
+  - technology
+  - women
+permalink: "/posts/wordpress-eit-alumni-startup-days-x-women-eit/index.html"
 ---
 I had one of the best and most relaxing hackathon experiences yesterday at EIT Alumni Startup Days X Women@EIT.
 

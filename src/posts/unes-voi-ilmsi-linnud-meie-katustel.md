@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2023/08/IMG_1898-scaled.jpg?fit=2560%2C1429&ssl=1
   media:
-    featuredImage: assets/IMG_1898-scaled-zjxELUef1UyS.jpg
+    featuredImage: /assets/img/IMG_1898-scaled-zjxELUef1UyS.jpg
   categories:
     - Animals
   uuid: 11ty/import::wordpress::https://evamaria.info/?p=1451
@@ -21,7 +21,7 @@ Meie majas ei tundunud kajakatega probleemi olevat. Maja on ehitatud L-kujulisel
 
 Igatahes, nagu öeldud, siis meie majas ei tundunud kajakaid olevat.
 
-![close up of bird perching on wood](assets/pexels-photo-325258-P4JB3dBY0dhv.jpeg)
+![close up of bird perching on wood](/assets/img/pexels-photo-325258-P4JB3dBY0dhv.jpeg)
 
 Kuni ühel hommikul äratas mind kajakakisa. Häältest oli kosta, et tegemist on perega, sest üks räuskas kiledamalt kui teised. Väikesel kajakapojal polnud veel häälemurret olnud.
 
@@ -41,7 +41,7 @@ Taaskord kostus nende koor varastel hommikutundidel. Taaskord ei saanud ma magad
 
 Mõtlesin mitmel hommikul, et lähen ja viskan midagi nende suunas, et neid minema peletada. Oleksin isegi katusele roninud, kui oleks viitsinud midagi selga panna. Teisalt kartsin, et varesed on targad linnud ja neis võib tekkida kättemaksuiha. Kes teab, kus nad mulle pärast kambaka teevad ja silmad peast nokivad. Niisiis jäid hommikused vihased mõtted vaid mõteteks.
 
-![black bird perching on concrete wall with ocean overview](assets/pexels-photo-953150-PlCiKBAwbcZG.jpeg)
+![black bird perching on concrete wall with ocean overview](/assets/img/pexels-photo-953150-PlCiKBAwbcZG.jpeg)
 
 Eile hommikul oli varesepere taaskord platsis. Nende õnneks olin nii väsinud, et ei jaksanud kisa peale voodis istukilegi tõusta. Keerasin hoopis külge ja magasin todisedes edasi.
 

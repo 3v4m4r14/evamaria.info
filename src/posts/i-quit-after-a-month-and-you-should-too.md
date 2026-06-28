@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2024/05/IMG_2590-scaled.jpeg?fit=1920%2C2560&ssl=1
   media:
-    featuredImage: assets/IMG_2590-scaled-zPdnS0shJKpL.jpeg
+    featuredImage: /assets/img/IMG_2590-scaled-zPdnS0shJKpL.jpeg
   categories:
     - Opinion
     - Work

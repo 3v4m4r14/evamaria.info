@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/08/IMG_0377-scaled.jpeg?fit=2560%2C1920&ssl=1
   media:
-    featuredImage: assets/IMG_0377-scaled-sUJoqL4nIl7V.jpeg
+    featuredImage: /assets/img/IMG_0377-scaled-sUJoqL4nIl7V.jpeg
   categories:
     - Random
     - Self

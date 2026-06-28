@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/06/IMG_4795-scaled.jpeg?fit=2560%2C1920&ssl=1
   media:
-    featuredImage: assets/IMG_4795-scaled-2IL5g6Az6dir.jpeg
+    featuredImage: /assets/img/IMG_4795-scaled-2IL5g6Az6dir.jpeg
   categories:
     - Random
   tags:
@@ -39,7 +39,7 @@ It didn’t open.
 
 Well, to be honest, it did, but it only moved for about two centimetres or less, creating a 3-millimetre gap between the door and the doorframe.
 
-![](assets/IMG_4798-scaled-irMELlAuCzlU.jpeg)
+![](/assets/img/IMG_4798-scaled-irMELlAuCzlU.jpeg)
 
 _The front and bathroom doors both open towards the narrow kitchen-corridor_
 
@@ -59,7 +59,7 @@ Rule number two – think outside the box.
 
 Rule number three – brush up on your burglar skills.
 
-![](assets/IMG_4797-scaled-Q93OtzEJ9qqz.jpeg)
+![](/assets/img/IMG_4797-scaled-Q93OtzEJ9qqz.jpeg)
 
 _A wide-open bathroom door successfully blocks the front door from opening_
 

@@ -2,25 +2,18 @@
 title: Dilemmas in HCI
 authors: []
 date: 2019-04-13T17:14:48.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/X17puIB.gif?fit=500%2C281&ssl=1
-  media:
-    featuredImage: assets/X17puIB-w5HB6dkoFoIW.gif
-  categories:
-    - Opinion
-  tags:
-    - analysis
-    - design
-    - dilemma
-    - hci
-    - research
-    - user
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=110
-  type: wordpress
-  url: https://evamaria.info/dilemmas-in-hci/
+featuredImage: /assets/img/X17puIB-w5HB6dkoFoIW.gif
+summary: "The domain of Human Computer Interaction is riddled with dilemmas affecting both users and designers. Let some of these problems be presented as follows."
+categories:
+  - Opinion
 tags:
-  - opinion
+  - analysis
+  - design
+  - dilemma
+  - hci
+  - research
+  - user
+permalink: "/posts/wordpress-dilemmas-in-hci/index.html"
 ---
 The domain of Human Computer Interaction is riddled with dilemmas affecting both users and designers. Let some of these problems be presented as follows.
 

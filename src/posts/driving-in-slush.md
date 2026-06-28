@@ -2,26 +2,18 @@
 title: Driving in Slush
 authors: []
 date: 2020-01-21T18:01:53.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/01/IMG_0800-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: assets/IMG_0800-scaled-VL0Of79HA4w9.jpeg
-  categories:
-    - Event
-    - Opinion
-  tags:
-    - volunteer
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=478
-  type: wordpress
-  url: https://evamaria.info/driving-in-slush/
+featuredImage: /assets/img/IMG_0800-scaled-VL0Of79HA4w9.jpeg
+summary: "My Slush certificate came in. It states that I did good in my volunteer position. While I agree with them that I was, indeed, excellent and maybe even surpassed my capabilities..."
+categories:
+  - Event
+  - Opinion
 tags:
-  - event
-  - opinion
+  - volunteer
+permalink: "/posts/wordpress-driving-in-slush/index.html"
 ---
 My Slush certificate came in. It states that I did good in my volunteer position. While I agree with them that I was, indeed, excellent and maybe even surpassed my capabilities as a member of the Drivers team, I do feel that I should mention some things in regard to Slush and volunteering there in general.
 
-![](assets/IMG_0825-4vfqNyCmhO5N.jpeg)
+![](/assets/img/IMG_0825-4vfqNyCmhO5N.jpeg)
 
 _Slush volunteers in 2019  
 (Photo by: Riikka Vaahtera)_
@@ -30,13 +22,13 @@ The motivation for creating an entrepreneurial community that grew to be Slush e
 
 The only way out was to **encourage entrepreneurship** – creating their own jobs – and to **invite foreign workforce** into the country to pay the taxes that support the ageing population. So that is what the Finns did. They created an ecosystem of start-ups, entrepreneurs, and business people, and made the cold and dark Finland an attractive place to be if you were looking for innovation. Over time, this community turned into a huge non-profit organisation and business conference known as Slush.
 
-![](assets/IMG_0801-nJ6W7fLWNq6f.jpeg)
+![](/assets/img/IMG_0801-nJ6W7fLWNq6f.jpeg)
 
 _The Drivers volunteer team in 2019_
 
 Every year, Slush seeks out volunteers from all over the world to make the conference a reality. The volunteers are divided into teams. There is the Sustainability team, the Backstage team, the Construction team, the Catering team, the Cloakroom team, and many more. The best teams to be in are the Drivers and the Buddies. Both of those teams **get to meet the high-end fancy people – the speakers**, pop stars of Slush. As a Buddy you are basically a personal assistant to one of the speakers. As a Driver you are a chauffeur to them and their Buddies. Sometimes you get lucky and the speaker pays attention to you. They may ask you about your studies or hobbies and the motivation behind becoming a Driver for Slush. Sometimes they have business calls, friends, or a highly talkative Buddy instead, so you get less attention than you had hoped for. But still more than being in the Sustainability team standing next to a garbage can all day.
 
-![](assets/IMG_0787-scaled-2CIatkrcsNaR.jpeg)
+![](/assets/img/IMG_0787-scaled-2CIatkrcsNaR.jpeg)
 
 _Waiting for a pickup_
 
@@ -44,7 +36,7 @@ However, due to the tremendous size of the Drivers volunteer team, badly trained
 
 This abundance of free time during one’s shift can only be said for the lowest level of Driver volunteers, though. If you are a team lead, you spend most of your time in the Drivers headquarters being ready to book rides and send your Drivers out asap. In this case, the lowest position is the most flexible and chill.
 
-![](assets/IMG_0812-scaled-7Qrgx9psU7Pq.jpeg)
+![](/assets/img/IMG_0812-scaled-7Qrgx9psU7Pq.jpeg)
 
 _Sweet wheels for volunteers_
 
@@ -52,7 +44,7 @@ Another thing I have mixed feelings about is the **Matchmaking app**. Slush crea
 
 On the one hand, this makes it extremely easy to find what you are looking for, giving you a better experience from Slush. Maybe a promising start-up founder finds their first angel investor that way and becomes a successful company thanks to that?
 
-![](assets/IMG_0806-scaled-qxL3aMhFAyAK.jpeg)
+![](/assets/img/IMG_0806-scaled-qxL3aMhFAyAK.jpeg)
 
 _Info team volunteers enjoying the multi-layered venue and creative lighting_
 
@@ -60,13 +52,13 @@ On the other hand, to me, random encounters with people often carry more value. 
 
 One thing to take into account is the **accommodation**. During Slush, Helsinki will be flooded with volunteers, speakers, and conference attendees from all over the world. Every decent hotel, hostel, and AirBnB will be booked. The prices get inflated and as a non-paid volunteer it can be difficult to manage both the travel there and the accommodation. A pro tip is to combine your Slush with the biggest European hackathon Junction happening around the same time. Often, Junction offers travel grants which will help with the travel costs. For accommodation, book early, or have a friend whose couch you can crash on for Slush days.
 
-![](assets/IMG_0791-scaled-Vn3EJ4uwfHch.jpeg)
+![](/assets/img/IMG_0791-scaled-Vn3EJ4uwfHch.jpeg)
 
 _Tuxed up business people ignoring the sandbox and doing boring grown-up stuff instead_
 
 Lastly, Slush venue looks amazing. It is big, divided into multiple sections. This year, there was even a (not-so-)secret garden with waterfalls and a sandbox. There are temporary structures, stages, multilevel meeting and working surfaces, tremendous amounts of stage lights (although it still feels very dark) and all in all a huge amount of finances and effort put into the construction. I happened to go by when they were breaking it all up after having built it for only 2-3 days. I could not stop thinking about the **waste of resources** that went in it. All that money that could have been spent on supporting the businesses. It just feels so commercial, but I suppose investors and business people like their shallow pretty-looking venues and fancy decorations. Maybe one day I will understand the reasoning behind it all.
 
-![](assets/IMG_0813-scaled-OieXvP4xoLlz.jpeg)
+![](/assets/img/IMG_0813-scaled-OieXvP4xoLlz.jpeg)
 
 _Packing up_
 

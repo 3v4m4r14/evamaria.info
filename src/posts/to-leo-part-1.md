@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/20201031_151358-scaled.jpeg?fit=2560%2C1920&ssl=1
   media:
-    featuredImage: assets/20201031_151358-scaled-0VNqA7w6iYaH.jpeg
+    featuredImage: /assets/img/20201031_151358-scaled-0VNqA7w6iYaH.jpeg
   categories:
     - Animals
     - Random
@@ -37,22 +37,22 @@ Yet I still can’t help but wonder if you are truly satisfied that you ended up
 
 Tell me, Leo, are you happy?
 
-[![](assets/DSC_014791-lH9gcrUvozML.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/DSC_014791.jpeg?ssl=1)
+![](/assets/img/DSC_014791-lH9gcrUvozML.jpeg)]
 
-[![](assets/Image-17.11.2020-at-21.57-dMWC8NEqeJRP.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/Image-17.11.2020-at-21.57.jpeg?ssl=1)
+![](/assets/img/Image-17.11.2020-at-21.57-dMWC8NEqeJRP.jpeg)]
 
-[![](assets/DSC_01397078-mn6JYZhEVJ87.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/DSC_01397078.jpeg?ssl=1)
+![](/assets/img/DSC_01397078-mn6JYZhEVJ87.jpeg)]
 
-[![](assets/Image-17.11.2020-at-21.56-Z8j9E1RfwLqM.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/Image-17.11.2020-at-21.56.jpeg?ssl=1)
+![](/assets/img/Image-17.11.2020-at-21.56-Z8j9E1RfwLqM.jpeg)]
 
-[![](assets/DSC_01512898-FiNOFJgJW1M3.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/DSC_01512898.jpeg?ssl=1)
+![](/assets/img/DSC_01512898-FiNOFJgJW1M3.jpeg)]
 
-[![](assets/DSC_01369931-abWoVF6RFQav.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/DSC_01369931.jpeg?ssl=1)
+![](/assets/img/DSC_01369931-abWoVF6RFQav.jpeg)]
 
-[![](assets/DSC_013296-2a3WAqqnqgWz.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/DSC_013296.jpeg?ssl=1)
+![](/assets/img/DSC_013296-2a3WAqqnqgWz.jpeg)]
 
-[![](assets/DSC_013150-RfuCNmpXFGGI.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/DSC_013150.jpeg?ssl=1)
+![](/assets/img/DSC_013150-RfuCNmpXFGGI.jpeg)]
 
-[![](assets/DSC_013739-AIDLrrcxiHL0.jpeg)](https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/DSC_013739.jpeg?ssl=1)
+![](/assets/img/DSC_013739-AIDLrrcxiHL0.jpeg)]
 
 _Leo at the shelter_

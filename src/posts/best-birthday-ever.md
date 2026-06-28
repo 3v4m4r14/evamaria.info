@@ -1,21 +1,12 @@
 ---
 title: Best birthday ever
-authors: []
 date: 2021-06-07T16:01:00.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2021/06/leo_water.gif?fit=960%2C541&ssl=1
-  media:
-    featuredImage: assets/leo_water-QvL13cprvnRn.gif
-  categories:
-    - Event
-    - Random
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1240
-  type: wordpress
-  url: https://evamaria.info/best-birthday-ever/
-tags:
-  - event
-  - random
+featuredImage: /assets/img/leo_water-QvL13cprvnRn.gif
+summary: "On the eve of June 6, I ordered sushi. I deserved it. I was about to get a year older. Quarter of a century - that's a landmark to celebrate, they said."
+categories:
+  - Event
+  - Random
+permalink: "/posts/wordpress-best-birthday-ever/index.html"
 ---
 On the eve of June 6, I ordered sushi. I deserved it. I was about to get a year older. Quarter of a century – that’s a landmark to celebrate, they said.
 

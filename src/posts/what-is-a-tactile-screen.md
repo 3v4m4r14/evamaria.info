@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/IMG_0225.png?fit=3264%2C2448&ssl=1
   media:
-    featuredImage: assets/IMG_0225-mQKaWT1nZa1u.png
+    featuredImage: /assets/img/IMG_0225-mQKaWT1nZa1u.png
   categories:
     - Writing
   tags:
@@ -36,7 +36,7 @@ Well, the “tactile” part of this term hints that the screen has something to
 
 Because us humans use our skin to feel touch, a tactile screen works best when it touches your body directly. When a tactile screen is against your body, it can sort of poke you like that annoying bench mate in elementary school.
 
-![](assets/IMG_0225-p25L3ArSXvD5.png)
+![](/assets/img/IMG_0225-p25L3ArSXvD5.png)
 
 _Figure 2. Tiles on a bathroom wall._
 
@@ -44,7 +44,7 @@ You can imagine a tactile screen to be the tiled wall of your bathroom. The wall
 
 As said before, a tactile screen works best when it is against your body. Since we usually do not want to stand against our bathroom wall the whole day, scientists have created tactile screens that are a bit smaller and more flexible, so that they can be carried with you, worn as a shirt or a wristband.
 
-![](assets/bracelet-798x1024-dQ7YJNOkz6CK.jpg)
+![](/assets/img/bracelet-798x1024-dQ7YJNOkz6CK.jpg)
 
 _Figure 3. A pearl bracelet._
 

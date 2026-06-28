@@ -1,21 +1,12 @@
 ---
 title: Dare to adopt a new perspective
-authors: []
 date: 2020-08-31T16:39:31.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/08/IMG_0542-rotated.jpeg?fit=960%2C1280&ssl=1
-  media:
-    featuredImage: assets/IMG_0542-rotated-YtLVocM4e9N9.jpeg
-  categories:
-    - Opinion
-    - Random
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=893
-  type: wordpress
-  url: https://evamaria.info/dare-to-adopt-a-new-perspective/
-tags:
-  - opinion
-  - random
+featuredImage: /assets/img/IMG_0542-rotated-YtLVocM4e9N9.jpeg
+summary: "Yesterday, I went to buy myself some new glasses. My previous ones had slid off the motorcycle when I was taking off my helmet and landed right underneath my partner's foot."
+categories:
+  - Opinion
+  - Random
+permalink: "/posts/wordpress-dare-to-adopt-a-new-perspective/index.html"
 ---
 Yesterday, I went to buy myself some new glasses. My previous ones had slid off the motorcycle when I was taking off my helmet and landed right underneath my partner’s foot. Classic communication error combined with some bad luck. The back-up ones I have been wearing as a temporary replacement are several years old and remind me of a horse’s blinkers. The wide frames stop me from seeing to the sides and create blindspots making them extremely uncomfortable and even dangerous in traffic. So new glasses were needed, there was no question about that. But which ones to choose?
 

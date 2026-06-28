@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/10/IMG_0794-scaled.jpeg?fit=1920%2C2560&ssl=1
   media:
-    featuredImage: assets/IMG_0794-scaled-S0YmC3F4r23M.jpeg
+    featuredImage: /assets/img/IMG_0794-scaled-S0YmC3F4r23M.jpeg
   categories:
     - Opinion
     - Writing
@@ -19,7 +19,7 @@ tags:
 ---
 _Essay from April 2015 submitted to a competition by Metsaülikool and published in a collection of articles in 2020._
 
-![](assets/IMG_0845-scaled-c4xWWhOMnPij.jpeg)
+![](/assets/img/IMG_0845-scaled-c4xWWhOMnPij.jpeg)
 
 > Essee kirjutamise ajal oli Eva Maria Veitmaa Saaremaa Ühisgümnaasiumi 12. klassi õpilane. Tema essee pälvis Metsaülikooli koolinoorte esseekonkursil kolmanda koha.
 > 
@@ -59,4 +59,4 @@ Tean inimesi, kes on otsustanud nõiaringist pääsemiseks oma nutitelefonid nur
 
 Olgugi et tänapäeval pööratakse tähelepanu noorte ekraanisõltuvuse probleemile, millised tervislikud ja sotsiaalsed hälbed sellega kaasnevad, kui kohutav see ikka on, et lastele juba noorelt nutitelefonid ja tahvelarvutid ostetakse, on tehnoloogia areng paratamatu ja seda ei tuleks vaadelda kui haigust, vaid kui võimalust. Maailm areneb, keegi ei kujutaks enam ette elu keskajal, kui sidevahendeid praktiliselt ei eksisteerinud ja meditsiin oli pea olematu. Tänapäevane tervisehoid suudab edukalt ennetada ja ravida erinevaid vaevusi, sealhulgas ka nutiseadmetega kaasnevaid. Pealegi on loodusel omadus jätkusuutlikkuse poole muutuda ja areneda. Võib-olla aastate pärast eksisteerib küürselgsete kõversõrmeliste punnsilmsete inimeste generatsioon, kes on kohastunud kasutama nutiseadmeid ilma mingisuguste kaasnevate probleemideta.
 
-![](assets/IMG_0848-scaled-PBAiN2wnYGwr.jpeg)
+![](/assets/img/IMG_0848-scaled-PBAiN2wnYGwr.jpeg)

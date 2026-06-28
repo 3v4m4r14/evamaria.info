@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2021/05/IMG_2232-scaled.jpeg?fit=2560%2C1440&ssl=1
   media:
-    featuredImage: assets/IMG_2232-scaled-Dz1GZNRnoQJJ.jpeg
+    featuredImage: /assets/img/IMG_2232-scaled-Dz1GZNRnoQJJ.jpeg
   categories:
     - Poetry
     - Writing

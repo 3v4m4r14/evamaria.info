@@ -2,26 +2,18 @@
 title: Effort versus Outcome
 authors: []
 date: 2025-01-09T14:58:18.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2025/01/IMG_8369-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: assets/IMG_8369-scaled-UP9f0yP82eJ7.jpeg
-  categories:
-    - Product
-    - Work
-  tags:
-    - effort
-    - home
-    - life
-    - outcome
-    - work
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1821
-  type: wordpress
-  url: https://evamaria.info/effort-versus-outcome/
+featuredImage: /assets/img/IMG_8369-scaled-UP9f0yP82eJ7.jpeg
+summary: "Doing work is not the same as achieving an outcome."
+categories:
+  - Product
+  - Work
 tags:
-  - product
+  - effort
+  - home
+  - life
+  - outcome
   - work
+permalink: "/posts/wordpress-effort-versus-outcome/index.html"
 ---
 ## **Doing work is not the same as achieving an outcome.**
 

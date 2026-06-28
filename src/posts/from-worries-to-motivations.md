@@ -2,29 +2,21 @@
 title: From worries to motivations
 authors: []
 date: 2020-02-14T14:49:18.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_2380-scaled-e1581853932331.jpeg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: assets/IMG_2380-scaled-e1581853932331-MhRmofcndoCx.jpeg
-  categories:
-    - Project
-    - Self
-  tags:
-    - design
-    - MBSR
-    - mind
-    - mindfulness
-    - project
-    - research
-    - self-development
-    - stress
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=510
-  type: wordpress
-  url: https://evamaria.info/from-worries-to-motivations/
+featuredImage: /assets/img/IMG_2380-scaled-e1581853932331-MhRmofcndoCx.jpeg
+summary: "Lately, I have been feeling dissatisfied. Restless. Anxious. Worried. Worn."
+categories:
+  - Project
+  - Self
 tags:
+  - MBSR
+  - design
+  - mind
+  - mindfulness
   - project
-  - self
+  - research
+  - self-development
+  - stress
+permalink: "/posts/wordpress-from-worries-to-motivations/index.html"
 ---
 Lately, I have been feeling dissatisfied. Restless. Anxious. Worried. Worn.
 

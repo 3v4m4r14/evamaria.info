@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2023/03/B437768A-A822-4E18-A656-86151B86015A_1_201_a-scaled.jpeg?fit=1440%2C2560&ssl=1
   media:
-    featuredImage: assets/B437768A-A822-4E18-A656-86151B-AfEqqqSm4Pmr.jpeg
+    featuredImage: /assets/img/B437768A-A822-4E18-A656-86151B-AfEqqqSm4Pmr.jpeg
   categories:
     - Opinion
   uuid: 11ty/import::wordpress::https://evamaria.info/?p=1380
@@ -29,9 +29,9 @@ Circle K rakenduses on näha, kas pesula on parasjagu vaba või mitte. Kahjuks o
 
 Vaba vs hõivatud staatuse asemel tahaks pigem näha, mitu autot seisab hetkel pesula sabas. Siis teaks, kas on üldse mõtet sinna suunas kihutama hakata. Lisaks võiks rakenduse kaardivaade näidata pesula staatust eri värvide või sümbolitega, et ei peaks ükshaaval kõiki lähipiirkonna pesulaid läbi toksima, nagu praegune disain ette näeb. Igatahes tundub, et kõige ebapopulaarsemad ajad auto pesemiseks on ööd, umbes kell 21 alates, nii et kiirustage, seltsimehed unetud, kiirustage.
 
--   ![](assets/1502CFD8-3CBF-49D2-B155-611C04-nCwvFldVkuIl.png)
+![](/assets/img/1502CFD8-3CBF-49D2-B155-611C04-nCwvFldVkuIl.png)
     
--   ![](assets/900FA435-4C1D-42F1-A6E8-00B7E0-YvoWf2V5fe3h.png)
+![](/assets/img/900FA435-4C1D-42F1-A6E8-00B7E0-YvoWf2V5fe3h.png)
     
 
 ## Üks Pesupass = üks auto. Või kas ikka on?
@@ -56,7 +56,7 @@ See, KUI puhtaks Circle K automaatpesulad auto tegid, on loomulikult vaieldav, a
 
 Kui programm lõppes ja väljasõidutuli süttis, hakkasid uksed hoopis sulguma. Õnneks on pesula seina peal number, kuhu mure korral pöörduda. Niisiis helistasingi teenindajale, et halloo, jäin siia pesulasse kinni. Minu järel ootav autojuht oli muidugi närvihaige ja vilgutas tulesid, et mida ma seal passin, kas jäin magama? Nagu see aitaks mind kiiremini pesulast välja… Õnneks tuli peagi tore tehnik, kes vajutas suurt punast nuppu, mis uksed taas pärani lahti lõi. Vaene järjekorras olev autojuht aga sai oma tuledisko saatel rahus edasi oodata, sest tehnik hakkas igaks juhuks pesulat ümber programmeerima. Mina kimasin puhta auto ja ilma burgerita minema. Tundus tervislikum.
 
-![](assets/03A01358-BE8B-4FE0-89DF-1F86A7-Q08lvbL8Qhnf.jpeg)
+![](/assets/img/03A01358-BE8B-4FE0-89DF-1F86A7-Q08lvbL8Qhnf.jpeg)
 
 _Uksed läksid poole peale kinni, nii et ma ei mahtunud enam välja._
 

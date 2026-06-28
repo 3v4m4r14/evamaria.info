@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/05/d4329ef1-a9a3-4644-8b70-08c4fd5cac05.jpeg?fit=658%2C651&ssl=1
   media:
-    featuredImage: assets/d4329ef1-a9a3-4644-8b70-08c4fd-hO8NCnsj04sx.jpeg
+    featuredImage: /assets/img/d4329ef1-a9a3-4644-8b70-08c4fd-hO8NCnsj04sx.jpeg
   categories:
     - Opinion
   tags:
@@ -37,7 +37,7 @@ Therefore, interviews are useful for gathering qualitative data and understandin
 
 #### Avoid Domain jargon
 
-![](assets/image-kL5FrCbB7Gzc.png)
+![](/assets/img/image-kL5FrCbB7Gzc.png)
 
 This question uses specialised terminology from the domain of User Research. “Use case” is an example of domain-specific jargon and it stands for [a specific situation in which a product or a service could be used](https://www.lexico.com/definition/use_case). Not everyone will be able to fully comprehend what the term “use case” means. This forces the respondent to draw conclusions from incomplete information which can result in misunderstanding and invalid answers.
 
@@ -45,7 +45,7 @@ The proposed answers and the context of the questionnaire imply that the researc
 
 #### Expect yes/no answers to Yes/no questions
 
-![](assets/d4329ef1-a9a3-4644-8b70-08c4fd-LFou7YOSK7Rx.jpeg)
+![](/assets/img/d4329ef1-a9a3-4644-8b70-08c4fd-LFou7YOSK7Rx.jpeg)
 
 All of the answers above are valid answers to the questions asked, but give absolutely no useful information to the researcher. Yes/no questions will elicit yes/no answers. Hopefully, not everyone takes questions that literally but there are some annoying people out there (like me).
 
@@ -63,17 +63,17 @@ Open-ended questions imply that the researcher has not done any preliminary work
 
 Here are some more bad examples of yes/no questions. As a little exercise, try to rephrase them so that they elicit the information you need.
 
-![](assets/image-4-y9bjrmecujD4.png)
+![](/assets/img/image-4-y9bjrmecujD4.png)
 
-![](assets/image-5-R4HRKLFGegwB.png)
+![](/assets/img/image-5-R4HRKLFGegwB.png)
 
-![](assets/image-6-PqZ0NrRWYCrb.png)
+![](/assets/img/image-6-PqZ0NrRWYCrb.png)
 
 #### Offer a selection of answers
 
-![](assets/image-1-J4Tm8boQZlNV.png)
+![](/assets/img/image-1-J4Tm8boQZlNV.png)
 
-![](assets/image-2-aMWBthPjKC7t.png)
+![](/assets/img/image-2-aMWBthPjKC7t.png)
 
 These questions are actually quite nice. They offer some pre-set answers that were established from preliminary work, e.g. interviews or desk research. They also feature the option “other” for respondents to add the answers that were not included by the author of the survey.
 
@@ -83,17 +83,17 @@ The option for adding custom answers is a fallback in case the researcher forgot
 
 #### Be as specific as possible
 
-![](assets/image-3-YQHTRFlrnX6D.png)
+![](/assets/img/image-3-YQHTRFlrnX6D.png)
 
 The option _“only when needed”_ can be understood in two different ways. Either _“turn off the video only when needed”_ or _“turn on the video only when needed”_. These are obviously very different from each other and right now that survey does not capture what the respondent actually means. They should be split into two separate options.
 
-![](assets/image-9-b8K2JD8FRR8Z.png)
+![](/assets/img/image-9-b8K2JD8FRR8Z.png)
 
 This question needs elaboration. What is meant by disengagement? Did I as a participant feel disengaged? Did I notice that my teammates were not paying attention to me? Was the manager not listening to one of my teammates? Each respondent might read this question differently and, as such, the data from this question will tell the researcher absolutely nothing and should be discarded when drawing conclusions.
 
 #### Load a moving van, not a question
 
-![](assets/image-8-QO3E8VqeL3mA.png)
+![](/assets/img/image-8-QO3E8VqeL3mA.png)
 
 Bias is easy to cause and difficult to recognise. “Did you like the food?” is more likely to elicit positive answers than “What did you think of the food?” In research, we want brutal honesty to ensure the best possible results and the success of the whole project.
 
@@ -105,7 +105,7 @@ If the researcher simply wanted to capture how people feel during work-related v
 
 #### Don’t repeat yourself like a broken record
 
-![](assets/image-7-FSU7WGQ7R5Mq.png)
+![](/assets/img/image-7-FSU7WGQ7R5Mq.png)
 
 “Why?”, “why?”, “why?”… That’s what a 5-year-old asks when trying to understand how the world works. Do not get me wrong, curiosity is amazing and we should not lose if after elementary school, but in this survey question “why” becomes redundant. Adding a subtitle is unnecessary. Simply put “Why do you use that tool?”.
 

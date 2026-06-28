@@ -2,24 +2,17 @@
 title: Hogwarts on Earth
 authors: []
 date: 2019-09-10T17:02:21.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/IMG_20191028_175320-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: assets/IMG_20191028_175320-scaled-dAFAZJNLoVSJ.jpeg
-  categories:
-    - Opinion
-  tags:
-    - review
-    - twente
-    - university
-    - ut
-    - utwente
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=219
-  type: wordpress
-  url: https://evamaria.info/hogwarts-on-earth/
+featuredImage: /assets/img/IMG_20191028_175320-scaled-dAFAZJNLoVSJ.jpeg
+summary: "When I started my Master's, I basically saw it as a way to live abroad for a while, experience new cultures, and meet new people. It has been all that and much more!"
+categories:
+  - Opinion
 tags:
-  - opinion
+  - review
+  - twente
+  - university
+  - ut
+  - utwente
+permalink: "/posts/wordpress-hogwarts-on-earth/index.html"
 ---
 When I started my Master’s, I basically saw it as a way to live abroad for a while, experience new cultures, and meet new people. It has been all that and much more!
 

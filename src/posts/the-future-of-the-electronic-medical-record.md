@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/09/login.png?fit=1440%2C1024&ssl=1
   media:
-    featuredImage: assets/login-cnfqQPcG9hd7.png
+    featuredImage: /assets/img/login-cnfqQPcG9hd7.png
   categories:
     - Project
   uuid: 11ty/import::wordpress::http://evamaria.info/?p=903

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/artworks-000518991576-eh2io4-t500x500.jpg?fit=500%2C500&ssl=1
   media:
-    featuredImage: assets/artworks-000518991576-eh2io4-t-iAeIaSOminYp.jpg
+    featuredImage: /assets/img/artworks-000518991576-eh2io4-t-iAeIaSOminYp.jpg
   categories:
     - Writing
   tags:

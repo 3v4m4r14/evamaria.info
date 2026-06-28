@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2025/01/create-a-featured-image-for-a-blog-post-the-scene.png?fit=1024%2C768&ssl=1
   media:
-    featuredImage: assets/create-a-featured-image-for-a--ilO8r0Xni7DD.png
+    featuredImage: /assets/img/create-a-featured-image-for-a--ilO8r0Xni7DD.png
   categories:
     - Poetry
     - Writing

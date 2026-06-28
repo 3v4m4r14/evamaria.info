@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2021/11/IMG_0789-scaled.jpg?fit=2560%2C1440&ssl=1
   media:
-    featuredImage: assets/IMG_0789-scaled-lo2IsrgvYUDP.jpg
+    featuredImage: /assets/img/IMG_0789-scaled-lo2IsrgvYUDP.jpg
   categories:
     - Opinion
     - Random
@@ -29,7 +29,7 @@ In any case, reflectors make pedestrians (who, for some unknown reason, always w
 
 Recently, I stumbled upon [a pair of reflector gloves](https://pood.magaziin.ee/product/meeste-sormkindad-atom-reflect-2/) at a local store. After a short debate with myself about whether I really need another pair of gloves, I decided to get them because they appeared to be practical. This has been one of the best buys I have made and I have been meaning to go back to get another pair or two. These gloves are warm-ish, they have rubber lining in the palms, they reflect light in the dark, and they do not dangle off my side – all of which make them perfect for walking the dog. I really need to get another pair of these.
 
-<video height="2160" style="aspect-ratio: 3840 / 2160;" width="3840" controls="" poster="assets/IMG_0789-scaled-D1GQy6AN9WbT.jpg" src="assets/IMG_0791-XvFBXn6FhttT.mov" playsinline=""></video>
+<video height="2160" style="aspect-ratio: 3840 / 2160;" width="3840" controls="" poster="assets/IMG_0789-scaled-D1GQy6AN9WbT.jpg" src="/assets/img/IMG_0791-XvFBXn6FhttT.mov" playsinline=""></video>
 
 Another splendid visibility purchase I have made were [these rechargeable LED sneakers](https://www.aliexpress.com/item/32873826238.html?spm=a2g0o.productlist.0.0.1ba32eb6oqLtRe&algo_pvid=0d0c2453-0369-4908-8e7b-36bce3eecc96&algo_exp_id=0d0c2453-0369-4908-8e7b-36bce3eecc96-1&pdp_ext_f=%7B%22sku_id%22%3A%2210000010458917711%22%7D). Tacky for some, but I like them. They have optic fibers throughout the sneaker so almost the whole foot lights up. And they have different colour combinations, some of which look truly amazing. However, I got white ones and I can only wear them as long as I stick to dry pavement – they are not easy to clean. The batteries can last for a while, though. I have not measured the exact time, but I am pretty sure they could last for a moderate night out. They were also [effective as bike lights in the Netherlands](https://www.instagram.com/p/B4EveaaF3LM9QhHjk8dYH7FQOlAlpOPiTT-KXA0/) (I only have this video on Instagram, sorry). I bring about smiles whenever I walk in the street with my RGB LED sneakers, so I try to do it often.
 

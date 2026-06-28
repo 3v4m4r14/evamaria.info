@@ -1,21 +1,13 @@
 ---
-title: Don&#8217;t fix what ain&#8217;t broken
-authors: []
+title: Don't fix what ain't broken
 date: 2022-11-02T16:33:29.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2022/11/IMG_8379-scaled.jpg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: assets/IMG_8379-scaled-N3QqIgYAK6Ka.jpg
-  categories:
-    - Mind
-    - Self
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1374
-  type: wordpress
-  url: https://evamaria.info/dont-fix-what-aint-broken/
+featuredImage: /assets/img/IMG_8379-scaled-N3QqIgYAK6Ka.jpg
+summary: "Have you ever held a perfectly fine pencil, about to write something down, and thought, \"You know what? This pencil is too blunt. I shall sharpen it!\"? When you proceed to sharp..."
+categories:
+  - Mind
+  - Self
 tags:
-  - mind
-  - self
+permalink: "/posts/wordpress-dont-fix-what-aint-broken/index.html"
 ---
 Have you ever held a perfectly fine pencil, about to write something down, and thought, “You know what? This pencil is too blunt. I shall sharpen it!”? When you proceed to sharpen the pencil, the graphite keeps breaking and breaking and, honestly, the pencil was not even that blunt when you picked it up. You could have easily used it to mark down whatever was on your mind. But now you have invested time and effort in sharpening the damn pencil and you refuse to give up, even though you have forgotten about why you needed the pencil in the first place.
 
@@ -43,7 +35,7 @@ Sometimes, my psychologist asks me some guiding questions to make me think. Some
 
 Before I went to my first psychologist appointment and before I started going semi-regularly, I considered myself a pretty happy person. I consistently tried to look at the bright side of life, noticing the positive and diminishing the negative. I still do, though. My colleagues have commented that I am such a cheerful person and it rubs off on the people around me, too. Even my psychologist said, “It is nice to hear someone say they are doing great for a change.”
 
-![Real Housewives Of Orange County Work GIF](assets/giphy-YxtlXaNPoZxq.gif)
+![Real Housewives Of Orange County Work GIF](/assets/img/giphy-YxtlXaNPoZxq.gif)
 
 However, looking back, I believe I became a more stressed-out person after starting my psychologist experimentation. I started focusing on how I was too little, had too little, or how my partner was not good enough, and just feeling more down in the dumps. I had probably always had these thoughts and feelings, but somehow, they became more prevalent. Admittedly, lots of shit was happening at that time, so it was probably a mix of all these things. Still, I choose to put most of the blame on the appointments.
 
@@ -63,7 +55,7 @@ My **evening ritual** is simple. Before going to bed, I look back at the day. I 
 
 I also practice gratitude. I write down at least three things I am grateful for today. Typically, the list is much longer than three items. They can be simple, such as nice weather or warm socks, or deeper, such as being grateful for having certain people in my life and good things happening to them. Practising gratitude helps me reframe my mind and see all the lovely things around me. It helps me be satisfied and happy with what is, as is. I highly recommend trying it.
 
-![Thank U GIF by The Drew Barrymore Show](assets/giphy-oCEgF0cIikZK.gif)
+![Thank U GIF by The Drew Barrymore Show](/assets/img/giphy-oCEgF0cIikZK.gif)
 
 ## Isn’t it weird…
 

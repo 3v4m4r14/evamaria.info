@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2024/10/IMG_7292-scaled-e1727798400631.jpeg?fit=2560%2C1361&ssl=1
   media:
-    featuredImage: assets/IMG_7292-scaled-e1727798400631-YAww1nkVACQ8.jpeg
+    featuredImage: /assets/img/IMG_7292-scaled-e1727798400631-YAww1nkVACQ8.jpeg
   categories:
     - Opinion
     - Product

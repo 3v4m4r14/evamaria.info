@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2023/12/cherry.jpeg?fit=1024%2C1024&ssl=1
   media:
-    featuredImage: assets/cherry-lz5znIRWvYX6.jpeg
+    featuredImage: /assets/img/cherry-lz5znIRWvYX6.jpeg
   categories:
     - Random
     - Self

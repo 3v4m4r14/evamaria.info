@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2023/09/amongus.jpg?fit=2560%2C1424&ssl=1
   media:
-    featuredImage: assets/amongus-IXv4EZsxGkm2.jpg
+    featuredImage: /assets/img/amongus-IXv4EZsxGkm2.jpg
   categories:
     - Project
     - UX
@@ -49,7 +49,7 @@ While our process worked, it was evident that we could enhance it to save time a
 
 At the heart of the transformation lies a user-friendly, low-code prototype I crafted using [Microsoft PowerApps](https://powerapps.microsoft.com/en-us/). Our minimum viable product is called **Status Update Sender** or, affectionately, **SUS**. This solution, while still a work in progress, has already begun reshaping the way we handle project-related status updates.
 
-![](assets/redsus-A5Yo1BpEr7Kw.png)
+![](/assets/img/redsus-A5Yo1BpEr7Kw.png)
 
 SUS has two key components for the two target groups:
 
@@ -59,19 +59,19 @@ SUS has two key components for the two target groups:
 
 The user interface of Status Update Sender prioritizes functionality while maintaining simplicity. Comprising three screens within the PowerApps canvas app, it efficiently serves the needs of technical project managers. The primary screen provides an overview of active, on-hold, and upcoming projects, displaying essential project details. Users can select a project to access the editing view, where they can modify project-related information and add comments. An email preview and recipient editing popup are integrated within this view. Upon saving changes, the user lands on a read-only form with updated project details, assuring them that the edits were successful. The streamlined UI enhances usability.
 
--   ![](assets/screen1-E0vKXsdep1mK.png)
+-   ![](/assets/img/screen1-E0vKXsdep1mK.png)
     
     Overview of projects
     
--   ![](assets/screen2-K03pHmSPe736.png)
+-   ![](/assets/img/screen2-K03pHmSPe736.png)
     
     Editing view
     
--   ![](assets/screen3-lGFdCcuITu6J.png)
+-   ![](/assets/img/screen3-lGFdCcuITu6J.png)
     
     Email preview
     
--   ![](assets/screen4-ckV64hnu5B4u.png)
+-   ![](/assets/img/screen4-ckV64hnu5B4u.png)
     
     Read-only project information
     
@@ -120,7 +120,7 @@ Of course, bringing this solution to life wasn’t without its challenges. Getti
 
 Collaboration played a crucial role in surmounting these challenges. The support of co-workers like Jan Vend, who helped with the script, and the invaluable feedback and feature suggestions from my team – the main user group – were instrumental in refining our low-code solution.
 
-![](assets/diagram-VCAPEYY46hH9.png)
+![](/assets/img/diagram-VCAPEYY46hH9.png)
 
 ## Empowering Non-Coders: Creating Value Without Tech Expertise
 

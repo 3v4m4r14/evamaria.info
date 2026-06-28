@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/lucy.019.jpeg?fit=1024%2C768&ssl=1
   media:
-    featuredImage: assets/lucy.019-vnUu4diwjrz3.jpeg
+    featuredImage: /assets/img/lucy.019-vnUu4diwjrz3.jpeg
   categories:
     - Writing
   tags:
@@ -33,7 +33,7 @@ I was taking a shower, trying to come up with a presentation topic for my storyt
 
 To do so, I need to tackle two main problems of health monitoring and contraceptives. You can read more about why I see these as problems below. To summarise, current methods are not technologically advanced, they rely on user’s manual input and are, thus, unreliable and inconvenient.
 
-![](assets/lucy.014-NcCyQAEQDxot.jpeg)
+![](/assets/img/lucy.014-NcCyQAEQDxot.jpeg)
 
 There is all this great technology available, so why are we not using it on a wider scale in the health industry? My plan is to create a technological device called Lucy that is placed inside the uterus where it monitors the vitals, such as hormones, pH-level or temperature, releases birth control according to the woman’s wishes, and provides a better, more accurate overview of a woman’s intimate health in general. 9 out of the 10 women I have pitched this initial concept to said that they would use a device like that for either contraception, conception, real-time pregnancy tests, or just to know exactly when their period is starting.
 
@@ -71,7 +71,7 @@ All in all, I have a general vision and I am determined to make Lucy a reality t
 
 Link to Lean Canvas: [https://canvanizer.com/canvas/r0GJNTWbPdLzJ](https://canvanizer.com/canvas/r0GJNTWbPdLzJ)
 
-![](assets/lucy.006-2PNIi4sQOIKA.jpeg)
+![](/assets/img/lucy.006-2PNIi4sQOIKA.jpeg)
 
 In the United States alone, more than [70% of adults](http://www.pewinternet.org/2013/01/28/tracking-for-health/) monitor their health indicators. Some of these adults are women and compared to men, women have one more thing to track — their menstrual cycle. I, personally, just mark down an X in a calendar for when my period starts, and then count about four weeks (give or take) to predict when the river flows red again. This way I can be prepared for it and know to pack tampons with me if my menstruation is supposed to start when away from home.
 
@@ -95,7 +95,7 @@ Birth control has remained more or less the same throughout the years. In genera
 
 The pill is one of the most effective birth control methods. The probability of an unwanted pregnancy is [less than 1%](https://www.plannedparenthood.org/learn/birth-control/birth-control-pill/how-effective-is-the-birth-control-pill) given that the pill is taken properly. Sometimes, however, having a busy schedule makes sticking to the routine of taking the pill tedious and difficult. It is easy to forget and, therefore, cause an error, in this case, a high risk of an unwanted pregnancy. For girls that enjoy partying and alcohol, it is also important to know that the pill is less reliable when vomited out before it has had time to have effect.
 
-![](assets/lucy.015-uXp0q4KkrTNJ.jpeg)
+![](/assets/img/lucy.015-uXp0q4KkrTNJ.jpeg)
 
 Implants and IUDs (intrauterine contraceptive devices aka spirals) solve the problem with forgetting because they sit in a woman’s body for years and do their job silently. However, apart from copper IUDs (which can cause cramps and stronger irregular periods — yuck!), they are still hormonal methods, and extra hormones do funny stuff to our bodies. For some women, they result in weight gain or skin problems. For others, reduced sex drive which is the opposite of why one would supposedly want to use them! And do not get me started on [blood clots or bone loss](https://www.uofmhealth.org/health-library/tw9513).
 
@@ -113,7 +113,7 @@ Pregnancy tests are not very technologically advanced either. It is either peein
 
 All this got me thinking. What if there was a way to improve the accuracy of these period tracking applications? What if me and all the other women could have a real-time status report on what is going on with our bodies? What if we did not have to worry about forgetting to take the birth control or extra hormones affecting us?
 
-![](assets/lucy.019-1-Wx86u3u0hkED.jpeg)
+![](/assets/img/lucy.019-1-Wx86u3u0hkED.jpeg)
 
 As a result, I came up with the concept of a new intrauterine contraceptive and automatic data gathering technology — in short, Lucy. Lucy is a woman’s best friend by enabling her to get a better, more accurate overview of her intimate health. The design is inspired by current intrauterine contraceptives also known as spirals. Lucy is a tiny medical device that is placed inside the uterus where it monitors the vitals, such as the pH-level, temperature, and moisture, and releases birth control depending on the woman’s wishes. It is a silent observer who does not influence anything without explicit permission from the user.
 

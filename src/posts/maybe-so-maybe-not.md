@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_1979.png?fit=4032%2C2268&ssl=1
   media:
-    featuredImage: assets/IMG_1979-ElZOQEBpHtC4.png
+    featuredImage: /assets/img/IMG_1979-ElZOQEBpHtC4.png
   categories:
     - MBSR
     - Mind
