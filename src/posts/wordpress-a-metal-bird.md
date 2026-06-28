@@ -1,7 +1,8 @@
 ---
-title: "A Metal Bird"
-date: "2019-10-29T00:00:00.000Z"
-summary: "A metal bird makes one last turn  \nas the final rays of a setting star  \nglance over its wings  \ndisappearing into the soft milkiness  \nas light as a lovers’ first kiss  \nleavin..."
+title: A Metal Bird
+date: 2019-10-29T15:10:52.000Z
+featuredImage: assets/IMG_0589-BXm6RuRwag9c.jpeg
+summary: "A metal bird makes one last turn as the final rays of a setting star glance over its wings disappearing into the soft milkiness as light as a lovers’ first kiss..."
 categories:
   - Writing
 tags:
@@ -20,8 +21,6 @@ leaving behind a glowing belt of pink.
 
 The night has arrived.  
 And so have I.
-
-<!--more-->
 
 - ![](/assets/img/wordpress-import/posts/wordpress-a-metal-bird/IMG_0589-1024x768.jpeg)
     
