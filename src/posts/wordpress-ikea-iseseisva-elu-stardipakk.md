@@ -2,8 +2,18 @@
 title: "IKEA iseseisva elu stardipakk"
 date: "2024-10-01T00:00:00.000Z"
 summary: "Komistasin viimati IKEAs lihapalle mugimas käies uue toote otsa: iseseisva elu stardipakk. Komplekt koosneb hoiukastist ja erinevatest köögitarvikutest: potid-pannid, taldrikud-..."
+categories:
+  - Opinion
+  - Product
+  - Psychology
+  - UX
 tags:
-  - post
+  - analysis
+  - ikea
+  - life
+  - marketing
+  - product
+  - psychology
 permalink: "/posts/wordpress-ikea-iseseisva-elu-stardipakk/index.html"
 ---
 

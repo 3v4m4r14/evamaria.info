@@ -3,6 +3,7 @@ const path = require('path');
 
 const root = path.resolve(__dirname, '..');
 const importRoot = path.join(root, 'wordpress-import', 'output');
+const exportPath = path.join(root, 'wordpress-import', 'export.xml');
 const assetRoot = path.join(root, 'src', 'assets', 'img', 'wordpress-import');
 
 function ensureDir(dirPath) {
@@ -176,36 +177,82 @@ function resolveDate(inputDate) {
   return trimmed;
 }
 
-function parseTags(frontMatter) {
-  const direct = frontMatter.tags;
-  if (Array.isArray(direct)) return direct;
-  if (typeof direct === 'string') {
-    return direct.split(',').map((item) => item.trim()).filter(Boolean);
+function parseWordPressExportTaxonomy() {
+  if (!fs.existsSync(exportPath)) {
+    return new Map();
   }
-  const categories = frontMatter.categories;
-  if (Array.isArray(categories)) return categories;
-  return ['post'];
+
+  const xml = fs.readFileSync(exportPath, 'utf8');
+  const lookup = new Map();
+  const itemMatches = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)];
+
+  for (const [, itemText] of itemMatches) {
+    const postTypeMatch = itemText.match(/<wp:post_type>([\s\S]*?)<\/wp:post_type>/);
+    const postType = postTypeMatch ? postTypeMatch[1].trim() : '';
+    if (!['post', 'project'].includes(postType)) continue;
+
+    const titleMatch = itemText.match(/<title>([\s\S]*?)<\/title>/);
+    const title = titleMatch ? titleMatch[1].trim() : '';
+    const postNameMatch = itemText.match(/<wp:post_name>([\s\S]*?)<\/wp:post_name>/);
+    const postName = postNameMatch ? postNameMatch[1].trim() : '';
+    const categories = [...itemText.matchAll(/<category[^>]*domain="category"[^>]*>([\s\S]*?)<\/category>/g)]
+      .map((match) => match[1].replace(/<[^>]+>/g, '').trim())
+      .filter(Boolean);
+    const tags = [...itemText.matchAll(/<category[^>]*domain="post_tag"[^>]*>([\s\S]*?)<\/category>/g)]
+      .map((match) => match[1].replace(/<[^>]+>/g, '').trim())
+      .filter(Boolean);
+
+    const taxonomy = { categories, tags };
+    if (title) {
+      lookup.set(slugify(title), taxonomy);
+    }
+    if (postName) {
+      lookup.set(slugify(postName), taxonomy);
+    }
+  }
+
+  return lookup;
 }
 
-function writePostFile(sourcePath, targetPath, title, date, body, tags, contentType, baseTag) {
+function parseTags(frontMatter, taxonomyData, baseTag) {
+  const direct = frontMatter.tags;
+  const existingTags = Array.isArray(direct)
+    ? direct
+    : typeof direct === 'string'
+      ? direct.split(',').map((item) => item.trim()).filter(Boolean)
+      : [];
+  const categories = Array.isArray(frontMatter.categories)
+    ? frontMatter.categories
+    : [];
+  const taxonomyTags = Array.isArray(taxonomyData?.tags) ? taxonomyData.tags : [];
+  const taxonomyCategories = Array.isArray(taxonomyData?.categories) ? taxonomyData.categories : [];
+  const mergedTags = [...new Set([baseTag, ...existingTags, ...categories, ...taxonomyCategories, ...taxonomyTags].filter(Boolean))];
+  return mergedTags;
+}
+
+function writePostFile(sourcePath, targetPath, title, date, body, frontMatter, contentType, baseTag, taxonomyData) {
   const targetName = path.basename(targetPath);
   const slug = path.basename(targetName, '.md');
   const assetBaseDir = path.join(assetRoot, contentType);
   const rewrittenBody = rewriteAssets(body, path.dirname(sourcePath), assetBaseDir, slug, contentType);
-  const normalizedTags = Array.isArray(tags) ? tags : [tags];
+  const normalizedTags = Array.isArray(frontMatter.tags) ? frontMatter.tags : [frontMatter.tags];
   const finalTags = [...new Set([baseTag, ...normalizedTags].filter(Boolean))];
   const permalink = contentType === 'posts'
     ? `/posts/${slug}/index.html`
     : `/projects/${slug}/index.html`;
-  const frontMatter = {
+  const categories = Array.isArray(taxonomyData?.categories) && taxonomyData.categories.length
+    ? taxonomyData.categories
+    : undefined;
+  const frontMatterData = {
     title,
     date: resolveDate(date),
     summary: extractSummary(rewrittenBody),
-    tags: finalTags,
+    ...(categories ? { categories } : {}),
+    tags: parseTags(frontMatter, taxonomyData, baseTag),
     permalink,
   };
 
-  const content = `${stringifyFrontMatter(frontMatter)}\n\n${rewrittenBody}`;
+  const content = `${stringifyFrontMatter(frontMatterData)}\n\n${rewrittenBody}`;
   fs.writeFileSync(targetPath, content, 'utf8');
   return targetPath;
 }
@@ -239,7 +286,7 @@ function writeHomeFile(sourcePath) {
   fs.writeFileSync(path.join(root, 'src', '_data', 'home.json'), `${JSON.stringify(homeData, null, 2)}\n`, 'utf8');
 }
 
-function processPosts() {
+async function processPosts(exportTaxonomy) {
   const postsDir = path.join(importRoot, 'posts');
   const targetDir = path.join(root, 'src', 'posts');
   ensureDir(targetDir);
@@ -250,11 +297,12 @@ function processPosts() {
     const title = frontMatter.title || path.basename(file, '.md');
     const slug = slugify(title || path.basename(file, '.md')) || path.basename(file, '.md');
     const targetPath = path.join(targetDir, `wordpress-${slug}.md`);
-    writePostFile(filePath, targetPath, title, frontMatter.date, body, parseTags(frontMatter), 'posts', 'post');
+    const taxonomyData = exportTaxonomy.get(slug) || exportTaxonomy.get(slugify(path.basename(file, '.md').replace(/^wordpress-/, '')));
+    writePostFile(filePath, targetPath, title, frontMatter.date, body, frontMatter, 'posts', 'post', taxonomyData);
   }
 }
 
-function processProjects() {
+async function processProjects(exportTaxonomy) {
   const projectsDir = path.join(importRoot, 'custom', 'rara-portfolio');
   const targetDir = path.join(root, 'src', 'projects');
   ensureDir(targetDir);
@@ -265,11 +313,12 @@ function processProjects() {
     const title = frontMatter.title || path.basename(file, '.md');
     const slug = slugify(title || path.basename(file, '.md')) || path.basename(file, '.md');
     const targetPath = path.join(targetDir, `wordpress-${slug}.md`);
-    writePostFile(filePath, targetPath, title, frontMatter.date, body, parseTags(frontMatter), 'projects', 'project');
+    const taxonomyData = exportTaxonomy.get(slug) || exportTaxonomy.get(slugify(path.basename(file, '.md').replace(/^wordpress-/, '')));
+    writePostFile(filePath, targetPath, title, frontMatter.date, body, frontMatter, 'projects', 'project', taxonomyData);
   }
 }
 
-function processPages() {
+async function processPages() {
   const pageFiles = [
     { source: path.join(importRoot, 'pages', 'about-eva.md'), target: path.join(root, 'src', 'pages', 'wordpress-about-eva.md'), permalink: '/about-eva/index.html', navKey: 'About Eva', navOrder: 1 },
     { source: path.join(importRoot, 'pages', 'blog.md'), target: path.join(root, 'src', 'pages', 'wordpress-blog.md'), permalink: '/wordpress-blog/index.html', navKey: 'WordPress Blog', navOrder: 2 },
@@ -286,8 +335,9 @@ function processPages() {
 }
 
 ensureDir(assetRoot);
-processPosts();
-processProjects();
+const exportTaxonomy = parseWordPressExportTaxonomy();
+processPosts(exportTaxonomy);
+processProjects(exportTaxonomy);
 processPages();
 
 fs.rmSync(path.join(root, 'src', 'posts', 'wordpress-import'), { recursive: true, force: true });

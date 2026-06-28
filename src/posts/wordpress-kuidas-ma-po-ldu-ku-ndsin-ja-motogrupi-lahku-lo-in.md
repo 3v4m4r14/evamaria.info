@@ -3,7 +3,6 @@ title: "Kuidas ma põldu kündsin ja motogrupi lahku lõin"
 date: "2022-07-28T00:00:00.000Z"
 summary: "Hoiatus: oma vaimse tervise huvides on rangelt soovituslik mitte edasi lugeda, kui omad minuga veresugulust!"
 tags:
-  - post
 permalink: "/posts/wordpress-kuidas-ma-po-ldu-ku-ndsin-ja-motogrupi-lahku-lo-in/index.html"
 ---
 

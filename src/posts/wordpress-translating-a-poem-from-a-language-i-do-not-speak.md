@@ -2,8 +2,13 @@
 title: "Translating a poem from a language I do not speak"
 date: "2019-09-01T00:00:00.000Z"
 summary: "I had the opportunity to translate a poem for one of my projects (FireFlies). To be fair, we formulated the project in a way that created this opportunity. I adore writing littl..."
+categories:
+  - Project
+  - Writing
 tags:
-  - post
+  - poetry
+  - project
+  - translate
 permalink: "/posts/wordpress-translating-a-poem-from-a-language-i-do-not-speak/index.html"
 ---
 

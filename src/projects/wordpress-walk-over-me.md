@@ -3,8 +3,8 @@ title: "Walk Over Me"
 date: "2019-10-29T00:00:00.000Z"
 summary: "Walk Over Me is an interactive touch-sensitive light-up floor designed to support and inspire physical play."
 tags:
-  - project
-  - post
+  - Product Design
+  - UX Design
 permalink: "/projects/wordpress-walk-over-me/index.html"
 ---
 

@@ -3,8 +3,7 @@ title: "Moto Slots"
 date: "2025-06-02T00:00:00.000Z"
 summary: "Moto Slots is a playful slot machine game, inspired by my motorcycling group’s shared love for motorcycles, coffee, and hedgehogs. Built using Cursor AI, this project was a hand..."
 tags:
-  - project
-  - post
+  - Product Design
 permalink: "/projects/wordpress-moto-slots/index.html"
 ---
 

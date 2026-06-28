@@ -2,8 +2,16 @@
 title: "Maybe so, maybe not"
 date: "2020-02-18T00:00:00.000Z"
 summary: "There is an old Zen Buddhist story about how we tend to see events as either good or bad, not simply neutral happenings in life as a bigger whole. I have copied the story at the..."
+categories:
+  - MBSR
+  - Mind
+  - Self
 tags:
-  - post
+  - MBSR
+  - life
+  - mind
+  - mindfulness
+  - self-development
 permalink: "/posts/wordpress-maybe-so-maybe-not/index.html"
 ---
 

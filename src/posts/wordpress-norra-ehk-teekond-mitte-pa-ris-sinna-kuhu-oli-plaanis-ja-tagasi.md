@@ -3,7 +3,6 @@ title: "Norra ehk teekond mitte-päris-sinna-kuhu-oli-plaanis ja tagasi"
 date: "2023-09-09T00:00:00.000Z"
 summary: "Kui siin ilmas veel midagi kindlat on, siis see, et kui sul on matkaratas, pead sa vähemalt korra motomatkal ära käima. Kuna Riido ostis kevadel BMW GSi, oli juba enne poest väl..."
 tags:
-  - post
 permalink: "/posts/wordpress-norra-ehk-teekond-mitte-pa-ris-sinna-kuhu-oli-plaanis-ja-tagasi/index.html"
 ---
 

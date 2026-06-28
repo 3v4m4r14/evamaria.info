@@ -2,8 +2,10 @@
 title: "The Wildflower"
 date: "2019-04-12T00:00:00.000Z"
 summary: "In the middle of a vast field of greenery grew a bedazzling lone Wildflower. She was born deep in the ground."
+categories:
+  - Writing
 tags:
-  - post
+  - storytelling
 permalink: "/posts/wordpress-the-wildflower/index.html"
 ---
 

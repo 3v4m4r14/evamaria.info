@@ -2,8 +2,10 @@
 title: "WHAT YOU SEE IS *NOT* WHAT YOU GET"
 date: "2022-05-16T00:00:00.000Z"
 summary: "The prices shown on the web pages of Estonian telecommunication providers are usually twice as high as what the people actually pay. It is general knowledge that you must reach..."
+categories:
+  - Opinion
+  - Random
 tags:
-  - post
 permalink: "/posts/wordpress-what-you-see-is-not-what-you-get/index.html"
 ---
 

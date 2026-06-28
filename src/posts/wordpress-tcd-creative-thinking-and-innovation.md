@@ -2,8 +2,15 @@
 title: "TCD: Creative Thinking and Innovation"
 date: "2020-03-09T00:00:00.000Z"
 summary: "I am attending a module on Creative Thinking and Innovation at Trinity College Dublin. I hereby want to share some topics that Fergal Brophy covered today and what thoughts they..."
+categories:
+  - Event
 tags:
-  - post
+  - course
+  - creativity
+  - dublin
+  - education
+  - innovation
+  - trinity
 permalink: "/posts/wordpress-tcd-creative-thinking-and-innovation/index.html"
 ---
 

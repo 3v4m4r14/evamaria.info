@@ -3,7 +3,6 @@ title: "Mida motomatkale mitte kaasa võtta"
 date: "2024-09-06T00:00:00.000Z"
 summary: "Käisime Nordkappis (Kapis?). Kahe matkarattaga. Kokku kuue kohvriga, kõik asju täis, pluss veekindlad kotid saba peal. Ilmselgelt liiga palju asju pooleteise nädala jaoks. Niisi..."
 tags:
-  - post
 permalink: "/posts/wordpress-mida-motomatkale-mitte-kaasa-vo-tta/index.html"
 ---
 

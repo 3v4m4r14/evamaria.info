@@ -2,8 +2,16 @@
 title: "Transforming project updates with low-code innovation"
 date: "2023-09-21T00:00:00.000Z"
 summary: "Ever wished you could revolutionize your work processes without coding skills? Discover how a simple idea and a low-code solution transformed our status updates, and how you can..."
+categories:
+  - Project
+  - UX
 tags:
-  - post
+  - innovation
+  - low-code
+  - microsoft
+  - powerapps
+  - programming
+  - ux
 permalink: "/posts/wordpress-transforming-project-updates-with-low-code-innovation/index.html"
 ---
 

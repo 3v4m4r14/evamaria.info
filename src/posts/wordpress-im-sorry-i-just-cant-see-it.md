@@ -2,8 +2,10 @@
 title: "I'm sorry, I just can't see it"
 date: "2021-08-29T00:00:00.000Z"
 summary: "99% of the time, I am a glasses person. However, contact lenses are safer and more comfortable when wearing a motorcycle helmet. Since I am all about saving, I have been explori..."
+categories:
+  - Opinion
+  - UX
 tags:
-  - post
 permalink: "/posts/wordpress-im-sorry-i-just-cant-see-it/index.html"
 ---
 

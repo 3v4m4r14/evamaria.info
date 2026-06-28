@@ -2,8 +2,11 @@
 title: "Why I won't tell people to \\\"look it up\\\"​ anymore"
 date: "2019-03-21T00:00:00.000Z"
 summary: "Yesterday, somebody asked me what a hermit crab is. I told them to look it up."
+categories:
+  - Opinion
 tags:
-  - post
+  - faq
+  - search
 permalink: "/posts/wordpress-why-i-wont-tell-people-to-look-it-up-anymore/index.html"
 ---
 

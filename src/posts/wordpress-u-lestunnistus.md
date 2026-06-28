@@ -3,7 +3,6 @@ title: "Ülestunnistus"
 date: "2020-10-03T00:00:00.000Z"
 summary: "_Essay from April 2015 submitted to a competition by Metsaülikool and published in a collection of articles in 2020._"
 tags:
-  - post
 permalink: "/posts/wordpress-u-lestunnistus/index.html"
 ---
 

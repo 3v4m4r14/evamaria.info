@@ -2,8 +2,15 @@
 title: "What is a tactile screen?"
 date: "2019-09-19T00:00:00.000Z"
 summary: "##### An understandable explanation"
+categories:
+  - Writing
 tags:
-  - post
+  - communication
+  - explain
+  - science
+  - screen
+  - tactile
+  - university
 permalink: "/posts/wordpress-what-is-a-tactile-screen/index.html"
 ---
 

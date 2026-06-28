@@ -2,8 +2,17 @@
 title: "I had coffee around seven"
 date: "2025-01-20T00:00:00.000Z"
 summary: "I had coffee around seven  \nFor a moment, it was heaven  \nBut now it is eleven  \nAnd I cannot fall asleep"
+categories:
+  - Poetry
+  - Writing
 tags:
-  - post
+  - body
+  - coffee
+  - mind
+  - neighbours
+  - poetry
+  - sleep
+  - tired
 permalink: "/posts/wordpress-i-had-coffee-around-seven/index.html"
 ---
 

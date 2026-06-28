@@ -3,8 +3,8 @@ title: "LUCY"
 date: "2019-01-28T00:00:00.000Z"
 summary: "_The following text is the final presentation for my storytelling class. As can be seen, I enjoy talking about intimate health even if it makes the audience uncomfortable. You s..."
 tags:
-  - project
-  - post
+  - Product Design
+  - Storytelling
 permalink: "/projects/wordpress-lucy/index.html"
 ---
 

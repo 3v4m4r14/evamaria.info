@@ -2,8 +2,12 @@
 title: "I feel like swimming through the air"
 date: "2020-02-15T00:00:00.000Z"
 summary: "I went to a lesson of contact improvisation by Kahbam and Loby Lam. Contact improvisation is a form of improvised dancing that focuses on body awareness, sharing touch, weight,..."
+categories:
+  - Self
 tags:
-  - post
+  - art
+  - body
+  - mind
 permalink: "/posts/wordpress-i-feel-like-swimming-through-the-air/index.html"
 ---
 

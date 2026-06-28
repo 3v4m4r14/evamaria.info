@@ -2,8 +2,16 @@
 title: "MBSR 4: Virgin meditation"
 date: "2020-02-23T00:00:00.000Z"
 summary: "I find it fascinating how the mind tricks us. When I close my eyes and meditate for 30 minutes, all sorts of peculiar things happen."
+categories:
+  - MBSR
+  - Mind
+  - Self
 tags:
-  - post
+  - MBSR
+  - body
+  - mind
+  - mindfulness
+  - self-development
 permalink: "/posts/wordpress-mbsr-4-virgin-meditation/index.html"
 ---
 

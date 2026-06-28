@@ -2,8 +2,11 @@
 title: "Who you gonna call? Night Watchers."
 date: "2020-01-05T00:00:00.000Z"
 summary: "Last night I woke up to a car alarm. It took me a while to realise that the noise I heard through my deep sleep was indeed a car alarm. As a fellow car owner myself, I know that..."
+categories:
+  - Random
 tags:
-  - post
+  - Amsterdam
+  - life
 permalink: "/posts/wordpress-who-you-gonna-call-night-watchers/index.html"
 ---
 

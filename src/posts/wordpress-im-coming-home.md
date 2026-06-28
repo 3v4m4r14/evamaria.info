@@ -2,8 +2,10 @@
 title: "I'm coming home"
 date: "2020-08-18T00:00:00.000Z"
 summary: "Only a few things are better than sitting alone on my bed in front of an open window in my tiny studio in Amsterdam, watching the sun set behind the railway and a countless numb..."
+categories:
+  - Random
+  - Self
 tags:
-  - post
 permalink: "/posts/wordpress-im-coming-home/index.html"
 ---
 

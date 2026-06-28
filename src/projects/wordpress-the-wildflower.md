@@ -3,8 +3,7 @@ title: "The Wildflower"
 date: "2019-09-02T00:00:00.000Z"
 summary: "https://soundcloud.com/eva-maria-veitmaa/the-wildflower"
 tags:
-  - project
-  - post
+  - Storytelling
 permalink: "/projects/wordpress-the-wildflower/index.html"
 ---
 

@@ -2,8 +2,14 @@
 title: "Hogwarts on Earth"
 date: "2019-09-10T00:00:00.000Z"
 summary: "When I started my Master's, I basically saw it as a way to live abroad for a while, experience new cultures, and meet new people. It has been all that and much more!"
+categories:
+  - Opinion
 tags:
-  - post
+  - review
+  - twente
+  - university
+  - ut
+  - utwente
 permalink: "/posts/wordpress-hogwarts-on-earth/index.html"
 ---
 

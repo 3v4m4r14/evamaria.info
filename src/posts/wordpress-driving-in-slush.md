@@ -2,8 +2,11 @@
 title: "Driving in Slush"
 date: "2020-01-21T00:00:00.000Z"
 summary: "My Slush certificate came in. It states that I did good in my volunteer position. While I agree with them that I was, indeed, excellent and maybe even surpassed my capabilities..."
+categories:
+  - Event
+  - Opinion
 tags:
-  - post
+  - volunteer
 permalink: "/posts/wordpress-driving-in-slush/index.html"
 ---
 

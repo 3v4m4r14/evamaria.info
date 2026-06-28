@@ -2,8 +2,15 @@
 title: "About Recording And Sound Design"
 date: "2019-04-12T00:00:00.000Z"
 summary: "People behave in different ways when being recorded."
+categories:
+  - Project
 tags:
-  - post
+  - audio
+  - design
+  - project
+  - recording
+  - sound
+  - storytelling
 permalink: "/posts/wordpress-about-recording-and-sound-design/index.html"
 ---
 

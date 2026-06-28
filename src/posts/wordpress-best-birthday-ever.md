@@ -2,8 +2,10 @@
 title: "Best birthday ever"
 date: "2021-06-07T00:00:00.000Z"
 summary: "On the eve of June 6, I ordered sushi. I deserved it. I was about to get a year older. Quarter of a century - that's a landmark to celebrate, they said."
+categories:
+  - Event
+  - Random
 tags:
-  - post
 permalink: "/posts/wordpress-best-birthday-ever/index.html"
 ---
 

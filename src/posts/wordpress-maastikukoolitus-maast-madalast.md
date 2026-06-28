@@ -2,8 +2,25 @@
 title: "Maastikukoolitus maast madalast"
 date: "2025-06-08T00:00:00.000Z"
 summary: "Käisin Nordmoto korraldatud off-road mootorrattakoolitusel. No ja see ei olnud kohe üldse see, mis ma arvasin, et ta on!"
+categories:
+  - Random
 tags:
-  - post
+  - BMW
+  - BMW R1200 GS
+  - Nordmoto
+  - karjäär
+  - koolitus
+  - maastik
+  - maastikusõit
+  - mootorratas
+  - mota
+  - moto
+  - motorcycle
+  - off-road
+  - self-development
+  - training
+  - treening
+  - tsikkel
 permalink: "/posts/wordpress-maastikukoolitus-maast-madalast/index.html"
 ---
 

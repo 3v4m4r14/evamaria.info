@@ -3,8 +3,8 @@ title: "MenoPositive"
 date: "2019-10-06T00:00:00.000Z"
 summary: "Menopause. It is a natural process that hits around 50% of the population sooner or later. However, we do not really talk about it. Perimenopausal people stay silent. They suffe..."
 tags:
-  - project
-  - post
+  - Product Design
+  - Business Development
 permalink: "/projects/wordpress-menopositive/index.html"
 ---
 

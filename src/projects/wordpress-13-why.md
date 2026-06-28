@@ -3,8 +3,8 @@ title: "13'' WHY"
 date: "2019-01-31T00:00:00.000Z"
 summary: "> Redesigning Tinder for Digital Intimacy"
 tags:
-  - project
-  - post
+  - Product Design
+  - UX Design
 permalink: "/projects/wordpress-13-why/index.html"
 ---
 

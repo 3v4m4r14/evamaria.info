@@ -2,8 +2,15 @@
 title: "TalTech INIT 2025"
 date: "2025-03-08T00:00:00.000Z"
 summary: "Nägin öösel unes, et olin tagasi gümnaasiumis. Meil oli ajaloo kontrolltöö. Ma ei olnud õppinud ega teadnud ühtegi vastust. Isegi see ei aidanud, et vastusevariandid olid ette a..."
+categories:
+  - Event
+  - Opinion
 tags:
-  - post
+  - dream
+  - presentation
+  - public
+  - slides
+  - university
 permalink: "/posts/wordpress-taltech-init-2025/index.html"
 ---
 

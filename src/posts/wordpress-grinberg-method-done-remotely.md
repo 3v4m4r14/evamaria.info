@@ -2,8 +2,17 @@
 title: "Grinberg method. Done remotely."
 date: "2020-03-28T00:00:00.000Z"
 summary: "I saw a post on Reddit the other day where a Grinberg practitioner was looking for volunteers who could help him try out an online session. Of course, I signed up."
+categories:
+  - Self
 tags:
-  - post
+  - body
+  - feeling
+  - guilt
+  - mind
+  - online
+  - research
+  - stress
+  - thesis
 permalink: "/posts/wordpress-grinberg-method-done-remotely/index.html"
 ---
 

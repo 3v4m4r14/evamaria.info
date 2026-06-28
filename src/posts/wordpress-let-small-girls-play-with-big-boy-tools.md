@@ -2,8 +2,11 @@
 title: "Let small girls play with big boy tools"
 date: "2019-04-16T00:00:00.000Z"
 summary: "When Kasper invited me over to help with building stage decor and said that my task would be playing around with a jigsaw, I had pictured sitting on a clean floor, putting toget..."
+categories:
+  - Opinion
 tags:
-  - post
+  - self-development
+  - woodwork
 permalink: "/posts/wordpress-let-small-girls-play-with-big-boy-tools/index.html"
 ---
 

@@ -2,8 +2,14 @@
 title: "MBSR 3: How I achieved a state of no bones"
 date: "2020-02-20T00:00:00.000Z"
 summary: "##### aka Body scan for pain relief"
+categories:
+  - MBSR
+  - Self
 tags:
-  - post
+  - MBSR
+  - body
+  - mind
+  - mindfulness
 permalink: "/posts/wordpress-mbsr-3-how-i-achieved-a-state-of-no-bones/index.html"
 ---
 

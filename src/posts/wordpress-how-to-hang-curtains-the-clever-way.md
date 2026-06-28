@@ -2,8 +2,9 @@
 title: "How to hang curtains (the clever way)"
 date: "2020-03-30T00:00:00.000Z"
 summary: "I received this beautiful pink see-through day curtain material the other day. It was a perfect match with my pink bedsheet and the pink decorative pillow that I had been given..."
+categories:
+  - Random
 tags:
-  - post
 permalink: "/posts/wordpress-how-to-hang-curtains-the-clever-way/index.html"
 ---
 

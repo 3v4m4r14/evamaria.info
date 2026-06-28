@@ -3,8 +3,8 @@ title: "Sofa Volume Slider"
 date: "2019-09-13T00:00:00.000Z"
 summary: "What if we could control devices with our soma?"
 tags:
-  - project
-  - post
+  - Storytelling
+  - UX Design
 permalink: "/projects/wordpress-sofa-volume-slider/index.html"
 ---
 

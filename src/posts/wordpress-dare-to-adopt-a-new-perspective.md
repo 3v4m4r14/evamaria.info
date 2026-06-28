@@ -2,8 +2,10 @@
 title: "Dare to adopt a new perspective"
 date: "2020-08-31T00:00:00.000Z"
 summary: "Yesterday, I went to buy myself some new glasses. My previous ones had slid off the motorcycle when I was taking off my helmet and landed right underneath my partner's foot. Cla..."
+categories:
+  - Opinion
+  - Random
 tags:
-  - post
 permalink: "/posts/wordpress-dare-to-adopt-a-new-perspective/index.html"
 ---
 

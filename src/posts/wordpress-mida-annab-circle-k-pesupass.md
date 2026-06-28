@@ -2,8 +2,9 @@
 title: "Mida annab Circle K Pesupass?"
 date: "2023-03-14T00:00:00.000Z"
 summary: "Kes veel ei tea, siis Circle K paistab olevat oma autopesu-teisipäevad asendanud Pesupassiga - püsitellimusloogikal automaatpesula teenusega. Katsetasin seda kuu aega ja jagan m..."
+categories:
+  - Opinion
 tags:
-  - post
 permalink: "/posts/wordpress-mida-annab-circle-k-pesupass/index.html"
 ---
 

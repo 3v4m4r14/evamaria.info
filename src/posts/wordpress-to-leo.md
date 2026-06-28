@@ -2,8 +2,11 @@
 title: "To Leo"
 date: "2020-11-17T00:00:00.000Z"
 summary: "I saw you sitting in the corner today, panting, smiling, and looking at me. I read somewhere that dogs do not smile naturally. It's a skill only some of you adopt by observing u..."
+categories:
+  - Animals
+  - Random
+  - Writing
 tags:
-  - post
 permalink: "/posts/wordpress-to-leo/index.html"
 ---
 

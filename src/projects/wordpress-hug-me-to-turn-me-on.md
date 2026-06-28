@@ -3,8 +3,7 @@ title: "Hug Me To Turn Me On"
 date: "2019-09-18T00:00:00.000Z"
 summary: "Solar-powered lights can be used in many different ways, not only as garden lights."
 tags:
-  - project
-  - post
+  - UX Design
 permalink: "/projects/wordpress-hug-me-to-turn-me-on/index.html"
 ---
 

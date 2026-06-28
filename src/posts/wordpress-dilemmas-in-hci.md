@@ -2,8 +2,15 @@
 title: "Dilemmas in HCI"
 date: "2019-04-13T00:00:00.000Z"
 summary: "The domain of Human Computer Interaction is riddled with dilemmas affecting both users and designers. Let some of these problems be presented as follows."
+categories:
+  - Opinion
 tags:
-  - post
+  - analysis
+  - design
+  - dilemma
+  - hci
+  - research
+  - user
 permalink: "/posts/wordpress-dilemmas-in-hci/index.html"
 ---
 

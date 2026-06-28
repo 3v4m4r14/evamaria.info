@@ -2,8 +2,14 @@
 title: "MBSR 1: Mindfully eating a pecan nut"
 date: "2020-02-16T00:00:00.000Z"
 summary: "#### Exercise"
+categories:
+  - MBSR
+  - Self
 tags:
-  - post
+  - MBSR
+  - mind
+  - mindfulness
+  - stress
 permalink: "/posts/wordpress-mbsr-1-mindfully-eating-a-pecan-nut/index.html"
 ---
 

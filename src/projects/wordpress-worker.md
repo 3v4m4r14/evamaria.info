@@ -3,8 +3,8 @@ title: "WorkER"
 date: "2019-04-01T00:00:00.000Z"
 summary: "WorkER is a mobile-based virtual reality application designed to simulate a variety of emergency situations. WorkER can be used for training and testing purposes by emergency wo..."
 tags:
-  - project
-  - post
+  - Product Design
+  - Business Development
 permalink: "/projects/wordpress-worker/index.html"
 ---
 

@@ -2,8 +2,18 @@
 title: "From worries to motivations"
 date: "2020-02-14T00:00:00.000Z"
 summary: "Lately, I have been feeling dissatisfied. Restless. Anxious. Worried. Worn."
+categories:
+  - Project
+  - Self
 tags:
-  - post
+  - MBSR
+  - design
+  - mind
+  - mindfulness
+  - project
+  - research
+  - self-development
+  - stress
 permalink: "/posts/wordpress-from-worries-to-motivations/index.html"
 ---
 

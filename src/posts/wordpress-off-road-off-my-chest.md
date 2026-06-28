@@ -2,8 +2,25 @@
 title: "Off-road off my chest"
 date: "2025-06-08T00:00:00.000Z"
 summary: "I attended an off-road motorcycle training organized by Nordmoto. And let me tell you, it was nothing like what I expected!"
+categories:
+  - Random
 tags:
-  - post
+  - BMW
+  - BMW R1200 GS
+  - Nordmoto
+  - karjäär
+  - koolitus
+  - maastik
+  - maastikusõit
+  - mootorratas
+  - mota
+  - moto
+  - motorcycle
+  - off-road
+  - self-development
+  - training
+  - treening
+  - tsikkel
 permalink: "/posts/wordpress-off-road-off-my-chest/index.html"
 ---
 

@@ -2,8 +2,10 @@
 title: "Don't fix what ain't broken"
 date: "2022-11-02T00:00:00.000Z"
 summary: "Have you ever held a perfectly fine pencil, about to write something down, and thought, \"You know what? This pencil is too blunt. I shall sharpen it!\"? When you proceed to sharp..."
+categories:
+  - Mind
+  - Self
 tags:
-  - post
 permalink: "/posts/wordpress-dont-fix-what-aint-broken/index.html"
 ---
 

@@ -2,8 +2,9 @@
 title: "The future of the Electronic Medical Record"
 date: "2020-09-06T00:00:00.000Z"
 summary: "> Test task for UI/UX designer at Nortal"
+categories:
+  - Project
 tags:
-  - post
 permalink: "/posts/wordpress-the-future-of-the-electronic-medical-record/index.html"
 ---
 

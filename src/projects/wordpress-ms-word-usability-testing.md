@@ -3,8 +3,7 @@ title: "MS Word Usability Testing"
 date: "2019-02-27T00:00:00.000Z"
 summary: "The built-in predefined styles feature of Microsoft Word lets users categorise parts of their document. This allows reusability - assigning the same style to different sections,..."
 tags:
-  - project
-  - post
+  - UX Design
 permalink: "/projects/wordpress-ms-word-usability-testing/index.html"
 ---
 

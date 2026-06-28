@@ -2,8 +2,9 @@
 title: "Holy poly! and the Dutch levels of dating"
 date: "2022-01-03T00:00:00.000Z"
 summary: "Do you consider yourself polygamous? Polyandrous? Polyamorous? To me, the definition of \"polygamy\" has always been straightforward - one person being in a relationship with mult..."
+categories:
+  - Random
 tags:
-  - post
 permalink: "/posts/wordpress-holy-poly-and-the-dutch-levels-of-dating/index.html"
 ---
 

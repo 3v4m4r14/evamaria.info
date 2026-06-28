@@ -2,8 +2,10 @@
 title: "Minek."
 date: "2021-08-03T00:00:00.000Z"
 summary: "\"Minek on kümne minuti pärast. Kolmeteist, kui täpne olla. Kas sa oled valmis?\""
+categories:
+  - Random
+  - Writing
 tags:
-  - post
 permalink: "/posts/wordpress-minek/index.html"
 ---
 

@@ -2,8 +2,24 @@
 title: "EIT Alumni Startup Days x Women@EIT"
 date: "2019-09-29T00:00:00.000Z"
 summary: "I had one of the best and most relaxing hackathon experiences yesterday at EIT Alumni Startup Days X Women@EIT."
+categories:
+  - Event
+  - Hackathon
 tags:
-  - post
+  - afound
+  - competition
+  - eit
+  - event
+  - fashion
+  - hackathon
+  - online
+  - retail
+  - return
+  - robot
+  - startup
+  - sustainability
+  - technology
+  - women
 permalink: "/posts/wordpress-eit-alumni-startup-days-x-women-eit/index.html"
 ---
 

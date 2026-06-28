@@ -3,8 +3,7 @@ title: "Note-Taking Habits"
 date: "2018-11-01T00:00:00.000Z"
 summary: "This case study on note-taking habits of a student at the University of Twente was a user research project carried out to familiarise myself with common user research concepts,..."
 tags:
-  - project
-  - post
+  - UX Design
 permalink: "/projects/wordpress-note-taking-habits/index.html"
 ---
 

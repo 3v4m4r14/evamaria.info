@@ -2,8 +2,10 @@
 title: "How violence is sometimes the correct answer"
 date: "2020-06-02T00:00:00.000Z"
 summary: "It was a splendid morning in the Netherlands. The weather was nice. The sun was shining."
+categories:
+  - Random
 tags:
-  - post
+  - life
 permalink: "/posts/wordpress-how-violence-is-sometimes-the-correct-answer/index.html"
 ---
 

@@ -2,8 +2,15 @@
 title: "Effort versus Outcome"
 date: "2025-01-09T00:00:00.000Z"
 summary: "## Doing work is not the same as achieving an outcome."
+categories:
+  - Product
+  - Work
 tags:
-  - post
+  - effort
+  - home
+  - life
+  - outcome
+  - work
 permalink: "/posts/wordpress-effort-versus-outcome/index.html"
 ---
 

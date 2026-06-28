@@ -3,7 +3,6 @@ title: "Selgeltnägijate uneproov"
 date: "2021-01-09T00:00:00.000Z"
 summary: "Nägin unes, et posu pakse kodurotte oli tuulutusrežiimil oleva akna kaudu mu üürikorterisse roninud. Neid oli julgelt vähemalt kümmekond, vahest isegi paarkümmend. Istusivad nem..."
 tags:
-  - post
 permalink: "/posts/wordpress-selgeltna-gijate-uneproov/index.html"
 ---
 

@@ -3,7 +3,6 @@ title: "Unes või ilmsi: linnud meie katustel"
 date: "2023-08-28T00:00:00.000Z"
 summary: "Kevad algas linnavalitsuse teatega: \"Ühistud, kontrollige oma katuseid. Kajakate pesi on lubatud lõhkuda ainult enne pesitsushooaega. Pesi on vaja eemaldada, sest poegi kaitseva..."
 tags:
-  - post
 permalink: "/posts/wordpress-unes-vo-i-ilmsi-linnud-meie-katustel/index.html"
 ---
 

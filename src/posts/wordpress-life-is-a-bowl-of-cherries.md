@@ -2,8 +2,15 @@
 title: "Life is a bowl of cherries"
 date: "2023-12-25T00:00:00.000Z"
 summary: "I had a headache the other day. A massive headache. A headache so bad I could not remember the last time I had such an awful headache. Possibly a migraine, a first for me. In an..."
+categories:
+  - Random
+  - Self
 tags:
-  - post
+  - body
+  - headache
+  - partner
+  - stain
+  - stress
 permalink: "/posts/wordpress-life-is-a-bowl-of-cherries/index.html"
 ---
 

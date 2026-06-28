@@ -2,8 +2,12 @@
 title: "A Metal Bird"
 date: "2019-10-29T00:00:00.000Z"
 summary: "A metal bird makes one last turn  \nas the final rays of a setting star  \nglance over its wings  \ndisappearing into the soft milkiness  \nas light as a lovers’ first kiss  \nleavin..."
+categories:
+  - Writing
 tags:
-  - post
+  - art
+  - photography
+  - poetry
 permalink: "/posts/wordpress-a-metal-bird/index.html"
 ---
 

@@ -3,8 +3,7 @@ title: "BSc Thesis"
 date: "2018-05-18T00:00:00.000Z"
 summary: "\"Attacks regarding online tests and ensuring the integrity of results based on the example of TTÜ admission test\""
 tags:
-  - project
-  - post
+  - UX Design
 permalink: "/projects/wordpress-bsc-thesis/index.html"
 ---
 

@@ -3,7 +3,6 @@ title: "Lebensgefährte"
 date: "2021-05-14T00:00:00.000Z"
 summary: "Kui kunstisaalis käisin viimati ma võõras linnas,  \nsiis rahva hulgas märkasin üht halli peaga memme.  \nPicasso maali ees ta üksi seisis pikalt-pikalt,  \nimetledes pintslitõmbei..."
 tags:
-  - post
 permalink: "/posts/wordpress-lebensgefa-hrte/index.html"
 ---
 

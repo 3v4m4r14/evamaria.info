@@ -2,8 +2,14 @@
 title: "I quit after a month and you should, too"
 date: "2024-05-09T00:00:00.000Z"
 summary: "On the day I completed my 4-month probation, a colleague who had joined a handful of days before asked me for tips. I had two to give. First, don't overthink it. Second, the com..."
+categories:
+  - Opinion
+  - Work
 tags:
-  - post
+  - job
+  - product
+  - stress
+  - work
 permalink: "/posts/wordpress-i-quit-after-a-month-and-you-should-too/index.html"
 ---
 

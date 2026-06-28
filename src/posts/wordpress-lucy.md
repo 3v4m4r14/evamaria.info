@@ -2,8 +2,14 @@
 title: "Lucy"
 date: "2019-01-27T00:00:00.000Z"
 summary: "_This blog post is part of an application for Toptal Scholarships for Women: Empowering Future Female Leaders to Change the World._"
+categories:
+  - Writing
 tags:
-  - post
+  - application
+  - business
+  - health
+  - idea
+  - intimate
 permalink: "/posts/wordpress-lucy/index.html"
 ---
 

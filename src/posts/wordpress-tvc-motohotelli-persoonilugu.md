@@ -2,8 +2,14 @@
 title: "TVC Motohotelli persoonilugu"
 date: "2024-03-25T00:00:00.000Z"
 summary: "Kevad küll ilmaga veel omajagu trikitab, aga esimesed sumisejad on juba liikluses ja iga tsiklisti hinge poeb äratundmisrõõm, kui autode vahelt vilksab ka mõni kaherattaline. Va..."
+categories:
+  - Mind
+  - Self
 tags:
-  - post
+  - mootorratas
+  - moto
+  - motorcycle
+  - tsikkel
 permalink: "/posts/wordpress-tvc-motohotelli-persoonilugu/index.html"
 ---
 

@@ -4,7 +4,6 @@ date: "2018-11-02T00:00:00.000Z"
 summary: "A project carried out to analyze the current innovation management strategy of the company NDIX and to propose solutions for improvement."
 tags:
   - project
-  - post
 permalink: "/projects/wordpress-innovation-scan/index.html"
 ---
 

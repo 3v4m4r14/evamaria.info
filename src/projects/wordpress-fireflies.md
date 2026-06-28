@@ -3,8 +3,9 @@ title: "FireFlies"
 date: "2019-09-12T00:00:00.000Z"
 summary: "FireFlies is an interactive multisensory experience that takes the visitor back to a 19th century tavern. FireFlies triggers the auditory, visual, olfactory, and somatosensory s..."
 tags:
-  - project
-  - post
+  - Product Design
+  - Storytelling
+  - UX Design
 permalink: "/projects/wordpress-fireflies/index.html"
 ---
 

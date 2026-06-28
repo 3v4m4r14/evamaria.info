@@ -2,8 +2,14 @@
 title: "Welcome to every researcher's worst nightmare"
 date: "2020-05-10T00:00:00.000Z"
 summary: "Surveys are a tricky data collection method. On the one hand, they enable reaching thousands of people and gathering a magnitude of data in a short timeframe. On the other hand,..."
+categories:
+  - Opinion
 tags:
-  - post
+  - critique
+  - design
+  - research
+  - survey
+  - user
 permalink: "/posts/wordpress-welcome-to-every-researchers-worst-nightmare/index.html"
 ---
 

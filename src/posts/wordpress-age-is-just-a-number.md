@@ -2,8 +2,13 @@
 title: "Age is just a number"
 date: "2024-02-13T00:00:00.000Z"
 summary: "In the past couple of weeks, two people have considered me older than I am. Should I be offended?"
+categories:
+  - Opinion
+  - Self
 tags:
-  - post
+  - age
+  - body
+  - life
 permalink: "/posts/wordpress-age-is-just-a-number/index.html"
 ---
 

@@ -2,8 +2,10 @@
 title: "Shine bright like a diamond"
 date: "2021-11-08T00:00:00.000Z"
 summary: "It was about a week ago when I was strutting down the sidewalk all jolly and joyful, waving my arms around like a newly-appointed beekeeper who accidentally poked a wasp nest, w..."
+categories:
+  - Opinion
+  - Random
 tags:
-  - post
 permalink: "/posts/wordpress-shine-bright-like-a-diamond/index.html"
 ---
 

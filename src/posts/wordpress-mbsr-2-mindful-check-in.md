@@ -2,8 +2,15 @@
 title: "MBSR 2: Mindful check-in"
 date: "2020-02-17T00:00:00.000Z"
 summary: "#### Exercise"
+categories:
+  - MBSR
+  - Mind
+  - Self
 tags:
-  - post
+  - MBSR
+  - mind
+  - mindfulness
+  - stress
 permalink: "/posts/wordpress-mbsr-2-mindful-check-in/index.html"
 ---
 
