@@ -1,26 +1,18 @@
 ---
 title: 'TCD: Creative Thinking and Innovation'
-authors: []
 date: 2020-03-09T20:23:04.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/03/CTI_PHOTO_2-1-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: /assets/img/CTI_PHOTO_2-1-scaled-0rXdEnvCfCep.jpeg
-  categories:
-    - Event
-  tags:
-    - course
-    - creativity
-    - dublin
-    - education
-    - innovation
-    - trinity
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=554
-  type: wordpress
-  url: https://evamaria.info/tcd-creative-thinking-and-innovation/
+featuredImage: /assets/img/CTI_PHOTO_2-1-scaled-0rXdEnvCfCep.jpeg
+summary: "I am attending a module on Creative Thinking and Innovation at Trinity College Dublin. I hereby want to share some topics that Fergal Brophy covered today and what thoughts they..."
+categories:
+  - Event
 tags:
-  - event
+  - course
+  - creativity
+  - dublin
+  - education
+  - innovation
+  - trinity
+permalink: "/posts/tcd-creative-thinking-and-innovation/index.html"
 ---
 I am attending a module on Creative Thinking and Innovation at Trinity College Dublin. I hereby want to share some topics that Fergal Brophy covered today and what thoughts they triggered in me.
 

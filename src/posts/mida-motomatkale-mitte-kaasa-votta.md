@@ -1,26 +1,10 @@
 ---
 title: Mida motomatkale mitte kaasa võtta
-authors: []
 date: 2024-09-06T16:48:30.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2024/09/IMG_6825.jpeg?fit=2048%2C1536&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_6825-sz1NVJqTGQD1.jpeg
-  categories:
-    - Travel
-  tags:
-    - camping
-    - finland
-    - motorcycle
-    - norway
-    - sweden
-    - travel
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1781
-  type: wordpress
-  url: https://evamaria.info/mida-motomatkale-mitte-kaasa-votta/
+featuredImage: /assets/img/IMG_6825-sz1NVJqTGQD1.jpeg
+summary: "Käisime Nordkappis (Kapis?). Kahe matkarattaga. Kokku kuue kohvriga, kõik asju täis. Ilmselgelt liiga palju asju pooleteise nädala jaoks. Millest oleks pidanud loobuma?"
 tags:
-  - travel
+permalink: "/posts/mida-motomatkale-mitte-kaasa-votta/index.html"
 ---
 Käisime Nordkappis (Kapis?). Kahe matkarattaga. Kokku kuue kohvriga, kõik asju täis, pluss veekindlad kotid saba peal. Ilmselgelt liiga palju asju pooleteise nädala jaoks. Niisiis, tagasi vaadates – mille ma oleksin pidanud maha jätma?
 

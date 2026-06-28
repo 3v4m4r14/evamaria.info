@@ -1,23 +1,14 @@
 ---
 title: To Leo
-authors: []
 date: 2020-11-17T18:14:42.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/11/20201031_151358-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: /assets/img/20201031_151358-scaled-0VNqA7w6iYaH.jpeg
-  categories:
-    - Animals
-    - Random
-    - Writing
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=999
-  type: wordpress
-  url: https://evamaria.info/to-leo-part-1/
+featuredImage: /assets/img/20201031_151358-scaled-0VNqA7w6iYaH.jpeg
+summary: "I saw you sitting in the corner today, panting, smiling, and looking at me. I read somewhere that dogs do not smile naturally. It's a skill only some of you adopt by observing u..."
+categories:
+  - Animals
+  - Random
+  - Writing
 tags:
-  - animals
-  - random
-  - writing
+permalink: "/posts/to-leo/index.html"
 ---
 I saw you sitting in the corner today, panting, smiling, and looking at me. I read somewhere that dogs do not smile naturally. It’s a skill only some of you adopt by observing us, humans. You seem to have picked it up, too. Little do you know what effect it has on people.
 

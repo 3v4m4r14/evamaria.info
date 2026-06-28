@@ -1,6 +1,5 @@
 ---
 title: Effort versus Outcome
-authors: []
 date: 2025-01-09T14:58:18.000Z
 featuredImage: /assets/img/IMG_8369-scaled-UP9f0yP82eJ7.jpeg
 summary: "Doing work is not the same as achieving an outcome."
@@ -13,7 +12,7 @@ tags:
   - life
   - outcome
   - work
-permalink: "/posts/wordpress-effort-versus-outcome/index.html"
+permalink: "/posts/effort-versus-outcome/index.html"
 ---
 ## **Doing work is not the same as achieving an outcome.**
 

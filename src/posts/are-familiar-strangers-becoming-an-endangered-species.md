@@ -1,6 +1,5 @@
 ---
 title: Are Familiar Strangers Becoming an Endangered Species?
-authors: []
 date: 2019-11-03T17:31:54.000Z
 featuredImage: /assets/img/IMG_0519-0uUa43X4YXlW.jpeg
 summary: "According to the paper \"_The Familiar Stranger: Anxiety, Comfort, and Play in Public Spaces_\" by Eric Paulos and Elizabeth Goodman \\[1\\], Familiar Strangers are people we regula..."
@@ -12,7 +11,7 @@ tags:
   - review
   - stranger
   - thoughts
-permalink: "/posts/wordpress-are-familiar-strangers-becoming-an-endangered-species/index.html"
+permalink: "/posts/are-familiar-strangers-becoming-an-endangered-species/index.html"
 ---
 
 According to the paper “_The Familiar Stranger: Anxiety, Comfort, and Play in Public Spaces_” by Eric Paulos and Elizabeth Goodman \[1\], Familiar Strangers are people we regularly encounter during our daily activities in public spaces, yet never interact with directly. They are people who wait alongside us at the bus station, do their groceries the same time as us, and eat their lunch at the same café as us. Most Familiar Strangers are tied to certain places (and perhaps times).

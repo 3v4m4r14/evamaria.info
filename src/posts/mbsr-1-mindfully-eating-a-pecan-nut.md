@@ -1,26 +1,17 @@
 ---
 title: 'MBSR 1: Mindfully eating a pecan nut'
-authors: []
 date: 2020-02-16T12:40:15.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_2413-scaled.jpeg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_2413-scaled-FjsacNXwhfXD.jpeg
-  categories:
-    - MBSR
-    - Self
-  tags:
-    - MBSR
-    - mind
-    - mindfulness
-    - stress
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=516
-  type: wordpress
-  url: https://evamaria.info/mbsr-1-mindfully-eating-a-pecan-nut/
+featuredImage: /assets/img/IMG_2413-scaled-FjsacNXwhfXD.jpeg
+summary: "Exercise in mindful eating"
+categories:
+  - MBSR
+  - Self
 tags:
-  - mbsr
-  - self
+  - MBSR
+  - mind
+  - mindfulness
+  - stress
+permalink: "/posts/mbsr-1-mindfully-eating-a-pecan-nut/index.html"
 ---
 #### Exercise
 

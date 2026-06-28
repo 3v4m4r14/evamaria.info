@@ -1,21 +1,10 @@
 ---
 title: Selgeltnägijate uneproov
-authors: []
 date: 2021-01-09T12:01:00.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2021/01/C554EDFE-F4C8-4F3B-84C1-FBBA5C14BAC8_1_201_a-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: /assets/img/C554EDFE-F4C8-4F3B-84C1-FBBA5C-t1GARjwscAGe.jpeg
-  categories:
-    - Animals
-    - Random
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=1135
-  type: wordpress
-  url: https://evamaria.info/selgeltnagijate-tuleproov/
+featuredImage: /assets/img/C554EDFE-F4C8-4F3B-84C1-FBBA5C-t1GARjwscAGe.jpeg
+summary: "Nägin unes, et posu pakse kodurotte oli tuulutusrežiimil oleva akna kaudu mu üürikorterisse roninud. Neid oli julgelt vähemalt kümmekond, vahest isegi paarkümmend. Istusivad nem..."
 tags:
-  - animals
-  - random
+permalink: "/posts/selgeltnagijate-uneproov/index.html"
 ---
 Nägin unes, et posu pakse kodurotte oli tuulutusrežiimil oleva akna kaudu mu üürikorterisse roninud. Neid oli julgelt vähemalt kümmekond, vahest isegi paarkümmend. Istusivad nemad ilusti minu kodukontori töölaua all minu isikliku rotipuuri peal ja sees. Olid teised üsna kopsakad ja ilmselgelt hea toidu peal olnud. Ega vist pealinnas prügipuuduse üle kurta saagi. Ilmselgelt olid nad kellegi kodurottidest alguse saanud, sest värvitoonid ja markeeringud olid täpselt nagu kodustel närilistel. Ainus viga oli, et neil oli kõhu alt karv tükkidena ära kukkunud, nagu kannatanuks kärntõve või mõne muu vastiku nahahaiguse käes.
 

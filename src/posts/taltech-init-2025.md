@@ -1,27 +1,18 @@
 ---
 title: TalTech INIT 2025
-authors: []
 date: 2025-03-08T18:46:43.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2025/03/Screenshot-2025-03-08-at-22.42.26.png?fit=2824%2C1588&ssl=1
-  media:
-    featuredImage: /assets/img/Screenshot-2025-03-08-at-22.42-Qukwfd3aft2k.png
-  categories:
-    - Event
-    - Opinion
-  tags:
-    - dream
-    - presentation
-    - public
-    - slides
-    - university
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1865
-  type: wordpress
-  url: https://evamaria.info/taltech-init-2025/
+featuredImage: /assets/img/Screenshot-2025-03-08-at-22.42-Qukwfd3aft2k.png
+summary: "Nägin öösel unes, et olin tagasi gümnaasiumis. Meil oli ajaloo kontrolltöö. Ma ei olnud õppinud ega teadnud ühtegi vastust. Isegi see ei aidanud, et vastusevariandid olid ette a..."
+categories:
+  - Event
+  - Opinion
 tags:
-  - event
-  - opinion
+  - dream
+  - presentation
+  - public
+  - slides
+  - university
+permalink: "/posts/taltech-init-2025/index.html"
 ---
 Nägin öösel unes, et olin tagasi gümnaasiumis. Meil oli ajaloo kontrolltöö. Ma ei olnud õppinud ega teadnud ühtegi vastust. Isegi see ei aidanud, et vastusevariandid olid ette antud. Samuti ei osanud ma midagi kirjutada lahtrisse “pane kõik kirja, mis eelmisest peatükist meelde jäi”. Ma pole kunagi ajaloos hea olnud. Mütoloogia mind lapsena huvitas, aga kõik sealt edasi ei pakkunud pinget. Unenäos proovisin spikerdada. Ärkasin kergendustundega, nagu ikka, kui sain tõdeda, et kooliaeg on ammu seljataga.
 

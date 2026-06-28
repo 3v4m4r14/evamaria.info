@@ -1,21 +1,13 @@
 ---
-title: I&#8217;m sorry, I just can&#8217;t see it
-authors: []
+title: I'm sorry, I just can't see it
 date: 2021-08-29T05:14:17.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2021/08/13443FED-4DE9-4C8E-BABC-BB1BAA4781FF_1_201_a-scaled.jpeg?fit=1920%2C2560&ssl=1
-  media:
-    featuredImage: /assets/img/13443FED-4DE9-4C8E-BABC-BB1BAA-IEmXoWET26f6.jpeg
-  categories:
-    - Opinion
-    - UX
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1264
-  type: wordpress
-  url: https://evamaria.info/im-sorry-i-just-cant-see-it/
+featuredImage: /assets/img/13443FED-4DE9-4C8E-BABC-BB1BAA-IEmXoWET26f6.jpeg
+summary: "99% of the time, I am a glasses person. However, contact lenses are safer and more comfortable when wearing a motorcycle helmet. Since I am all about saving, I have been explori..."
+categories:
+  - Opinion
+  - UX
 tags:
-  - opinion
-  - ux
+permalink: "/posts/im-sorry-i-just-cant-see-it/index.html"
 ---
 99% of the time, [I am a glasses person](https://evamaria.info/dare-to-adopt-a-new-perspective/ "Dare to adopt a new perspective"). However, contact lenses are safer and more comfortable when wearing a motorcycle helmet. Since I am all about saving, I have been exploring various options of getting lenses for cheap. Fortunately, lots of places offer trials for only a couple of bucks.
 

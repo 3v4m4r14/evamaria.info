@@ -1,21 +1,13 @@
 ---
 title: The Wildflower
-authors: []
 date: 2019-04-12T10:19:58.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/artworks-000518991576-eh2io4-t500x500.jpg?fit=500%2C500&ssl=1
-  media:
-    featuredImage: /assets/img/artworks-000518991576-eh2io4-t-iAeIaSOminYp.jpg
-  categories:
-    - Writing
-  tags:
-    - storytelling
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=50
-  type: wordpress
-  url: https://evamaria.info/the-wildflower/
+featuredImage: /assets/img/artworks-000518991576-eh2io4-t-iAeIaSOminYp.jpg
+summary: "In the middle of a vast field of greenery grew a bedazzling lone Wildflower. She was born deep in the ground."
+categories:
+  - Writing
 tags:
-  - writing
+  - storytelling
+permalink: "/posts/the-wildflower/index.html"
 ---
 In the middle of a vast field of greenery grew a bedazzling lone Wildflower. She was born deep in the ground.
 

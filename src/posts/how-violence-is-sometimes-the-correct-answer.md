@@ -1,21 +1,13 @@
 ---
 title: How violence is sometimes the correct answer
-authors: []
 date: 2020-06-02T10:32:02.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/06/IMG_4795-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_4795-scaled-2IL5g6Az6dir.jpeg
-  categories:
-    - Random
-  tags:
-    - life
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=828
-  type: wordpress
-  url: https://evamaria.info/how-violence-is-sometimes-the-correct-answer/
+featuredImage: /assets/img/IMG_4795-scaled-2IL5g6Az6dir.jpeg
+summary: "It was a splendid morning in the Netherlands. The weather was nice. The sun was shining."
+categories:
+  - Random
 tags:
-  - random
+  - life
+permalink: "/posts/how-violence-is-sometimes-the-correct-answer/index.html"
 ---
 It was a splendid morning in the Netherlands. The weather was nice. The sun was shining.
 

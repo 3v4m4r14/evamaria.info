@@ -1,26 +1,17 @@
 ---
 title: TVC Motohotelli persoonilugu
-authors: []
 date: 2024-03-25T19:43:00.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2025/06/IMG_7741-scaled.jpg?fit=1920%2C2560&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_7741-scaled-N4mzov1QcZim.jpg
-  categories:
-    - Mind
-    - Self
-  tags:
-    - mootorratas
-    - moto
-    - motorcycle
-    - tsikkel
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1901
-  type: wordpress
-  url: https://evamaria.info/tvc-motohotelli-persoonilugu/
+featuredImage: /assets/img/IMG_7741-scaled-N4mzov1QcZim.jpg
+summary: "Kevad küll ilmaga veel omajagu trikitab, aga esimesed sumisejad on juba liikluses ja iga tsiklisti hinge poeb äratundmisrõõm, kui autode vahelt vilksab ka mõni kaherattaline."
+categories:
+  - Mind
+  - Self
 tags:
-  - mind
-  - self
+  - mootorratas
+  - moto
+  - motorcycle
+  - tsikkel
+permalink: "/posts/tvc-motohotelli-persoonilugu/index.html"
 ---
 Kevad küll ilmaga veel omajagu trikitab, aga esimesed sumisejad on juba liikluses ja iga tsiklisti hinge poeb äratundmisrõõm, kui autode vahelt vilksab ka mõni kaherattaline. Varsti on ööpäev läbi plusskraadid, tänavatelt pestakse talvetolm maha ja seltskond ratastel saab uue hingamise, sest talve läbi kogutud pinged saab nüüd lõpuks ka korralikult tuulde lasta. Sõna otseses mõttes…
 

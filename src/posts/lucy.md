@@ -1,25 +1,17 @@
 ---
 title: Lucy
-authors: []
 date: 2019-01-27T16:09:41.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/lucy.019.jpeg?fit=1024%2C768&ssl=1
-  media:
-    featuredImage: /assets/img/lucy.019-vnUu4diwjrz3.jpeg
-  categories:
-    - Writing
-  tags:
-    - application
-    - business
-    - health
-    - idea
-    - intimate
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=77
-  type: wordpress
-  url: https://evamaria.info/lucy/
+featuredImage: /assets/img/lucy.019-vnUu4diwjrz3.jpeg
+summary: "This blog post is part of an application for Toptal Scholarships for Women: Empowering Future Female Leaders to Change the World."
+categories:
+  - Writing
 tags:
-  - writing
+  - application
+  - business
+  - health
+  - idea
+  - intimate
+permalink: "/posts/lucy/index.html"
 ---
 _This blog post is part of an application for Toptal Scholarships for Women: Empowering Future Female Leaders to Change the World._
 

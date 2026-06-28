@@ -1,19 +1,10 @@
 ---
 title: 'Unes või ilmsi: linnud meie katustel'
-authors: []
 date: 2023-08-28T14:35:25.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2023/08/IMG_1898-scaled.jpg?fit=2560%2C1429&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_1898-scaled-zjxELUef1UyS.jpg
-  categories:
-    - Animals
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1451
-  type: wordpress
-  url: https://evamaria.info/unes-voi-ilmsi-linnud-meie-katustel/
+featuredImage: /assets/img/IMG_1898-scaled-zjxELUef1UyS.jpg
+summary: "Kevad algas linnavalitsuse teatega: \"Ühistud, kontrollige oma katuseid. Kajakate pesi on lubatud lõhkuda ainult enne pesitsushooaega. Pesi on vaja eemaldada, sest poegi kaitseva..."
 tags:
-  - animals
+permalink: "/posts/unes-voi-ilmsi-linnud-meie-katustel/index.html"
 ---
 Kevad algas linnavalitsuse teatega: “Ühistud, kontrollige oma katuseid. Kajakate pesi on lubatud lõhkuda ainult enne pesitsushooaega. Pesi on vaja eemaldada, sest poegi kaitsevad kajakad on inimeste ja loomade vastu agressiivsed.” Kes on jalutanud vanemate paneelmajade piirkonnas Musta- või Lasnamäel teab, kui palju erinevaid linde seal leidub – kõik omamoodi kisendamas, pasandamas ja haigusi levitamas.
 

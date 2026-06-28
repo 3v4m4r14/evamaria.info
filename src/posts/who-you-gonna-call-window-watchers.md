@@ -1,22 +1,14 @@
 ---
 title: Who you gonna call? Night Watchers.
-authors: []
 date: 2020-01-05T09:36:00.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/01/IMG_1700-scaled.jpeg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_1700-scaled-C7UIuKNkUltI.jpeg
-  categories:
-    - Random
-  tags:
-    - Amsterdam
-    - life
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=470
-  type: wordpress
-  url: https://evamaria.info/who-you-gonna-call-window-watchers/
+featuredImage: /assets/img/IMG_1700-scaled-C7UIuKNkUltI.jpeg
+summary: "Last night I woke up to a car alarm. It took me a while to realise that the noise I heard through my deep sleep was indeed a car alarm. As a fellow car owner myself, I know that..."
+categories:
+  - Random
 tags:
-  - random
+  - Amsterdam
+  - life
+permalink: "/posts/who-you-gonna-call-night-watchers/index.html"
 ---
 Last night I woke up to a car alarm. It took me a while to realise that the noise I heard through my deep sleep was indeed a car alarm. As a fellow car owner myself, I know that car alarms usually have a reason to go off (_unless we are talking about \***my**\* car that starts screaming on its own or when a fly accidentally bumps into it_), so I peeked out through the curtains.
 

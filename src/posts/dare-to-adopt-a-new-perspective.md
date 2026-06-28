@@ -6,7 +6,7 @@ summary: "Yesterday, I went to buy myself some new glasses. My previous ones had
 categories:
   - Opinion
   - Random
-permalink: "/posts/wordpress-dare-to-adopt-a-new-perspective/index.html"
+permalink: "/posts/dare-to-adopt-a-new-perspective/index.html"
 ---
 Yesterday, I went to buy myself some new glasses. My previous ones had slid off the motorcycle when I was taking off my helmet and landed right underneath my partner’s foot. Classic communication error combined with some bad luck. The back-up ones I have been wearing as a temporary replacement are several years old and remind me of a horse’s blinkers. The wide frames stop me from seeing to the sides and create blindspots making them extremely uncomfortable and even dangerous in traffic. So new glasses were needed, there was no question about that. But which ones to choose?
 

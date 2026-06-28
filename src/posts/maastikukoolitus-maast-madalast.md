@@ -1,36 +1,28 @@
 ---
 title: Maastikukoolitus maast madalast
-authors: []
 date: 2025-06-08T17:56:06.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2025/06/IMG_8365-scaled.jpeg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_8365-scaled-u8YFu8AfeLeJ.jpeg
-  categories:
-    - Random
-  tags:
-    - BMW
-    - BMW R1200 GS
-    - karjäär
-    - koolitus
-    - maastik
-    - maastikusõit
-    - mootorratas
-    - mota
-    - moto
-    - motorcycle
-    - Nordmoto
-    - off-road
-    - self-development
-    - training
-    - treening
-    - tsikkel
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1883
-  type: wordpress
-  url: https://evamaria.info/maastikukoolitus-maast-madalast/
+featuredImage: /assets/img/IMG_8365-scaled-u8YFu8AfeLeJ.jpeg
+summary: "Käisin Nordmoto korraldatud off-road mootorrattakoolitusel. No ja see ei olnud kohe üldse see, mis ma arvasin, et ta on!"
+categories:
+  - Random
 tags:
-  - random
+  - BMW
+  - BMW R1200 GS
+  - Nordmoto
+  - karjäär
+  - koolitus
+  - maastik
+  - maastikusõit
+  - mootorratas
+  - mota
+  - moto
+  - motorcycle
+  - off-road
+  - self-development
+  - training
+  - treening
+  - tsikkel
+permalink: "/posts/maastikukoolitus-maast-madalast/index.html"
 ---
 Käisin [Nordmoto](https://nordmoto.ee) korraldatud off-road mootorrattakoolitusel. No ja see ei olnud kohe üldse see, mis ma arvasin, et ta on!
 

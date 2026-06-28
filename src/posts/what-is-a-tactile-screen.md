@@ -2,29 +2,22 @@
 title: What is a tactile screen?
 authors: []
 date: 2019-09-19T19:08:44.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/IMG_0225.png?fit=3264%2C2448&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_0225-mQKaWT1nZa1u.png
-  categories:
-    - Writing
-  tags:
-    - communication
-    - explain
-    - science
-    - screen
-    - tactile
-    - university
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=267
-  type: wordpress
-  url: https://evamaria.info/what-is-a-tactile-screen/
+featuredImage: /assets/img/IMG_0225-mQKaWT1nZa1u.png
+summary: "An understandable explanation of tactile screens"
+categories:
+  - Writing
 tags:
-  - writing
+  - communication
+  - explain
+  - science
+  - screen
+  - tactile
+  - university
+permalink: "/posts/what-is-a-tactile-screen/index.html"
 ---
 ##### An understandable explanation
 
-![](assets/screens-94FGPLqULUoO.jpg)
+![](/assets/img/screens-94FGPLqULUoO.jpg)
 
 _Figure 1. Examples of screens._
 

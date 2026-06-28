@@ -1,19 +1,11 @@
 ---
-title: '&#8220;Lähme välja!&#8221;'
-authors: []
+title: Lähme välja!
 date: 2022-02-01T15:50:00.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2022/02/52423ED1-BD09-48D6-A304-51EE01BE3C64_1_201_a-scaled.jpeg?fit=1920%2C2560&ssl=1
-  media:
-    featuredImage: /assets/img/52423ED1-BD09-48D6-A304-51EE01-VSPDh2ofrAhd.jpeg
-  categories:
-    - Animals
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1322
-  type: wordpress
-  url: https://evamaria.info/lahme-valja/
-tags:
+featuredImage: /assets/img/52423ED1-BD09-48D6-A304-51EE01-VSPDh2ofrAhd.jpeg
+summary: "Väike video talvisest jalutuskäigust peniga."
+tags: 
   - animals
+permalink: "/posts/lahme-valja/index.html"
 ---
 Väike video talvisest jalutuskäigust peniga.
 

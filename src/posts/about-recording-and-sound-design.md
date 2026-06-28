@@ -3,7 +3,7 @@ title: About Recording And Sound Design
 date: 2019-04-12T11:05:44.000Z
 featuredImage: /assets/img/55752545_529367050926329_40269-acWiYNrUOJWA.png
 summary: "Getting to the end result of an audio design project is no piece of cake."
-permalink: "/posts/wordpress-about-recording-and-sound-design/index.html"
+permalink: "/posts/about-recording-and-sound-design/index.html"
 categories:
   - Project
 tags:

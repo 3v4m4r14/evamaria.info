@@ -1,28 +1,18 @@
 ---
 title: 'MBSR 2: Mindful check-in'
-authors: []
 date: 2020-02-17T14:53:12.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_0335-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_0335-scaled-1jOMAB9cMzOK.jpeg
-  categories:
-    - MBSR
-    - Mind
-    - Self
-  tags:
-    - MBSR
-    - mind
-    - mindfulness
-    - stress
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=522
-  type: wordpress
-  url: https://evamaria.info/mbsr-2-mindful-check-in/
+featuredImage: /assets/img/IMG_0335-scaled-1jOMAB9cMzOK.jpeg
+summary: "Exercise in mindfulness"
+categories:
+  - MBSR
+  - Mind
+  - Self
 tags:
-  - mbsr
+  - MBSR
   - mind
-  - self
+  - mindfulness
+  - stress
+permalink: "/posts/mbsr-2-mindful-check-in/index.html"
 ---
 #### Exercise
 

@@ -1,13 +1,12 @@
 ---
 title: Holy poly! and the Dutch levels of dating
-authors: []
 date: 2022-01-03T16:19:22.000Z
 featuredImage: /assets/img/F858DB41-F3F4-4884-B2F1-79E93B-whOOUMxCtsju.jpeg
 summary: "Do you consider yourself polygamous? Polyandrous? Polyamorous? To me, the definition of \"polygamy\" has always been straightforward - one person being in a relationship with mult..."
 categories:
   - Random
 tags:
-permalink: "/posts/wordpress-holy-poly-and-the-dutch-levels-of-dating/index.html"
+permalink: "/posts/holy-poly-and-the-dutch-levels-of-dating/index.html"
 ---
 Do you consider yourself polygamous? Polyandrous? Polyamorous? To me, the definition of “polygamy” has always been straightforward – one person being in a relationship with multiple others. Turns out that the concept of “polygamy” is more nuanced. It can be split up based on who is with whom and in what way.
 

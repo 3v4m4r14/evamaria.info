@@ -1,21 +1,13 @@
 ---
-title: WHAT YOU SEE IS *NOT* WHAT YOU GET
-authors: []
+title: What you see is *not* what you get
 date: 2022-05-16T16:45:58.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2022/05/IMG_2201-scaled.jpg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_2201-scaled-f5DmQcim3xYa.jpg
-  categories:
-    - Opinion
-    - Random
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1325
-  type: wordpress
-  url: https://evamaria.info/what-you-see-is-not-what-you-get/
+featuredImage: /assets/img/IMG_2201-scaled-f5DmQcim3xYa.jpg
+summary: "The prices shown on the web pages of Estonian telecommunication providers are usually twice as high as what the people actually pay. It is general knowledge that you must reach..."
+categories:
+  - Opinion
+  - Random
 tags:
-  - opinion
-  - random
+permalink: "/posts/what-you-see-is-not-what-you-get/index.html"
 ---
 The prices shown on the web pages of Estonian telecommunication providers are usually twice as high as what the people actually pay. It is general knowledge that you must reach out to service providers and ask for covert deals to get cheaper mobile plans. I usually participate in the circle jerk of contacting providers for best offers every two years, but this time, Christmas came early!
 

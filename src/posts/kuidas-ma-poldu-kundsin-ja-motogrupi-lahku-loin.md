@@ -1,19 +1,10 @@
 ---
 title: Kuidas ma põldu kündsin ja motogrupi lahku lõin
-authors: []
 date: 2022-07-28T08:30:16.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2022/07/IMG_2562-scaled.jpg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_2562-scaled-UEz61h8h9ZPS.jpg
-  categories:
-    - Random
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1349
-  type: wordpress
-  url: https://evamaria.info/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/
+featuredImage: /assets/img/IMG_2562-scaled-UEz61h8h9ZPS.jpg
+summary: "Hoiatus: oma vaimse tervise huvides on rangelt soovituslik mitte edasi lugeda, kui omad minuga veresugulust!"
 tags:
-  - random
+permalink: "/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/index.html"
 ---
 **Hoiatus**: oma vaimse tervise huvides on rangelt soovituslik mitte edasi lugeda, kui omad minuga veresugulust!
 

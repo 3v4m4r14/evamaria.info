@@ -1,21 +1,13 @@
 ---
 title: Minek.
-authors: []
 date: 2021-08-03T13:27:58.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2021/08/IMG_0746-scaled.jpg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_0746-scaled-D01PzRxc888A.jpg
-  categories:
-    - Random
-    - Writing
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1248
-  type: wordpress
-  url: https://evamaria.info/minek/
+featuredImage: /assets/img/IMG_0746-scaled-D01PzRxc888A.jpg
+summary: "\"Minek on kümne minuti pärast. Kolmeteist, kui täpne olla. Kas sa oled valmis?\""
+categories:
+  - Random
+  - Writing
 tags:
-  - random
-  - writing
+permalink: "/posts/minek/index.html"
 ---
 “Minek on kümne minuti pärast. Kolmeteist, kui täpne olla. Kas sa oled valmis?”
 

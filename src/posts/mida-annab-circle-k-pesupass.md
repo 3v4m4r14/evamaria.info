@@ -1,19 +1,12 @@
 ---
 title: Mida annab Circle K Pesupass?
-authors: []
 date: 2023-03-14T15:03:50.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2023/03/B437768A-A822-4E18-A656-86151B86015A_1_201_a-scaled.jpeg?fit=1440%2C2560&ssl=1
-  media:
-    featuredImage: /assets/img/B437768A-A822-4E18-A656-86151B-AfEqqqSm4Pmr.jpeg
-  categories:
-    - Opinion
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1380
-  type: wordpress
-  url: https://evamaria.info/mida-annab-circle-k-pesupass/
+featuredImage: /assets/img/B437768A-A822-4E18-A656-86151B-AfEqqqSm4Pmr.jpeg
+summary: "Kes veel ei tea, siis Circle K paistab olevat oma autopesu-teisipäevad asendanud Pesupassiga - püsitellimusloogikal automaatpesula teenusega. Katsetasin seda kuu aega ja jagan m..."
+categories:
+  - Opinion
 tags:
-  - opinion
+permalink: "/posts/mida-annab-circle-k-pesupass/index.html"
 ---
 Kes veel ei tea, siis Circle K paistab olevat oma autopesu-teisipäevad asendanud [Pesupassiga](https://www.circlek.ee/pesula/pesupass) – püsitellimusloogikal automaatpesula teenusega. Katsetasin seda kuu aega ja jagan meelsasti oma kogemust-arvamust nii mõnegi asja kohta, mida tankla koduleht on unustanud mainida.
 

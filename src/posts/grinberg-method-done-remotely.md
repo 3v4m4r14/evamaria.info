@@ -1,6 +1,5 @@
 ---
 title: Grinberg method. Done remotely.
-authors: []
 date: 2020-03-28T17:08:49.000Z
 featuredImage: /assets/img/IMG_3003-scaled-gpMKRQ5pg6St.jpeg
 summary: "I saw a post on Reddit the other day where a Grinberg practitioner was looking for volunteers who could help him try out an online session. Of course, I signed up."
@@ -15,7 +14,7 @@ tags:
   - research
   - stress
   - thesis
-permalink: "/posts/wordpress-grinberg-method-done-remotely/index.html"
+permalink: "/posts/grinberg-method-done-remotely/index.html"
 ---
 I saw a post on Reddit the other day where a Grinberg practitioner was looking for volunteers who could help him try out an online session. Of course, I signed up.
 

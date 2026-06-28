@@ -1,25 +1,16 @@
 ---
 title: Translating a poem from a language I do not speak
-authors: []
 date: 2019-09-01T14:56:28.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/Screenshot-2019-09-05-at-23.11.26.png?fit=1440%2C797&ssl=1
-  media:
-    featuredImage: /assets/img/Screenshot-2019-09-05-at-23.11-tYpQZYz7areK.png
-  categories:
-    - Project
-    - Writing
-  tags:
-    - poetry
-    - project
-    - translate
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=226
-  type: wordpress
-  url: https://evamaria.info/translating-a-poem-from-a-language-i-do-not-speak/
+featuredImage: /assets/img/Screenshot-2019-09-05-at-23.11-tYpQZYz7areK.png
+summary: "I had the opportunity to translate a poem for one of my projects (FireFlies). To be fair, we formulated the project in a way that created this opportunity. I adore writing littl..."
+categories:
+  - Project
+  - Writing
 tags:
+  - poetry
   - project
-  - writing
+  - translate
+permalink: "/posts/translating-a-poem-from-a-language-i-do-not-speak/index.html"
 ---
 I had the opportunity to translate a poem for one of my projects ([FireFlies](https://evamaria.info/portfolio/fireflies/)). To be fair, we formulated the project in a way that created this opportunity. I adore writing little rhymes and poems myself and wished to try translating the work of others.
 

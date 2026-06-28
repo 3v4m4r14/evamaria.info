@@ -1,29 +1,20 @@
 ---
 title: I had coffee around seven
-authors: []
 date: 2025-01-20T17:24:14.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2025/01/create-a-featured-image-for-a-blog-post-the-scene.png?fit=1024%2C768&ssl=1
-  media:
-    featuredImage: /assets/img/create-a-featured-image-for-a--ilO8r0Xni7DD.png
-  categories:
-    - Poetry
-    - Writing
-  tags:
-    - body
-    - coffee
-    - mind
-    - neighbours
-    - poetry
-    - sleep
-    - tired
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1828
-  type: wordpress
-  url: https://evamaria.info/i-had-coffee-around-seven/
+featuredImage: /assets/img/create-a-featured-image-for-a--ilO8r0Xni7DD.png
+summary: "I had coffee around seven  \nFor a moment, it was heaven  \nBut now it is eleven  \nAnd I cannot fall asleep"
+categories:
+  - Poetry
+  - Writing
 tags:
+  - body
+  - coffee
+  - mind
+  - neighbours
   - poetry
-  - writing
+  - sleep
+  - tired
+permalink: "/posts/i-had-coffee-around-seven/index.html"
 ---
 I had coffee around seven  
 For a moment, it was heaven  

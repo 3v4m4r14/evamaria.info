@@ -1,21 +1,13 @@
 ---
 title: Shine bright like a diamond
-authors: []
 date: 2021-11-08T19:51:58.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2021/11/IMG_0789-scaled.jpg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_0789-scaled-lo2IsrgvYUDP.jpg
-  categories:
-    - Opinion
-    - Random
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1278
-  type: wordpress
-  url: https://evamaria.info/shine-bright-like-a-diamond/
+featuredImage: /assets/img/IMG_0789-scaled-lo2IsrgvYUDP.jpg
+summary: "It was about a week ago when I was strutting down the sidewalk all jolly and joyful, waving my arms around like a newly-appointed beekeeper who accidentally poked a wasp nest, w..."
+categories:
+  - Opinion
+  - Random
 tags:
-  - opinion
-  - random
+permalink: "/posts/shine-bright-like-a-diamond/index.html"
 ---
 It was about a week ago when I was strutting down the sidewalk all jolly and joyful, waving my arms around like a newly-appointed beekeeper who accidentally poked a wasp nest, when I must have lost my reflector. It probably got caught behind my flailing arms or was not secured well enough, and just popped off of the string that it was tied to.
 

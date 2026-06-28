@@ -1,6 +1,5 @@
 ---
 title: EIT Alumni Startup Days x Women@EIT
-authors: []
 date: 2019-09-29T09:37:33.000Z
 featuredImage: /assets/img/fullsizeoutput_56d-gVOgxVZ31UKq.jpeg
 summary: "I had one of the best and most relaxing hackathon experiences yesterday at EIT Alumni Startup Days X Women@EIT."
@@ -22,7 +21,7 @@ tags:
   - sustainability
   - technology
   - women
-permalink: "/posts/wordpress-eit-alumni-startup-days-x-women-eit/index.html"
+permalink: "/posts/eit-alumni-startup-days-x-women-eit/index.html"
 ---
 I had one of the best and most relaxing hackathon experiences yesterday at EIT Alumni Startup Days X Women@EIT.
 

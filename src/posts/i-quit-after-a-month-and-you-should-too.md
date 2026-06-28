@@ -1,26 +1,17 @@
 ---
 title: I quit after a month and you should, too
-authors: []
 date: 2024-05-09T05:52:11.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2024/05/IMG_2590-scaled.jpeg?fit=1920%2C2560&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_2590-scaled-zPdnS0shJKpL.jpeg
-  categories:
-    - Opinion
-    - Work
-  tags:
-    - job
-    - product
-    - stress
-    - work
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1767
-  type: wordpress
-  url: https://evamaria.info/i-quit-after-a-month-and-you-should-too/
+featuredImage: /assets/img/IMG_2590-scaled-zPdnS0shJKpL.jpeg
+summary: "On the day I completed my 4-month probation, a colleague who had joined a handful of days before asked me for tips. I had two to give. First, don't overthink it. Second, the com..."
+categories:
+  - Opinion
+  - Work
 tags:
-  - opinion
+  - job
+  - product
+  - stress
   - work
+permalink: "/posts/i-quit-after-a-month-and-you-should-too/index.html"
 ---
 On the day I completed my 4-month probation, a colleague who had joined a handful of days before asked me for tips. I had two to give. First, don’t overthink it. Second, the company is also on probation. That is the whole point of probation – to assess mutual compatibility.
 

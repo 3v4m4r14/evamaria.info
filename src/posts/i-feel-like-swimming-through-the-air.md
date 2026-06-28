@@ -1,23 +1,15 @@
 ---
 title: I feel like swimming through the air
-authors: []
 date: 2020-02-15T15:55:11.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_2387-scaled.jpeg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_2387-scaled-TSocobs7emzr.jpeg
-  categories:
-    - Self
-  tags:
-    - art
-    - body
-    - mind
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=504
-  type: wordpress
-  url: https://evamaria.info/i-feel-like-swimming-through-the-air/
+featuredImage: /assets/img/IMG_2387-scaled-TSocobs7emzr.jpeg
+summary: "I went to a lesson of contact improvisation by Kahbam and Loby Lam. Contact improvisation is a form of improvised dancing that focuses on body awareness, sharing touch, weight,..."
+categories:
+  - Self
 tags:
-  - self
+  - art
+  - body
+  - mind
+permalink: "/posts/i-feel-like-swimming-through-the-air/index.html"
 ---
 I went to a lesson of contact improvisation by [Kahbam](http://www.kahbam.com) and Loby Lam. [Contact improvisation](https://en.wikipedia.org/wiki/Contact_improvisation) is a form of improvised dancing that focuses on body awareness, sharing touch, weight, body contact, and movement.
 

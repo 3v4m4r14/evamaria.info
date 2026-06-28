@@ -1,29 +1,19 @@
 ---
 title: Transforming project updates with low-code innovation
-authors: []
 date: 2023-09-21T09:07:17.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2023/09/amongus.jpg?fit=2560%2C1424&ssl=1
-  media:
-    featuredImage: /assets/img/amongus-IXv4EZsxGkm2.jpg
-  categories:
-    - Project
-    - UX
-  tags:
-    - innovation
-    - low-code
-    - microsoft
-    - powerapps
-    - programming
-    - ux
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1552
-  type: wordpress
-  url: >-
-    https://evamaria.info/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/
+featuredImage: /assets/img/amongus-IXv4EZsxGkm2.jpg
+summary: "Ever wished you could revolutionize your work processes without coding skills? Discover how a simple idea and a low-code solution transformed our status updates, and how you can..."
+categories:
+  - Project
+  - UX
 tags:
-  - project
+  - innovation
+  - low-code
+  - microsoft
+  - powerapps
+  - programming
   - ux
+permalink: "/posts/transforming-project-updates-with-low-code-innovation/index.html"
 ---
 Ever wished you could revolutionize your work processes without coding skills? Discover how a simple idea and a low-code solution transformed our status updates, and how you can do the same!
 

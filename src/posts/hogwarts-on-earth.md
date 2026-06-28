@@ -1,6 +1,5 @@
 ---
 title: Hogwarts on Earth
-authors: []
 date: 2019-09-10T17:02:21.000Z
 featuredImage: /assets/img/IMG_20191028_175320-scaled-dAFAZJNLoVSJ.jpeg
 summary: "When I started my Master's, I basically saw it as a way to live abroad for a while, experience new cultures, and meet new people. It has been all that and much more!"
@@ -12,7 +11,7 @@ tags:
   - university
   - ut
   - utwente
-permalink: "/posts/wordpress-hogwarts-on-earth/index.html"
+permalink: "/posts/hogwarts-on-earth/index.html"
 ---
 When I started my Master’s, I basically saw it as a way to live abroad for a while, experience new cultures, and meet new people. It has been all that and much more!
 

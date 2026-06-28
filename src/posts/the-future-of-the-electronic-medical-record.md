@@ -1,19 +1,12 @@
 ---
 title: The future of the Electronic Medical Record
-authors: []
 date: 2020-09-06T17:54:47.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/09/login.png?fit=1440%2C1024&ssl=1
-  media:
-    featuredImage: /assets/img/login-cnfqQPcG9hd7.png
-  categories:
-    - Project
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=903
-  type: wordpress
-  url: https://evamaria.info/the-future-of-the-electronic-medical-record/
+featuredImage: /assets/img/login-cnfqQPcG9hd7.png
+summary: "Test task for UI/UX designer at Nortal"
+categories:
+  - Project
 tags:
-  - project
+permalink: "/posts/the-future-of-the-electronic-medical-record/index.html"
 ---
 > Test task for UI/UX designer at Nortal
 

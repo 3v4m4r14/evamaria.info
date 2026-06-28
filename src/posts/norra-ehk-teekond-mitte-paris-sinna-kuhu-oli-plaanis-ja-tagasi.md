@@ -1,25 +1,10 @@
 ---
 title: Norra ehk teekond mitte-päris-sinna-kuhu-oli-plaanis ja tagasi
-authors: []
 date: 2023-09-09T05:31:07.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2023/09/IMG_5484-scaled.jpeg?fit=1920%2C2560&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_5484-scaled-g0c0jT9gNJXC.jpeg
-  categories:
-    - Travel
-  tags:
-    - camping
-    - motorcycle
-    - norway
-    - travel
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1396
-  type: wordpress
-  url: >-
-    https://evamaria.info/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/
+featuredImage: /assets/img/IMG_5484-scaled-g0c0jT9gNJXC.jpeg
+summary: "Kui siin ilmas veel midagi kindlat on, siis see, et kui sul on matkaratas, pead sa vähemalt korra motomatkal ära käima."
 tags:
-  - travel
+permalink: "/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/index.html"
 ---
 Kui siin ilmas veel midagi kindlat on, siis see, et kui sul on matkaratas, pead sa vähemalt korra motomatkal ära käima. Kuna Riido ostis kevadel BMW GSi, oli juba enne poest väljumist selge, et kuskile tuleb temaga sel suvel minna. Ja kui juba, siis juba ning veidi ekstreemselt. Niiviisi leidsimegi me end ühel ilusal augustikuu hommikul kahekegi garaažist mitme nädala jagu elamist ühele massiivsele masinale mahutamas.
 

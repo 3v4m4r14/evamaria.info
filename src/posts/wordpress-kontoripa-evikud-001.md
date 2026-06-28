@@ -3,7 +3,7 @@ title: "Kontoripäevikud #001"
 date: "2025-03-07T00:00:00.000Z"
 summary: "Läksin pärast pikka eemalolekut kontorisse. Mul oli puhkus. Siis jäin haigeks: shits and snots. Fun times. Ühesõnaga, pea kolm nädalat mind kontoris ei nähtud. Ja ka täna oli me..."
 tags:
-permalink: "/posts/wordpress-kontoripa-evikud-001/index.html"
+permalink: "/posts/kontoripaevikud-001/index.html"
 ---
 
 Läksin pärast pikka eemalolekut kontorisse. Mul oli puhkus. Siis jäin haigeks: shits and snots. Fun times. Ühesõnaga, pea kolm nädalat mind kontoris ei nähtud. Ja ka täna oli meil naistepäeva auks ettekanded ehk virvendasin töökohal minimaalselt.

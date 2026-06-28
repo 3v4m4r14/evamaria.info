@@ -1,6 +1,5 @@
 ---
 title: From worries to motivations
-authors: []
 date: 2020-02-14T14:49:18.000Z
 featuredImage: /assets/img/IMG_2380-scaled-e1581853932331-MhRmofcndoCx.jpeg
 summary: "Lately, I have been feeling dissatisfied. Restless. Anxious. Worried. Worn."
@@ -16,7 +15,7 @@ tags:
   - research
   - self-development
   - stress
-permalink: "/posts/wordpress-from-worries-to-motivations/index.html"
+permalink: "/posts/from-worries-to-motivations/index.html"
 ---
 Lately, I have been feeling dissatisfied. Restless. Anxious. Worried. Worn.
 

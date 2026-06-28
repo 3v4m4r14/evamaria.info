@@ -1,6 +1,5 @@
 ---
 title: Driving in Slush
-authors: []
 date: 2020-01-21T18:01:53.000Z
 featuredImage: /assets/img/IMG_0800-scaled-VL0Of79HA4w9.jpeg
 summary: "My Slush certificate came in. It states that I did good in my volunteer position. While I agree with them that I was, indeed, excellent and maybe even surpassed my capabilities..."
@@ -9,7 +8,7 @@ categories:
   - Opinion
 tags:
   - volunteer
-permalink: "/posts/wordpress-driving-in-slush/index.html"
+permalink: "/posts/driving-in-slush/index.html"
 ---
 My Slush certificate came in. It states that I did good in my volunteer position. While I agree with them that I was, indeed, excellent and maybe even surpassed my capabilities as a member of the Drivers team, I do feel that I should mention some things in regard to Slush and volunteering there in general.
 

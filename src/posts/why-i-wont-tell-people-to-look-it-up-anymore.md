@@ -1,22 +1,14 @@
 ---
 title: Why I won&#8217;t tell people to &#8220;look it up&#8221;​ anymore
-authors: []
 date: 2019-03-21T14:24:32.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/pexels-photo-221164.jpeg?fit=3375%2C2250&ssl=1
-  media:
-    featuredImage: /assets/img/pexels-photo-221164-HPwaCg2dTwpV.jpeg
-  categories:
-    - Opinion
-  tags:
-    - faq
-    - search
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=58
-  type: wordpress
-  url: https://evamaria.info/why-i-wont-tell-people-to-look-it-up-anymore/
+featuredImage: /assets/img/pexels-photo-221164-HPwaCg2dTwpV.jpeg
+summary: "Yesterday, somebody asked me what a hermit crab is. I told them to look it up."
+categories:
+  - Opinion
 tags:
-  - opinion
+  - faq
+  - search
+permalink: "/posts/why-i-wont-tell-people-to-look-it-up-anymore/index.html"
 ---
 Yesterday, somebody asked me what a hermit crab is. I told them to **look it up**.
 

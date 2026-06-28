@@ -1,26 +1,17 @@
 ---
 title: 'MBSR 3: How I achieved a state of no bones'
-authors: []
 date: 2020-02-20T12:32:41.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/rain-vid.gif?fit=640%2C360&ssl=1
-  media:
-    featuredImage: /assets/img/rain-vid-2hqx7kO2bzFu.gif
-  categories:
-    - MBSR
-    - Self
-  tags:
-    - body
-    - MBSR
-    - mind
-    - mindfulness
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=532
-  type: wordpress
-  url: https://evamaria.info/mbsr-3-how-i-achieved-a-state-of-no-bones/
+featuredImage: /assets/img/rain-vid-2hqx7kO2bzFu.gif
+summary: "Body scan for pain relief"
+categories:
+  - MBSR
+  - Self
 tags:
-  - mbsr
-  - self
+  - MBSR
+  - body
+  - mind
+  - mindfulness
+permalink: "/posts/mbsr-3-how-i-achieved-a-state-of-no-bones/index.html"
 ---
 ##### aka Body scan for pain relief
 

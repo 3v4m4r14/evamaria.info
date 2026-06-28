@@ -1,32 +1,21 @@
 ---
 title: IKEA iseseisva elu stardipakk
-authors: []
 date: 2024-10-01T12:59:04.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2024/10/IMG_7292-scaled-e1727798400631.jpeg?fit=2560%2C1361&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_7292-scaled-e1727798400631-YAww1nkVACQ8.jpeg
-  categories:
-    - Opinion
-    - Product
-    - Psychology
-    - UX
-  tags:
-    - analysis
-    - ikea
-    - life
-    - marketing
-    - product
-    - psychology
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1812
-  type: wordpress
-  url: https://evamaria.info/ikea-iseseisva-elu-stardipakk/
+featuredImage: /assets/img/IMG_7292-scaled-e1727798400631-YAww1nkVACQ8.jpeg
+summary: "Komistasin viimati IKEAs lihapalle mugimas käies uue toote otsa: iseseisva elu stardipakk. Komplekt koosneb hoiukastist ja erinevatest köögitarvikutest: potid-pannid, taldrikud-..."
+categories:
+  - Opinion
+  - Product
+  - Psychology
+  - UX
 tags:
-  - opinion
+  - analysis
+  - ikea
+  - life
+  - marketing
   - product
   - psychology
-  - ux
+permalink: "/posts/ikea-iseseisva-elu-stardipakk/index.html"
 ---
 Komistasin viimati IKEAs lihapalle mugimas käies uue toote otsa: [iseseisva elu stardipakk](https://www.ikea.com/us/en/campaigns/starting-college/cooking-and-eating-essentials-pubf948e7f0). Komplekt koosneb hoiukastist ja erinevatest köögitarvikutest: potid-pannid, taldrikud-kausid-klaasid, söögiriistad, lõikelauad, rätikud ja muu mant. Kus selline stardipakk siis oli, kui mina ühikasse kolisin? Ah jah, meil polnud siis veel IKEAtki. Igatahes, IKEA stardipakk kasutab edukalt ära mõningaid tootepsühholoogia võtteid, nagu näiteks…
 

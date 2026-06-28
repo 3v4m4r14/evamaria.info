@@ -1,27 +1,18 @@
 ---
 title: Life is a bowl of cherries
-authors: []
 date: 2023-12-25T15:49:47.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2023/12/cherry.jpeg?fit=1024%2C1024&ssl=1
-  media:
-    featuredImage: /assets/img/cherry-lz5znIRWvYX6.jpeg
-  categories:
-    - Random
-    - Self
-  tags:
-    - body
-    - headache
-    - partner
-    - stain
-    - stress
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1743
-  type: wordpress
-  url: https://evamaria.info/life-is-just-a-bowl-of-cherries/
+featuredImage: /assets/img/cherry-lz5znIRWvYX6.jpeg
+summary: "I had a headache the other day. A massive headache. A headache so bad I could not remember the last time I had such an awful headache. Possibly a migraine, a first for me. In an..."
+categories:
+  - Random
+  - Self
 tags:
-  - random
-  - self
+  - body
+  - headache
+  - partner
+  - stain
+  - stress
+permalink: "/posts/life-is-a-bowl-of-cherries/index.html"
 ---
 I had a headache the other day. A massive headache. A headache so bad I could not remember the last time I had such an awful headache. Possibly a migraine, a first for me. In any case, it was bad.
 

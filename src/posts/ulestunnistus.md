@@ -1,21 +1,10 @@
 ---
 title: Ülestunnistus
-authors: []
 date: 2020-10-03T11:14:44.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/10/IMG_0794-scaled.jpeg?fit=1920%2C2560&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_0794-scaled-S0YmC3F4r23M.jpeg
-  categories:
-    - Opinion
-    - Writing
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=950
-  type: wordpress
-  url: https://evamaria.info/ulestunnistus/
+featuredImage: /assets/img/IMG_0794-scaled-S0YmC3F4r23M.jpeg
+summary: "_Essay from April 2015 submitted to a competition by Metsaülikool and published in a collection of articles in 2020._"
 tags:
-  - opinion
-  - writing
+permalink: "/posts/ulestunnistus/index.html"
 ---
 _Essay from April 2015 submitted to a competition by Metsaülikool and published in a collection of articles in 2020._
 

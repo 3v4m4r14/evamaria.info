@@ -7,7 +7,7 @@ categories:
   - Mind
   - Self
 tags:
-permalink: "/posts/wordpress-dont-fix-what-aint-broken/index.html"
+permalink: "/posts/dont-fix-what-aint-broken/index.html"
 ---
 Have you ever held a perfectly fine pencil, about to write something down, and thought, “You know what? This pencil is too blunt. I shall sharpen it!”? When you proceed to sharpen the pencil, the graphite keeps breaking and breaking and, honestly, the pencil was not even that blunt when you picked it up. You could have easily used it to mark down whatever was on your mind. But now you have invested time and effort in sharpening the damn pencil and you refuse to give up, even though you have forgotten about why you needed the pencil in the first place.
 

@@ -1,25 +1,17 @@
 ---
-title: Welcome to every researcher&#8217;s worst nightmare
-authors: []
+title: Welcome to every researcher's worst nightmare
 date: 2020-05-10T13:06:22.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/05/d4329ef1-a9a3-4644-8b70-08c4fd5cac05.jpeg?fit=658%2C651&ssl=1
-  media:
-    featuredImage: /assets/img/d4329ef1-a9a3-4644-8b70-08c4fd-hO8NCnsj04sx.jpeg
-  categories:
-    - Opinion
-  tags:
-    - critique
-    - design
-    - research
-    - survey
-    - user
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=776
-  type: wordpress
-  url: https://evamaria.info/welcome-to-every-researchers-worst-nightmare/
+featuredImage: /assets/img/d4329ef1-a9a3-4644-8b70-08c4fd-hO8NCnsj04sx.jpeg
+summary: "Surveys are a tricky data collection method. On the one hand, they enable reaching thousands of people and gathering a magnitude of data in a short timeframe. On the other hand,..."
+categories:
+  - Opinion
 tags:
-  - opinion
+  - critique
+  - design
+  - research
+  - survey
+  - user
+permalink: "/posts/welcome-to-every-researchers-worst-nightmare/index.html"
 ---
 Surveys are a tricky data collection method. On the one hand, they enable reaching thousands of people and gathering a magnitude of data in a short timeframe. On the other hand, they rarely capture the information they ought to. The reason for that is often bad design.
 

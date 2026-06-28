@@ -1,21 +1,10 @@
 ---
 title: Lebensgefährte
-authors: []
 date: 2021-05-14T15:03:40.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2021/05/IMG_2232-scaled.jpeg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_2232-scaled-Dz1GZNRnoQJJ.jpeg
-  categories:
-    - Poetry
-    - Writing
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1229
-  type: wordpress
-  url: https://evamaria.info/lebensgefahrte/
+featuredImage: /assets/img/IMG_2232-scaled-Dz1GZNRnoQJJ.jpeg
+summary: "Kui kunstisaalis käisin viimati ma võõras linnas,  \nsiis rahva hulgas märkasin üht halli peaga memme.  \nPicasso maali ees ta üksi seisis pikalt-pikalt,  \nimetledes pintslitõmbei..."
 tags:
-  - poetry
-  - writing
+permalink: "/posts/lebensgefahrte/index.html"
 ---
 Kui kunstisaalis käisin viimati ma võõras linnas,  
 siis rahva hulgas märkasin üht halli peaga memme.  

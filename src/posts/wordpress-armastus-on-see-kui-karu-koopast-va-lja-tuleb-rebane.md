@@ -1,9 +1,9 @@
 ---
 title: "Armastus on see, kui karu koopast välja tuleb rebane"
 date: "2024-04-24T00:00:00.000Z"
-summary: "Armastus on:"
+summary: "Armastus on"
 tags:
-permalink: "/posts/wordpress-armastus-on-see-kui-karu-koopast-va-lja-tuleb-rebane/index.html"
+permalink: "/posts/armastus-on-see-kui-karu-koopast-valja-tuleb-rebane/index.html"
 ---
 
 Armastus on:

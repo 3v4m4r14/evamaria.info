@@ -1,29 +1,19 @@
 ---
 title: Maybe so, maybe not
-authors: []
 date: 2020-02-18T18:13:44.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_1979.png?fit=4032%2C2268&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_1979-ElZOQEBpHtC4.png
-  categories:
-    - MBSR
-    - Mind
-    - Self
-  tags:
-    - life
-    - MBSR
-    - mind
-    - mindfulness
-    - self-development
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=527
-  type: wordpress
-  url: https://evamaria.info/maybe-so-maybe-not/
+featuredImage: /assets/img/IMG_1979-ElZOQEBpHtC4.png
+summary: "There is an old Zen Buddhist story about how we tend to see events as either good or bad, not simply neutral happenings in life as a bigger whole. I have copied the story at the..."
+categories:
+  - MBSR
+  - Mind
+  - Self
 tags:
-  - mbsr
+  - MBSR
+  - life
   - mind
-  - self
+  - mindfulness
+  - self-development
+permalink: "/posts/maybe-so-maybe-not/index.html"
 ---
 There is an old Zen Buddhist story about how we tend to see events as either good or bad, not simply neutral happenings in life as a bigger whole. I have copied the story at the end of this post and I encourage you all to read it because what happened to me today was literally the same.
 

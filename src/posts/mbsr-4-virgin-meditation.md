@@ -1,29 +1,19 @@
 ---
 title: 'MBSR 4: Virgin meditation'
-authors: []
 date: 2020-02-23T05:20:00.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/02/IMG_2592-scaled.jpeg?fit=2560%2C1440&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_2592-scaled-GAqurvm1gwWK.jpeg
-  categories:
-    - MBSR
-    - Mind
-    - Self
-  tags:
-    - body
-    - MBSR
-    - mind
-    - mindfulness
-    - self-development
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=544
-  type: wordpress
-  url: https://evamaria.info/mbsr-4-virgin-meditation/
+featuredImage: /assets/img/IMG_2592-scaled-GAqurvm1gwWK.jpeg
+summary: "I find it fascinating how the mind tricks us. When I close my eyes and meditate for 30 minutes, all sorts of peculiar things happen."
+categories:
+  - MBSR
+  - Mind
+  - Self
 tags:
-  - mbsr
+  - MBSR
+  - body
   - mind
-  - self
+  - mindfulness
+  - self-development
+permalink: "/posts/mbsr-4-virgin-meditation/index.html"
 ---
 I find it fascinating how the mind tricks us. When I close my eyes and meditate for 30 minutes, all sorts of peculiar things happen.
 

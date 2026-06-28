@@ -6,7 +6,7 @@ summary: "I received this beautiful pink see-through day curtain material the ot
 categories:
   - Random
 tags:
-permalink: "/posts/wordpress-how-to-hang-curtains-the-clever-way/index.html"
+permalink: "/posts/how-to-hang-curtains-the-clever-way/index.html"
 ---
 I received this beautiful pink see-through day curtain material the other day. It was a perfect match with my pink bedsheet and the pink decorative pillow that I had been given by a girl moving out of the housing complex. I knew it would be a great complimentary item to my room.
 

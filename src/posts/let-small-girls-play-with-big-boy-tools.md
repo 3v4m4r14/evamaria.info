@@ -1,22 +1,14 @@
 ---
 title: Let small girls play with big boy tools
-authors: []
 date: 2019-04-16T04:47:11.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/a562dd4c-a170-4a8a-b3c1-229dc43037f6.jpg?fit=1600%2C1200&ssl=1
-  media:
-    featuredImage: /assets/img/a562dd4c-a170-4a8a-b3c1-229dc4-Wi21jKmpuvtq.jpg
-  categories:
-    - Opinion
-  tags:
-    - self-development
-    - woodwork
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=54
-  type: wordpress
-  url: https://evamaria.info/let-small-girls-play-with-big-boy-tools/
+featuredImage: /assets/img/a562dd4c-a170-4a8a-b3c1-229dc4-Wi21jKmpuvtq.jpg
+summary: "When Kasper invited me over to help with building stage decor and said that my task would be playing around with a jigsaw, I had pictured sitting on a clean floor, putting toget..."
+categories:
+  - Opinion
 tags:
-  - opinion
+  - self-development
+  - woodwork
+permalink: "/posts/let-small-girls-play-with-big-boy-tools/index.html"
 ---
 When Kasper invited me over to help with building stage decor and said that my task would be playing around with a jigsaw, I had pictured sitting on a clean floor, putting together nice puzzle pieces. You can only imagine my surprise when I was handed a humongous wooden board and an actual power tool. Plus, when we ended, the floor was far from clean.
 

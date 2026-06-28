@@ -6,7 +6,7 @@ summary: "On the eve of June 6, I ordered sushi. I deserved it. I was about to g
 categories:
   - Event
   - Random
-permalink: "/posts/wordpress-best-birthday-ever/index.html"
+permalink: "/posts/best-birthday-ever/index.html"
 ---
 On the eve of June 6, I ordered sushi. I deserved it. I was about to get a year older. Quarter of a century – that’s a landmark to celebrate, they said.
 

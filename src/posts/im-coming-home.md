@@ -2,20 +2,13 @@
 title: I&#8217;m coming home
 authors: []
 date: 2020-08-18T16:53:09.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2020/08/IMG_0377-scaled.jpeg?fit=2560%2C1920&ssl=1
-  media:
-    featuredImage: /assets/img/IMG_0377-scaled-sUJoqL4nIl7V.jpeg
-  categories:
-    - Random
-    - Self
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=882
-  type: wordpress
-  url: https://evamaria.info/im-coming-home/
+featuredImage: /assets/img/IMG_0377-scaled-sUJoqL4nIl7V.jpeg
+summary: "Only a few things are better than sitting alone on my bed in front of an open window in my tiny studio in Amsterdam, watching the sun set behind the railway and a countless numb..."
+categories:
+  - Random
+  - Self
 tags:
-  - random
-  - self
+permalink: "/posts/im-coming-home/index.html"
 ---
 Only a few things are better than sitting alone on my bed in front of an open window in my tiny studio in Amsterdam, watching the sun set behind the railway and a countless number of aeroplanes descend behind the three wind turbines, listening to crickets singing outside. These are moments of peace, serenity, and reflection for me. They truly make me appreciate the journey I am on, the opportunities I have seized, and the experiences I have had. But if this is all so nice then how come my heart still wants to return home to Estonia?
 
