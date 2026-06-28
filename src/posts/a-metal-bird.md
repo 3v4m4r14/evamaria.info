@@ -11,6 +11,7 @@ tags:
   - photography
   - poetry
 ---
+
 A metal bird makes one last turn  
 as the final rays of a setting star  
 glance over its wings  

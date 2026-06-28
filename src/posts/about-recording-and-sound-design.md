@@ -1,27 +1,20 @@
 ---
 title: About Recording And Sound Design
-authors: []
 date: 2019-04-12T11:05:44.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/09/55752545_529367050926329_4026940871210434560_n.png?fit=1440%2C900&ssl=1
-  media:
-    featuredImage: assets/55752545_529367050926329_40269-acWiYNrUOJWA.png
-  categories:
-    - Project
-  tags:
-    - audio
-    - design
-    - project
-    - recording
-    - sound
-    - storytelling
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=38
-  type: wordpress
-  url: https://evamaria.info/about-recording-and-sound-design/
+featuredImage: assets/55752545_529367050926329_40269-acWiYNrUOJWA.png
+summary: "Getting to the end result of an audio design project is no piece of cake."
+permalink: "/posts/wordpress-about-recording-and-sound-design/index.html"
+categories:
+  - Project
 tags:
+  - audio
+  - design
   - project
+  - recording
+  - sound
+  - storytelling
 ---
+
 People behave in different ways when being recorded.
 
 Some prefer sitting down. Others get a more powerful voice when standing up, supported only by their own two feet.
@@ -66,9 +59,9 @@ After all this, you end up with an audio story.
 
 ###### Read the full story:
 
-[In English](https://evamaria.info/the-wildflower/)
+[In English](/pages/the-wildflower/index.html)
 
-[IN ESTONIAN](http://rattus303.weebly.com/lilleke.html)
+[In Estonian](http://rattus303.weebly.com/lilleke.html)
 
 ### Sounds from other artists
 

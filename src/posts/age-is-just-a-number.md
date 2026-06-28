@@ -1,26 +1,18 @@
 ---
 title: Age is just a number
-authors: []
 date: 2024-02-13T16:29:14.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2024/02/CA0154D9-B6AA-4A30-A7AA-9860502070A9.jpeg?fit=1440%2C1799&ssl=1
-  media:
-    featuredImage: assets/CA0154D9-B6AA-4A30-A7AA-986050-6J5AZc5aT4gz.jpeg
-  categories:
-    - Opinion
-    - Self
-  tags:
-    - age
-    - body
-    - life
-  uuid: 11ty/import::wordpress::https://evamaria.info/?p=1750
-  type: wordpress
-  url: https://evamaria.info/age-is-just-a-number/
+featuredImage: assets/CA0154D9-B6AA-4A30-A7AA-986050-6J5AZc5aT4gz.jpeg
+summary: "In the past couple of weeks, two people have considered me older than I am. Should I be offended?"
+permalink: "/posts/wordpress-age-is-just-a-number/index.html"
+categories:
+  - Opinion
+  - Self
 tags:
-  - opinion
-  - self
+  - age
+  - body
+  - life
 ---
+
 In the past couple of weeks, two people have considered me older than I am. Should I be offended?
 
 The truth is, I do not pay much attention to age. I have always been horrible at estimating the age of others and I constantly forget my own. Whenever someone asks my age, I need to calculate it using my birth year which is one of the few things I remember (my birthday is a memorable number combination). Some find it weird that I cannot recall my current age without sophisticated mental gymnastics. Then again, years change all the time – who has the time to keep count? My birth year is the only one that stays the same.

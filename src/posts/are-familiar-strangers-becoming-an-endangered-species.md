@@ -2,25 +2,19 @@
 title: Are Familiar Strangers Becoming an Endangered Species?
 authors: []
 date: 2019-11-03T17:31:54.000Z
-metadata:
-  featuredImage: >-
-    https://i0.wp.com/evamaria.info/wp-content/uploads/2019/11/IMG_0519.jpeg?fit=4032%2C3024&ssl=1
-  media:
-    featuredImage: assets/IMG_0519-0uUa43X4YXlW.jpeg
-  categories:
-    - Opinion
-  tags:
-    - paper
-    - public
-    - review
-    - stranger
-    - thoughts
-  uuid: 11ty/import::wordpress::http://evamaria.info/?p=372
-  type: wordpress
-  url: https://evamaria.info/are-familiar-strangers-becoming-an-endangered-species/
+featuredImage: assets/IMG_0519-0uUa43X4YXlW.jpeg
+summary: "According to the paper \"_The Familiar Stranger: Anxiety, Comfort, and Play in Public Spaces_\" by Eric Paulos and Elizabeth Goodman \\[1\\], Familiar Strangers are people we regula..."
+categories:
+  - Opinion
 tags:
-  - opinion
+  - paper
+  - public
+  - review
+  - stranger
+  - thoughts
+permalink: "/posts/wordpress-are-familiar-strangers-becoming-an-endangered-species/index.html"
 ---
+
 According to the paper “_The Familiar Stranger: Anxiety, Comfort, and Play in Public Spaces_” by Eric Paulos and Elizabeth Goodman \[1\], Familiar Strangers are people we regularly encounter during our daily activities in public spaces, yet never interact with directly. They are people who wait alongside us at the bus station, do their groceries the same time as us, and eat their lunch at the same café as us. Most Familiar Strangers are tied to certain places (and perhaps times).
 
 Familiar Strangers lie somewhere in between complete strangers and people we know. We acknowledge their existence and recognise when they are missing from their usual place and time. Yet we do not feel overly worried for we simply do not know enough about them to care, as harsh as it may sound.
